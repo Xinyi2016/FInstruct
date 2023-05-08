@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the rolling 24-month tracking error between the global small-cap composite and the MSCI ACWI Index and MSCI ACWI Small Cap Indexes and determine which index would be a better benchmark for our fund.",
+    "output": "After analyzing the rolling 24-month tracking error, it appears that the global small-cap composite consistently has a lower tracking error compared to both the MSCI ACWI Index and MSCI ACWI Small Cap Indexes. Therefore, the global small-cap composite may be a better benchmark for our fund.",
+    "quality": 0
+}

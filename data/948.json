@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the news volume of GameStop and MicroStrategy and identify the event that caused an increase in MicroStrategy's news volume.",
+    "output": "GameStop had a much higher news volume compared to MicroStrategy. However, on February 8th, MicroStrategy's news volume spiked due to the announcement of Tesla's purchase of $1.5 billion in bitcoin and its plan to accept the cryptocurrency as payment for its vehicles.",
+    "quality": 0
+}

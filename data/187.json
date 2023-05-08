@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the method used to classify students into higher- or lower-achieving and more or less socially central.",
+    "output": "Students are classified into higher- or lower-achieving types based on their admission score relative to the cell-specific median within the same school, grade, and gender. Those with an admission score above the median are classified as higher-achieving, while those with a score below the median are classified as lower-achieving. Students are also classified as either less socially central or more socially central based on their eigenvector centrality within their social network. Those with a centrality above the median are classified as more socially central, while those with a centrality below the median are classified as less socially central. The analysis of social centrality focuses on the 2015 and 2016 cohorts, as social network surveys were not available for students who enrolled in 2017.",
+    "quality": 0
+}

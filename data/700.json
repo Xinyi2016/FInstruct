@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the exhibit below which plots the maximum level of VXEEM and the monthly aggregate EM futures volume less the previous three-month average futures volume. Draw conclusions regarding the link between EM volatility and liquidity.",
+    "output": "Based on the exhibit below, we observed that there is a clear relationship between EM volatility and liquidity. Our findings indicate that there is a positive correlation between futures volume and implied volatility, with a spike in futures volume coinciding with a spike in implied volatility. This reinforces the idea that investors viewed futures trading as an effective tool for managing risk during periods of market uncertainty. Therefore, it can be concluded that EM futures trading is an important source of liquidity during times of volatility in the emerging markets. \n\nExhibit: \nMaximum level of VXEEM\nMonthly aggregate EM futures volume less the previous three-month average futures volume",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the market value median of MSCI Global Investable Market Index and the green and fossil fuel index components' market value medians during our evaluation period.",
+    "output": "During our evaluation period, we found that the market value median of MSCI Global Investable Market Index remained relatively stable. However, we observed that the market value median of the green index component increased while the fossil fuel index component's market value median decreased. The graph below shows that since May 2019, the market value median of the green index component has surpassed that of the fossil fuel index component, and this trend is ongoing. There could be several reasons for this trend, but we noticed that the number of institutional investors committed to divesting from fossil fuel companies exceeded 1,000 at the end of 2018 and is expected to increase in the coming years.",
+    "quality": 0
+}

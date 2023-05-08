@@ -1,0 +1,5 @@
+{
+    "instruction": "Please summarize the performance of the MSCI Climate Indexes.",
+    "output": "Based on our observations, MSCI Climate Indexes that had tighter controls over sector exposures, such as the MSCI ACWI Low Carbon Leaders and ACWI Low Carbon Target, outperformed other MSCI Climate Indexes that had larger underweights for energy-sector companies. Additionally, emerging markets (EM) climate indexes showed more resilience relative to the developed-market indexes, driven by the underperformance of the energy sector in EM compared to the MSCI Emerging Markets index by 4.1%. However, the underperformance of the MSCI EM Climate Change and EM Climate Paris Aligned indexes was contributed primarily by the relative outperformance of companies with low valuations.",
+    "quality": 0
+}

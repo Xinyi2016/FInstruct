@@ -1,0 +1,5 @@
+{
+    "instruction": "Develop an algorithmic approach to measure the importance of single products and sectors for a country to export a specific target product in a given amount of years.",
+    "output": "The proposed algorithmic approach is based on a highly predictive machine learning method to measure the importance of single products and sectors for a country to export a specific target product in a given amount of years. The link between starting and target products will be quantified by using the feature importance, a key tool of supervised machine learning algorithms which allows a clear interpretation of the outputs.",
+    "quality": 0
+}

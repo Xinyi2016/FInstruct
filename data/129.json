@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of volatility clustering in financial time-series data.",
+    "output": "Volatility clustering is one of the most important stylised facts in financial time-series data. It refers to the tendency of large changes in asset prices to be followed by large changes, and small changes to be followed by small changes. This means that periods of low volatility, with small price changes, are irregularly interchanged with periods of high volatility, with large price changes. This phenomenon has been observed in a wide variety of financial assets, including stocks, market indices, exchange rates, and interest rate securities. The exact cause of volatility clustering is still a subject of debate, but it has been linked to the arrival of random \"news\" about economic fundamentals.",
+    "quality": 0
+}

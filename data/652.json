@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the concept of senior non-preferred bonds and their recovery risk.",
+    "output": "Senior non-preferred (SNP) bonds are a new layer of debt that too-big-to-fail European banks have started issuing in response to changing regulations. These bonds are required to be written down to absorb losses, and their recovery rates differ from those of traditional senior debt. Our analysis suggests an increased sensitivity during market stress, which means that investors in senior debt may wish to consider SNP bonds\u2019 additional recovery risk \u2014 i.e., uncertainty over the recovery rate in case of a default. While senior bonds are usually the last to be written down in the event of a default, this protection doesn\u2019t extend to SNP bonds.",
+    "quality": 0
+}

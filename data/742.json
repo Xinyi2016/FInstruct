@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how MSCI's private-equity model estimates the current value of private equity investments?",
+    "output": "MSCI's private-equity model uses factors observable in the public markets to estimate the current value of private equity investments. It combines Burgiss\u2019 private-equity data set and MSCI\u2019s multi-asset-class factors using statistical techniques to model the underlying value. The model interprets the dynamics of private equity as driven by both \u201cprivate\u201d and \u201cequity\u201d with exposures to many of the systematic factors driving the public markets, as well as to diversifying private-market factors. The model's estimates for the current value of U.S. large-buyout funds during the COVID-19 crisis are shown in the figures below, which are compared to valuations during the 2008 global financial crisis.",
+    "quality": 0
+}

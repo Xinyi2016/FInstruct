@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how investors access emerging markets through a basket of liquid local futures contracts.",
+    "output": "Due to the lack of liquidity in fully replicating indexes linked to EM, investors commonly use a basket of liquid local futures contracts to access emerging markets as a whole or hedge out EM risk. For example, using the MSCI Emerging Markets Long-term Risk Model, we can create a hypothetical optimized basket of the largest EM country markets (represented by indexes here, with no embedded currency exposure) to track the MSCI Emerging Markets Index (100% currency-unhedged index). This allows investors to invest in emerging markets without being exposed to the risks of individual countries or currency fluctuations.",
+    "quality": 0
+}

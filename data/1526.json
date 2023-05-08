@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the purpose of the Securities and Exchange Commission's proposed liquidity rule and how it will benefit investors.",
+    "output": "The Securities and Exchange Commission's proposed liquidity rule would standardize liquidity classification for open-end funds in order to promote comparability across different markets. Funds' liquidity profiles would be made public, which would allow investors to better assess the liquidity of funds and compare them across different markets. While the proposal offers a reasonable middle ground for comparing the absolute liquidity of funds across asset classes, it may offer less differentiation within the same sector, and may not accurately reflect weakening liquidity during market stress.",
+    "quality": 0
+}

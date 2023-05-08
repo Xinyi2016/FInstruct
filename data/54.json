@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the findings of the study on the impact of digital credit on subjective well-being.",
+    "output": "The study found that access to digital credit has a substantial positive impact on subjective well-being, increasing it by 0.281 standard deviations. However, the amount of credit allowed to access has a very small and statistically insignificant effect on subjective well-being. The study measured subjective well-being using a summary index that takes into account self-reported life satisfaction and a standardized measure of depression, the Patient Health Questionnaire-9 (PHQ-9). The positive effect of loan access on subjective well-being is driven by the PHQ-9 score, with applicants allowed to borrow reporting being less depressed and feeling less likely to suffer from poor appetite or overeating. The study also found small effects on other components of the PHQ-9, although most of these were only significant at the 10% level after multiple hypothesis testing adjustments.",
+    "quality": 0
+}

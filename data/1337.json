@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the exhibit below and provide an explanation of how exposure to property types and geographies can differ when measured by remaining income instead of capital value.",
+    "output": "The exhibit below shows the weight of remaining income by property type and country across PEPFI, providing insight into the proportion of the contracted rental income derived from a particular sector-geography pair. In many countries, exposure to industrial and retail was higher when measured by remaining income than by capital value, while the opposite was often true for residential and office properties. Consistently higher exposures to remaining income were observed in countries such as the U.K., Spain, and Italy, across all property types, while France and Germany saw significantly less weight to income than capital value. This can be attributed to yield and lease length, which vary by property type and country and determine the relationship between remaining income and capital value.",
+    "quality": 0
+}

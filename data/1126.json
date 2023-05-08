@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide an update on how your team is addressing the \"tough legacy\" exposures in the LIBOR transition?",
+    "output": "As we discussed in our previous blog post on this topic, about one-third of total current LIBOR exposures will mature after the announced timetable for LIBOR cessation, including most of the securitized-product segments. Our team is currently working on developing alternative reference rates and working with clients to transition away from LIBOR. However, we recognize that these \"tough legacy\" exposures remain a difficult challenge of the LIBOR transition, and we are exploring all available options to address them.",
+    "quality": 0
+}

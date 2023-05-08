@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the source of uncertainty about the fully-optimal salary and how it is measured.",
+    "output": "The source of uncertainty about the fully-optimal salary is the worker\u2019s productivity. Two proxies of productivity are used: worker experience and educational attainment. Worker experience is calculated as the potential experience minus the number of years spent in higher education and minus 18 (the age at which a person can legally work). Higher values of these variables are associated with higher average earnings and increases in earnings dispersion, suggesting that firms might face more uncertainty about the fully-optimal wage when hiring more productive workers.",
+    "quality": 0
+}

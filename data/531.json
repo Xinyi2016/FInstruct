@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain how investors can use loan-level data to identify differences in default rates between two pools of loans.",
+    "output": "Investors can use loan-level data to identify differences in default rates between two pools of loans by analyzing the characteristics of the loans in each pool. For example, investors can look at the percentage of weaker loans in each pool and the loan-to-value (LTV) ratio of the loans. If one pool has a higher percentage of weaker loans and a higher LTV ratio, it is likely to have a higher default rate. By analyzing this data, investors can make informed decisions about which pool of loans to invest in.",
+    "quality": 0
+}

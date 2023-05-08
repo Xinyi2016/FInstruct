@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the distributional consequences of an MPS and the impact of an MPS on factor prices.",
+    "output": "An MPS (merger, productivity shock, or any other form of industry disruption) can have significant distributional consequences. It can lead to a lower factor share, as industry concentration increases and firms become more heterogeneous. This results in lower factor prices, as equation (15) highlights. However, aggregate TFP is likely to increase after an MPS, as large, high productivity firms become even more productive and increase their market shares. This pushes the factor price index up, as equation (21) shows. The impact of an MPS on factor prices depends on the relative strength of these two forces. Proposition 4 specifies the result from Proposition 1 when the comparative statics is an MPS of productivities.",
+    "quality": 0
+}

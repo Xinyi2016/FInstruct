@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide an overview of how MSCI ESG Indexes use a sector-inclusive methodology to select companies with higher ESG ratings than their industry peers?",
+    "output": "MSCI ESG Indexes use a sector-inclusive methodology to select companies with higher ESG ratings than their industry peers, rather than excluding whole sectors. This approach can help to mitigate the influence of individual sectors on index returns. The weightings of the oil, gas and consumable fuels industry in the MSCI ESG Indexes were lower than in the parent index, with an average of -0.92% in 2021. However, the active returns for the industry factors were small, varying between -0.61% and -0.09%, and the higher weights in semiconductors and lower weights in airlines, aerospace and defense compensated for almost all the losses from the lower exposures to oil, gas and consumable fuels.",
+    "quality": 0
+}

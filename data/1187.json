@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how factor modeling and factor investing were developed in equity markets?",
+    "output": "Sure, factor modeling and factor investing were developed in equity markets based on the capital asset-pricing model of the mid\u20101960s, the arbitrage pricing theory in the 1970s, and Fama and French\u2019s three\u2010factor model from the early 1990s. These models helped to establish characteristics, or factors, that explain the risk and return performance of an asset. Early factors included size and value, but additional factors have been added to explain the variation in equity returns and risks. In order to test the feasibility of asset-level style factors for real estate, cross-sectional regression techniques employed in equities were borrowed to construct the five factors in the table below.",
+    "quality": 0
+}

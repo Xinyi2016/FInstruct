@@ -1,0 +1,5 @@
+{
+    "instruction": "Evaluate the risk level of a long-horizon investment using short-horizon risk measures.",
+    "output": "While short-horizon risk measures can provide insights into the drawdown risk of a long-horizon investment, one must be cautious of the potential overestimation of long-run risk. These measures fail to incorporate the possibility of market recovery and may lead to a distorted perception of long-term risks. Therefore, it is crucial to supplement these measures with other risk management tools that consider long-term market fluctuations, economic conditions, and company-specific factors to paint a more accurate picture of the investment's risk profile.",
+    "quality": 0
+}

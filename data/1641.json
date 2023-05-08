@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an analysis on the trend in options trading volume and maturities in recent years.",
+    "output": "Over the past four years, there has been a notable increase in options trading volume, with volumes more than doubling in 2022 compared to 2019. Investors have also shifted towards options with shorter maturities, from monthly to weekly and now to daily options. It is interesting to note that options with maturities of less than one day have seen a significant increase in trading volume, from 12.5% in 2019 to 24% in 2022. This trend could reflect higher demand from yield-seeking investors and intraday traders. However, there are concerns about the potential for increased volatility in equity markets as a result of this shift towards short-dated options.",
+    "quality": 0
+}

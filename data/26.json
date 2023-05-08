@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the proposed method for computing global solutions of nonlinear, high-dimensional dynamic stochastic economic models.",
+    "output": "The proposed method is a scalable approach that addresses the challenge of the curse of dimensionality in economic policy functions by using an adaptive, high-dimensional model representation scheme combined with adaptive sparse grids. The method also introduces a performant vectorization scheme for the interpolation compute kernel and is hybrid parallelized to leverage both distributed- and shared-memory architectures. The method has been observed to achieve significant speedups over state-of-the-art techniques and has been applied to compute global solutions to two variates of a high-dimensional international real business cycle model up to 300300300300 continuous state variables.",
+    "quality": 1
+}

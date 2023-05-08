@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the last decade of research on labour dynamics using network science methods.",
+    "output": "During the last decade, research on labour dynamics has improved through the use of network science methods. This strand of research is known as Labour Flow Networks (LFNs) and uses data on employment histories to characterize the labour market as a complex network. LFN studies have revealed structural properties of the labour market with potential implications in their dynamics. Importantly, this literature differentiates itself from sociological and economic traditions focusing on the diffusion of vacancy information through social networks. Instead, LFN studies view realised labour flows as a source of information to infer structural properties of the labour market. For example, a core-periphery structure in a firm-based LFN reveals highly compartmentalised dynamics in the sense that workers need to gain employment in a core firm at some point in their career in order to flow to a different part of the periphery.",
+    "quality": 0
+}

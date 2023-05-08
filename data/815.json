@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the impact of the stress test scenarios on a portfolio with a 60/40 allocation of equities and bonds.",
+    "output": "After applying the stress test scenarios to a 60/40 portfolio of equities and bonds, we found that under the V-shaped scenario the portfolio could slightly gain. However, under the most severe L-shaped scenario, the portfolio could lose a further 24% net of what had been priced in since mid-February. Sovereign yields, oil prices, and the EUR-USD exchange rate could partially revert towards mid-February levels under the V-shaped scenario. Under the L-shaped scenario, downward pressure on the US and German sovereign yields could increase concerns about European peripheral countries' debt, ultimately weakening the Euro.",
+    "quality": 0
+}

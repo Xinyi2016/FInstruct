@@ -1,0 +1,5 @@
+{
+    "instruction": "Please review the climate-related data reported by your company and determine if Scope 1 and 2 emissions as well as Scope 3 emissions have been disclosed.",
+    "output": "After reviewing our company's climate-related data, we have found that although Scope 1 and 2 emissions have been disclosed, Scope 3 emissions have not yet been disclosed. We understand that transparency about data quality is key and will work towards improving our reporting to ensure accurate and complete disclosure. Additionally, we will consider implementing the PCAF standard's data-quality scorecard to further improve the quality of our data.",
+    "quality": 0
+}

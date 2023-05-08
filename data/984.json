@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the exposure correlations between the hedge-fund-crowding factor and existing style factors from September 2013 to January 2021.",
+    "output": "After analyzing the cross-sectional exposure correlations, we found that, with the exception of momentum and dividend yield, there were very low correlations with existing style factors. This finding is consistent with our previous research, which also highlighted the unique nature of the hedge-fund-crowding factor.",
+    "quality": 0
+}

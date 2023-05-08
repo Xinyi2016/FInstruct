@@ -1,0 +1,5 @@
+{
+    "instruction": "Using our adaptive multi-factor framework model, please analyze the current market conditions and make your decisions about tilting toward factors based on the four pillars: macro cycle, valuation, momentum and market sentiment.",
+    "output": "Based on our analysis using the adaptive multi-factor framework as of June 30, 2020, we have found that the macro cycle pillar is indicating a contraction, which has led us to overweight value, low volatility, and quality. In terms of valuation, we are overweighting value, low size, and yield. Additionally, we have selected momentum, quality, and low size for the momentum pillar based on their relative performance over the last three months. Finally, our analysis of the market sentiment pillar shows a mild overweight to momentum, value, and low size due to the current risk-on environment based on VIX term structure and the neutral environment based on credit spreads. Based on this holistic approach, we have made our decisions about tilting toward factors accordingly.",
+    "quality": 0
+}

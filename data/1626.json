@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an overview of the changes in market participants' net short futures position after the SVB banking crisis in March 2023.",
+    "output": "Following the SVB banking crisis in March 2023, investors swiftly made adjustments to their index futures exposures. Market participants who previously held a net short futures position linked to the MSCI EAFE and MSCI EM Indexes quickly reduced their short position and, instead, increased exposure to other markets. This shift in positioning was influenced by the changing market dynamics brought about by the crisis, which included an increase in market volatility and risk-aversion among investors. Overall, investors adapted quickly to the crisis and were able to reposition their futures exposure to mitigate potential losses.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the fee structure for trading on Uniswap.",
+    "output": "For every trade on Uniswap, a percentage of the trade size is paid as a trading fee. These fees are distributed pro rata among liquidity providers in the pool, with the exception of protocols that may decide to keep a portion of the fees for themselves. This portion of the fees may be diverted to the protocol\u2019s treasury or distributed among the holders of the protocol\u2019s governance token, including the team, investors, and other stakeholders. The fee structure can be changed through a governance decision, allowing for a take rate of up to 25% for Uniswap v3. The fee structure has been a topic of discussion among the Uniswap community.",
+    "quality": 0
+}

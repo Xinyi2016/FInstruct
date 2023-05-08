@@ -1,0 +1,5 @@
+{
+    "instruction": "Use MSCI Peer Similarity Scores to find the companies most similar to Tesla and compare their behavior and characteristics to decide whether to replace or liquidate it.",
+    "output": "After analyzing the MSCI Peer Similarity Scores, we found that the companies most similar to Tesla are NIO, BYD Company Ltd, Li Auto Inc., and XPeng Inc. Out of these peers, NIO had a moderately high crowding score of 1.6 as of Jan 27th. We recommend comparing the behavior and characteristics of NIO and Tesla to determine whether it would be beneficial to replace or liquidate Tesla.",
+    "quality": 0
+}

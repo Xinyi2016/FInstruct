@@ -1,0 +1,5 @@
+{
+    "instruction": "As a leader of a company, you are tasked to improve diversity and inclusion efforts in your workforce. Please review the data on companies that have reported their employee breakdowns by race or ethnicity, and gender, in the MSCI USA Investable Market Index (IMI) and identify which industry has the lowest and highest percentage of companies reporting on both categories.",
+    "output": "According to the MSCI USA IMI data, the utilities sector has the highest percentage of companies reporting employee breakdowns by race or ethnicity at 65.6% and by gender at 86.9%. On the other hand, the health care industry has the lowest percentage of companies reporting on race or ethnicity at 14.8% and on gender at 68.3%. This data highlights the need for greater transparency and standardization in reported data to better assess companies' progress in the realm of diversity and improve efforts towards creating a more inclusive workforce.",
+    "quality": 0
+}

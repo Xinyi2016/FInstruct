@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the sample restrictions used to construct the new-hires sample.",
+    "output": "The new-hires sample used in the empirical analysis is constructed using several sample restrictions. First, only workers employed by private-sector firms with a valid identification number are considered. Second, only the contracted salaries of workers admitted as new hires in each year are included. Third, workers with a reported salary below the federal monthly minimum wage are excluded. Finally, only workers who signed a monthly earnings contract are kept, excluding those who bill by the hour or per day worked. After imposing these restrictions, the sample contains information on the contracted salary of 280 million hires over 2003-2017.",
+    "quality": 0
+}

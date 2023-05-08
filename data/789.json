@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain how the MSCI GIMI methodology uses buffers to control index turnover.",
+    "output": "The MSCI GIMI methodology uses multiple buffers to restrict the inclusion, exclusion, and migration of securities between size segments. A security can remain in its current size segment if its full market capitalization falls within a buffer set below the minimum cutoff. This buffer helps control index turnover. The exhibit below illustrates how this buffer impacted turnover for select developed- and emerging-market countries.",
+    "quality": 0
+}

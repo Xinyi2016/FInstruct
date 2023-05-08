@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an update on the progress of the securitization industry in preparing for the transition from LIBOR to SOFR and the challenges that remain.",
+    "output": "The securitization industry has made significant progress in preparing for the transition from LIBOR to SOFR, but challenges remain. The Alternative Reference Rates Committee has recommended best practices for completing the cessation of USD LIBOR, set timelines for index-cessation events, and recommended fallback language for the cash market. However, for new securitizations, the lack of SOFR term rates and liquidity, as well as lack of credit sensitivity for SOFR, has hindered progress. For legacy LIBOR securitized products, creating effective fallback provisions is an ongoing challenge. With approximately USD 8.3 trillion of potentially related securitized products among the estimated USD 200 trillion of financial contracts referencing USD LIBOR, the industry is mobilized for the transition, but much work remains to be done.",
+    "quality": 0
+}

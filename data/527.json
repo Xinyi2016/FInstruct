@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain why car loans have a consistently higher default rate than SUVs and trucks.",
+    "output": "Car loans have a consistently higher default rate than SUVs and trucks due to the fact that trucks and SUVs can be used to run small businesses, which generate cash flows, and the demands for these vehicles are more inelastic than those for cars. Additionally, truck loans have shorter terms than loans for the other two vehicle types, making them less risky for lenders. Stimulus checks, unemployment benefits, and relief programs might also have helped reduce or postpone defaults during the pandemic, potentially explaining the drop in default rates observable in the subprime tiers.",
+    "quality": 0
+}

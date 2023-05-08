@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the energy consumption data for different countries and sectors.",
+    "output": "Based on the data presented, it is clear that China and the United States are the largest energy consumers across all sectors, with China being the biggest energy consumer in 10 sectors and the United States being the top consumer in 12 sectors. Other countries such as Russia, Japan, India, and South Africa also have significant energy consumption in specific sectors related to their economies. In Europe, Austria has the highest energy consumption in the fishing sector due to its dependence on imports of marine and freshwater fish, while Italy has high energy consumption in the maintenance and repair sector due to the relevance of this industry in certain sectors such as automotive.",
+    "quality": 0
+}

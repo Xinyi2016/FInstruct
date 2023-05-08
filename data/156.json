@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the central estimate of the impact of global warming and why there is low confidence in this estimate?",
+    "output": "The central estimate of the impact of global warming is negative, but the confidence interval is wide, making it difficult to place much confidence in the estimate. The wider confidence interval is due to the range of uncertainties reported by Howard and Sylvan (2020-09, 2021-07). The central estimate is higher due to positive impacts reported by Desmet and Rossi-Hansberg (2015) and Newell et\u00a0al. (2021) for substantial global warming. Enumerative studies report positive impacts of climate change due to reduced costs of heating in winter, lower cold-related mortality, and carbon dioxide fertilization. The positive impacts in Desmet and Rossi-Hansberg (2015) are in manufacturing. The \"into Siberia\" series of papers assume mobility of capital and labor. The positive impacts in Newell et\u00a0al. (2021) are in specifications that relate economic growth to the temperature level.",
+    "quality": 2
+}

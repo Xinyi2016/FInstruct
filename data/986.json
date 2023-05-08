@@ -1,0 +1,5 @@
+{
+    "instruction": "Please describe and explain the process used to rank the top-10 companies on the long and short sides in the exhibit below.",
+    "output": "The process used to rank the top-10 companies on the long and short sides in the exhibit below started with the asset weights in hedge funds\u2019 aggregated long and short portfolios from MSCI Hedge Fund Crowding data. The holding of each asset was then normalized by its weight in the MSCI ACWI Investable Market Index (IMI) which is a measure of market capitalization. This measurement was named \"weight multiple.\" The stocks were then ranked based on this metric to arrive at the top-10 companies on the long and short sides as of Dec. 31, 2020. These companies are displayed in the exhibit below.",
+    "quality": 0
+}

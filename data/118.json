@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of prominency theory in numerical cognition research.",
+    "output": "Prominency theory suggests that individuals start from a round number and sequentially refine the figure by adding and subtracting smaller round numbers until they reach a satisfactory estimate. This theory has been supported by some evidence, including studies showing that individuals are more likely to use prominent numbers in numerical judgments when they are induced to quickly make a judgment or when they are under a high cognitive load. In the context of the model, firms can refine their initial estimate of the optimal salary at some cost, similar to the notion that it is costly to obtain more precise estimates of a target value in mathematics and computer science.",
+    "quality": 0
+}

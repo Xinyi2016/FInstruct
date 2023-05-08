@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the cross-sectional volatility (CSV) of the emerging-market stock universe across three systematic factor categories and explain the contribution of each category to stock-return dispersions.",
+    "output": "The wide dispersion in performance of emerging-market stocks can be attributed to their underlying country rather than their sector or style exposure. Countries represent over 60% of the systematic factors contributing to CSVs in emerging markets, while sectors and styles are below 20%. In contrast, in developed markets, the three factor categories have similar contributions to stock-return dispersions.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Use geospatial analysis to identify high-risk real estate assets based on their location and resilience measures.",
+    "output": "Geospatial analysis combining individual property locations and detailed local data, as well as resilience measures such as flood barriers, can help investors identify high-risk assets. For example, we found that 35% of measured assets by capital value are at risk in the borough of Lewisham, even with the protection provided by the Thames Barrier in central London. By mapping flood-risk data from the U.K.\u2019s Environment Agency to 11,000-plus private real estate assets in England, we were able to assess which ones were most vulnerable to flooding. We found that, overall, 4% of the properties were in medium- to high-risk flood zones, but exposure varied widely by specific location and sector. By understanding existing and planned regional risk assessments and resilience measures, investors can better appraise present and future risk.",
+    "quality": 0
+}

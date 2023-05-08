@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you please provide an analysis of our adaptive multi-factor model for the first quarter of 2021?",
+    "output": "As of March 31, 2021, our adaptive multi-factor model showed an expansion in the macro-cycle pillar, which resulted in an overweighting of value, low size, and momentum. The valuation pillar also overweighted value, low size, and low volatility, based on the valuation gap compared to an equal-weighted factor mix in the context of nearly 30 years of a factor\u2019s history. Additionally, the momentum pillar selected value, yield, and low size, based on the last three months\u2019 relative performance. The market-sentiment pillar indicated a risk-on environment, which led to an underweight in low volatility, yield, and quality and an overweight in momentum, value, and low size. Our research has shown that taking a holistic approach to factor assessment, which encompasses macroeconomic environment, factor valuations, recent performance trends, and risk sentiment, has added value to our adaptive multi-factor model.",
+    "quality": 0
+}

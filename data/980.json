@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the process used to analyze the impact of growth bias on tracking error for U.S. value funds.",
+    "output": "To analyze the impact of growth bias on tracking error for U.S. value funds, we reselected funds with a value exposure of greater than +0.20, but added the condition that they have growth exposure of less than -0.20. These funds were called \u201cpure\u201d U.S. value funds, as they have minimal-to-negative exposure to the growth factor. Over the period of analysis, the tracking error for these \u201cpure\u201d funds was 40 basis points lower (at 2.8%) than that of the original set of value funds. The different components of tracking error \u2014 i.e., active-risk contribution from risk factors and industry- and stock-specific components \u2014 were all reduced.",
+    "quality": 0
+}

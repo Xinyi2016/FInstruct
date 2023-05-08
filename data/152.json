@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the importance of faithful LOB modeling in obtaining high-performing MM controllers.",
+    "output": "Faithful LOB modeling is crucial in obtaining high-performing MM controllers as it accounts for the empirical properties and stylized facts of market microstructure as well as the discrete nature of the LOB itself. However, most contemporary MM approaches suffer from inconsistent LOB models that lead to phantom gains under backtesting and preposterous events such as price decreases after a large buy market order. To address this, a novel weakly-consistent pure-jump market model that ensures consistent direction and timing between price dynamics and LOB dynamics has been proposed in [16]. However, this model still assumes constant order arrival intensities, which means that any effects of self- or mutual-excitation and inhibition between various types of LOB order arrivals remain unaccounted for.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of loan-level data and its importance in understanding the drivers of collateral performance.",
+    "output": "Loan-level data refers to the detailed information about individual loans that make up a mortgage-backed security (MBS) or other asset-backed security (ABS). This data can include information such as the borrower's credit score, debt-to-income ratio, loan-to-value ratio, and payment history. By analyzing loan-level data, investors can gain a more granular understanding of the performance of the underlying collateral and the factors that drive it. This can help investors make more informed investment decisions and better assess the risk associated with a particular security. In addition, loan-level data can be used to create more accurate pricing models and to identify trends in the market. Overall, the availability of loan-level data is crucial for investors who want to fully understand the performance of their investments and make sound investment decisions.",
+    "quality": 0
+}

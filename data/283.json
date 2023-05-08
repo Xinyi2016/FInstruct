@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of a spherical shell around the Earth and how it is used in debris modeling.",
+    "output": "A spherical shell around the Earth is a region between two altitude limits, typically used in debris modeling to represent the orbital shell of active satellites and debris. The shell is divided into small regions, and each region represents a specific altitude range. The production of debris from collisions may become self-sustaining if the supply of satellites is high enough for long enough. The shell of interest approach is frequently used in debris modeling, and higher fidelity models use large numbers of small regions to track individual objects.",
+    "quality": 0
+}

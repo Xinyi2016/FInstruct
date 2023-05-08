@@ -1,0 +1,5 @@
+{
+    "instruction": "Please summarize the key findings of the study.",
+    "output": "The study found that ESG ratings can be predicted from news articles by using three steps of input processing and a deep convolutional neural network model. The results showed that the cluster-based timeseries have a significant impact on the performance of the ESG prediction and that the model performs better on small cap companies than on larger ones.",
+    "quality": 0
+}

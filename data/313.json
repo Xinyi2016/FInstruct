@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the source of the data used in the analysis of the scientific layer.",
+    "output": "The data used in the analysis of the scientific layer is based on the Open Academic Graph v2 (OAG) which is a snapshot of the Microsoft database taken in late November 2018. OAG lists a large number of academic papers, reporting for each one information such as its citation counts and the institute or university to which the authors are affiliated. The database covers most of the journals, conference proceedings, books, and manuscripts published from the early 1800s up to the moment when the snapshot was taken. The data is biased towards developed and English-speaking nations, although this is a common characteristic of many other databases.",
+    "quality": 0
+}

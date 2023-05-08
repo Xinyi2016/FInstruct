@@ -1,0 +1,5 @@
+{
+    "instruction": "What is the current state of credit risk in U.S. subprime automotive lending?",
+    "output": "Based on MSCI's new U.S. auto-loan model, under current conditions, monthly default rates (MDR) are likely to stay flat in the near term and potentially even decrease if used-vehicle prices rise. However, if originators loosen underwriting standards, subprime-loan performance could deteriorate again.",
+    "quality": 2
+}

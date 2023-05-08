@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the techniques used in the analysis and the further discussion.",
+    "output": "The analysis is based on a combination of large deviations, Malliavin calculus, rough paths and regularity structures techniques. The case H<1/2\ud835\udc3b12H<1/2italic_H < 1 / 2 requires different methods than previously used in diffusion settings. Local volatility in stochastic volatility models is discussed in many books and rigorous asymptotic results are available. Saddle-point-based techniques may be employed in affine forward variance models, but the lack of explicit knowledge of the moment generating function is a bottleneck.",
+    "quality": 0
+}

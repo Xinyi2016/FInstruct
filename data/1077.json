@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the exhibit below and provide insights on credit performance based on auto loan size.",
+    "output": "After analyzing the exhibit, it is evident that credit performance is influenced by auto loan size in a nonlinear and complex manner. As auto loan size increases beyond a certain point, credit performance shows a diminishing trend. This suggests that borrowers with larger auto loans may be more likely to default on their payments due to the burden of higher debt. On the other hand, borrowers with smaller auto loans have a more consistent credit performance. This indicates that lenders may want to exercise caution when extending auto loans beyond a certain limit to minimize the risk of default.",
+    "quality": 0
+}

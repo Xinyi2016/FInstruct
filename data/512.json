@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the importance of burnout modeling in forecasting the 2019 refinance wave.",
+    "output": "Burnout modeling is crucial in forecasting the 2019 refinance wave because it helps to account for the fact that the majority of seasoned MBS had previous refinance opportunities. This means that homeowners may be less likely to refinance again, even if interest rates are favorable. The traditional cumulative-incentive approach to model burnout may not be adequate for projecting the 2019 refinance wave, as it does not take into account the potential for homeowners to become \"burned out\" on refinancing. By incorporating burnout modeling into the forecasting process, the model can provide a more accurate prediction of the 2019 refinance wave.",
+    "quality": 0
+}

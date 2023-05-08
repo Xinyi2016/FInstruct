@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how to measure portfolio alignment in the context of decarbonization using the MSCI Global Warming Potential and Climate Paris Aligned Index?",
+    "output": "Portfolio alignment in the context of decarbonization can be measured using the MSCI Global Warming Potential framework, which calculates how a portfolio or company contributes to a projected global temperature rise above the pre-industrial average. The MSCI Climate Paris Aligned Index can also be used to assess alignment, but it requires self-decarbonization rates between 5% and 15% to achieve a 1.5\u00b0C warming potential. By applying a 10% self-decarbonization shock through 2030, a consistent picture of a warming potential of 1.5\u00b0C for the MSCI World Climate Paris Aligned Index alongside a positive Climate VaR under a 1.5\u00b0C scenario can be achieved.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide an overview of the emissions contributed by different project types in our municipal-bond portfolio?",
+    "output": "Sure, based on our analysis we found that the emission intensities of municipal bonds varied greatly depending on the project types. The major contributors to our portfolio's financed emissions were Scope 1 and 3, while Scope 2 emissions were significantly lower. Power utilities had the highest-emitting project types in Scope 1, while economic and industrial development and government-related buildings recorded the highest Scope 3 financed emissions. Energy-consuming facilities like schools, universities, and government facilities were the top contributors to Scope 2 emissions.",
+    "quality": 0
+}

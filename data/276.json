@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the kinetic gas-like approximation used in space debris modeling literature.",
+    "output": "The kinetic gas-like approximation is a simplified method used in space debris modeling literature to approximate the results of more complex and computationally-intensive orbital mechanics simulators. It is suitable for long-term modeling studies with large time steps, and is equivalent to modeling collisions as a Poisson process. This assumption is not true, leading to the regularization approach described below. The assumption that the probability of an event is proportional to the length of the interval implies that fragment clouds are dispersed enough, and contain enough fragments, to be considered a continuum. Since the model is solved at annual timesteps while debris clouds evolve at much smaller timescales, this assumption is reasonable for our purposes.",
+    "quality": 0
+}

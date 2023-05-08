@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how fixing the number of constituents affected the market coverage of the index.",
+    "output": "Fixing the number of constituents would have kept the market coverage stable until 2015. However, due to an increase in the market capitalization of the smallest companies, the market coverage declined. This was because these micro-cap stocks were not included in the index. When their market cap increased more than the rest of the market, the market cap coverage of the index decreased.",
+    "quality": 0
+}

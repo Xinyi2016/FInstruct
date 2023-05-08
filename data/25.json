@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the key points discussed in the passage.",
+    "output": "The scenario with more than two trades is examined under the condition of inventory aversion. A combinatorial identity is proven in a lemma, which is of interest in its own right. This leads to a proposition that establishes the positivity of the informed trader\u2019s profitability when there are multiple trades. It is shown that if the trader with inferior information is allowed strategic flexibility, it does not change the outcome that the trader with superior information will dominate.",
+    "quality": 1
+}

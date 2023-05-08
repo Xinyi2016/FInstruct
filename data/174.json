@@ -1,0 +1,5 @@
+{
+    "instruction": "Develop a method to account for jumps in the implied volatility surface of digital assets.",
+    "output": "To account for jumps in the implied volatility surface of digital assets, we can propose fitting multiple models under various volatility regimes where the subset of time-series has a stable characteristic. The implied volatility regimes can be characterized in a multivariate setup of options with different strike prices and maturities. This approach extends previous approaches such as H\u00e4usler who have clustered different regimes for Stochastic Volatility (SV) models but in a univariate setup using k-means clustering. By using this method, we can overcome the empirical and theoretical challenges of incorporating jumps in ISV models and account for the unique market microstructure of DA markets.",
+    "quality": 2
+}

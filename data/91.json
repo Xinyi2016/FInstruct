@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the evolution of the number of active firms in the data with the prediction of the model.",
+    "output": "The evolution of the number of active firms in the data deviates from the prediction of the model after 2007. The number of active firms experiences a persistent decline of 0.151 log points below trend as of 2016. This decline is also observed within most sectors of activity. In contrast, the concentrated sector experiences a persistent decline of 0.134 log points in the number of firms. This caveat should be kept in mind that a firm in the model may not necessarily represent a firm in the data.",
+    "quality": 0
+}

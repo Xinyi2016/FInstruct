@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the excess performance of ESG-rated issuers over a one-month holding period and explain any trends you observe.",
+    "output": "Based on our analysis, we found that high-ESG-rated issuers had better risk-adjusted returns compared to low-ESG-rated issuers during the sample period. This is due to higher excess returns and lower excess risk at the same time. Additionally, we found that high-ESG-rated issuers had significantly lower drawdowns during downturn periods, indicating the inherent defensive characteristics of an ESG strategy. Therefore, it can be concluded that investing in high-ESG-rated issuers may provide better returns and lower risk exposure.",
+    "quality": 0
+}

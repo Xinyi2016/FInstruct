@@ -1,0 +1,5 @@
+{
+    "instruction": "Determine how active managers with a top-down allocation budget can distribute their budget across systematic factors, such as style factors, industries, and countries. Explain where the dispersion has been the greatest among systematic factors to structure asset-allocation decisions.",
+    "output": "To help active managers with their top-down allocation budget, we analyzed the contributions of style factors, industries, and countries to the overall factor contribution in the dispersion of stock returns for the MSCI ACWI, MSCI World, and MSCI Emerging Market (EM) IMI universes. Based on our findings, we observed that style-factor contribution increased in the 12 months leading up to June 30, 2021. In MSCI ACWI and MSCI World IMI, style-factor contribution overtook industries and countries in 2021. In MSCI EM IMI, the contribution of countries was dominant, but has declined recently. This presents an opportunity for active managers to strategically allocate their top-down style-factor risk allocation, as compared to industries and countries, for a potentially higher alpha.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the impact of judicial foreclosures on housing price depreciation during the GFC.",
+    "output": "Forced home sales caused by high levels of mortgage default were a key driver of depreciation during the GFC. Prior published research on the GFC housing crisis quantified this effect and found that the HPD in states that used judicial foreclosures (judicial states) was significantly less than the HPD in states that did not (nonjudicial states). This suggests that judicial foreclosures, which require a legal process and tend to give borrowers more time, may have a mitigating effect on housing price depreciation during times of financial crisis.",
+    "quality": 2
+}

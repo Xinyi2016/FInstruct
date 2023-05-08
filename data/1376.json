@@ -1,0 +1,5 @@
+{
+    "instruction": "Discuss the unique characteristics of the municipal-debt market in the U.S. and the challenges that arise in constructing portfolios based on muni-bond indexes.",
+    "output": "The municipal-debt market in the U.S. differs significantly from the corporate- and sovereign-bond markets due to its federal tax exemption and low default rates. This market comprises a vast notional value of USD 4 trillion spread across one million individual securities with varying degrees of liquidity. The wide range of muni-bond indexes, such as the hypothetical index of large general-obligation bonds issued by municipalities in California, which includes over 27,000 bonds, presents unique challenges in portfolio construction. It becomes crucial to select appropriate securities that align with the investor's objectives and risk appetite while still maintaining a diversified portfolio. The sheer size and complexity of these benchmarks also make managing market risk a critical consideration for investors.",
+    "quality": 0
+}

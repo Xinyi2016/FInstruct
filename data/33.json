@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the article.",
+    "output": "The article introduces a computational framework that combines HDMR technique with adaptive SGs to solve large-scale dynamic stochastic economic models on practical time scales. The method is parallelized and embedded in a time iteration algorithm, which was deployed on the Cray XC50505050 system installed at CSCS. Numerical experiments showed a speedup of 10101010 times in comparison to state-of-the-art adaptive SGs in cases of mid-scale models, where both methods were applicable. The proposed framework also provides excellent strong scaling up 1,00010001,0001 , 000 compute nodes and can compute global solutions to IRBC models with at least 300300300300 continuous dimensions in only a few hours. The method is not restricted to models that are recursively formulated via first-order conditions but can be applied to high-dimensional models that can be characterized in the functional equation (1.1).",
+    "quality": 1
+}

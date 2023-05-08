@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain why the emerging market stocks often perform poorly during a general stock market downturn.",
+    "output": "Emerging market stocks have historically been classified as high-beta assets, with a beta coefficient (\u03b2) of 1.4 during market downturns, compared to 1.1 during market upturns. This means that when the global stock market experiences a decline, emerging market stocks tend to fall harder than developed market stocks. During the global market crisis, the beta coefficient of emerging market stocks rose to 1.9, contributing to a monthly decline of over 8% in the MSCI ACWI index. Additionally, emerging market stocks often face instability and uncertainty due to factors such as political instability, geopolitical tensions, and economic imbalances. These factors can make emerging market stocks more susceptible to financial crises and market downturns.",
+    "quality": 0
+}

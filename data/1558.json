@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the performance of companies with high and low LCT risk management scores in the MSCI ACWI Energy Index.",
+    "output": "In the third quarter, the energy sector outperformed the MSCI ACWI index, however, it is not the case that all energy companies are efficiently utilizing energy in the transition towards low-carbon environments. Companies with high LCT risk management scores in the MSCI ACWI Energy Index, belonging to the first and second quartiles, were compared to those with low LCT risk management scores in the third and fourth quartiles. In this quarter, the performance of companies with high LCT risk management scores was -0.76%, while those with low scores had a performance of -5.69%, as shown in the figure below.",
+    "quality": 0
+}

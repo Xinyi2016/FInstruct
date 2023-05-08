@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of hard-fork arbitrage and its impact on the DeFi protocols.",
+    "output": "Hard-fork arbitrage is a strategy that involves taking advantage of the price discrepancy between two tokens that are created as a result of a hard fork. In the context of the DeFi protocols, hard-fork arbitrage refers to the practice of borrowing tokens on one protocol and using them to purchase tokens on another protocol that has undergone a hard fork, with the intention of profiting from the price difference between the two tokens. This strategy can be profitable for arbitrageurs, but it can also have a negative impact on the DeFi protocols, as it can lead to liquidity shortages and higher borrowing costs for other users. In the case of the AAVE protocol, the high utilization rate and inability of liquidity providers to withdraw their funds exacerbated the impact of hard-fork arbitrage, as it deprived them of the option to withdraw and left them vulnerable to the strategies of arbitrageurs.",
+    "quality": 0
+}

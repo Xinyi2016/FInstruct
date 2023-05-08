@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the ARRC's white paper, provide a recommendation for using a SOFR-based benchmark replacement for LIBOR in asset-backed securities (ABS), mortgage-backed securities (MBS) and related products.",
+    "output": "The ARRC's white paper recommends using a 30-day average SOFR with monthly reset (with flexibility to select 90-day and 180-day), set one to two business days in advance of the interest-accrual period as the SOFR-based benchmark replacement for LIBOR in ABS, MBS, and related products. Additionally, the recently signed bill in New York overrides any references to a LIBOR-based rate and nullifies any polling for interbank funding rates, while establishing recommended benchmarks for contracts with no fallback language and providing a legal safe harbor for parties that follow the recommended practices. Similar federal legislation is also under consideration.",
+    "quality": 0
+}

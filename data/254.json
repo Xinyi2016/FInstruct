@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide more information about the AAVE borrowers who transferred their funds to cryptocurrency exchanges?",
+    "output": "According to the data, more than 72% of externally owned wallets transferred at least 50% of the debt they took on directly to cryptocurrency exchanges, while 58% transferred at least 99%. The transferred ETHW amounted to more than 11 Mio US$ at the time of the merge, and the lenders were essentially deprived of these funds. It's worth noting that the borrowing costs were far lower than the value of ETHW, which suggests that some borrowers may have taken advantage of this opportunity to profit by transferring the funds to cryptocurrency exchanges. Tracking the funds borrowed by the biggest AAVE borrowers ahead of the merge can provide insights into the actions of these borrowers and help to identify potential risks associated with lending to them in the future.",
+    "quality": 2
+}

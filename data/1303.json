@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the difference between index rules and transaction-cost-aware index replication?",
+    "output": "Index rules generate turnover by either adding new bonds or removing existing ones, while transaction-cost-aware index replication approaches aim to reduce transaction costs by minimizing turnover through \u201csmart turnover\u201d with bonds that have tighter bid-ask spreads. This approach is particularly effective during volatile periods with sharp changes in index composition and can help investors navigate the integration of climate and ESG considerations into the investment process by reducing the cost of benchmark conversions.",
+    "quality": 0
+}

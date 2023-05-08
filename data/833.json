@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the effects of the recent policy rate cuts and flight to safe-haven currencies on our current currency-overlay policy.",
+    "output": "After reviewing the impact of currency hedging in international portfolios based on MSCI hedged indexes, we found that U.S.- and Japan-based investors would have benefited by fully hedging their international currency exposures, resulting in a gain due to the appreciation of their domestic currencies during the first quarter of 2020. However, Australia-based investors who fully hedged would have experienced a reduction in return and increased risk. This suggests a potential misalignment between our policy and the current macroeconomic environment. To address this, we recommend exploring alternative methods for currency hedging to optimize returns while accounting for increased risk during periods of market volatility.",
+    "quality": 0
+}

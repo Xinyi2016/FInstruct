@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the key takeaways above, please write a brief summary of which index simulation would be the best choice for investors looking for higher risk-adjusted returns, greater market-cap coverage, and exposure to the financial sector.",
+    "output": "For investors looking for higher risk-adjusted returns, the MSCI India Domestic Top 50 simulation would be the best choice, as it provided slightly higher risk-adjusted returns compared to the other two index simulations. Additionally, for greater market-cap coverage with lower turnover and more liquidity, the MSCI India Index would be the best choice. And finally, for greater exposure to the financial sector (at the expense of other sectors), the MSCI India Domestic Top 50 Index would be the best choice, due to its inclusion of regulated financials with zero foreign room, such as HDFC Bank Limited.",
+    "quality": 0
+}

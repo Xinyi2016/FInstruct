@@ -1,0 +1,5 @@
+{
+    "instruction": "What is the optimal number of equities to hold in a portfolio for diversification purposes?",
+    "output": "According to Fisher and Lorie (1970), a sufficient and perhaps optimal number of equities to hold in a portfolio for diversification purposes is between 30 and 40. However, many fund managers and individual investors may wish to limit their total number of held equities due to mandated restrictions, transaction fees, or complexity considerations. Recent research has shown that a portfolio consisting of 36 equities sampled uniformly from 9 sectors provides comparable risk mitigation to a 90 equity portfolio, sampled uniformly from 10 sectors. This suggests that the anecdotal 30-40 equity rule does apply when investing across sectors and that risk reduction is less sensitive to the precise selection of equities within a sector once sectors are chosen. Therefore, the optimal number of equities to hold in a portfolio for diversification purposes may depend on various factors such as investment policy restrictions, transaction fees, and complexity considerations, but generally falls between 30 and 40 equities.",
+    "quality": 2
+}

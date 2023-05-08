@@ -1,0 +1,5 @@
+{
+    "instruction": "Have factor valuations adjusted to the new rate environment?",
+    "output": "Yes, the relative valuation of several factor indexes have adjusted to the new rate environment, with some currently discounted relative to historical levels. The Value, Size, and High Dividend Yield indexes are currently discounted relative to history, while Momentum has a historically low relative valuation that could quickly adjust if underlying market trends change. If the relative valuation of these factor indexes reverts back to their average levels given the current 10-year US yields, it could imply significant upside active return. For instance, if the MSCI USA Enhanced Value Index reverts back to its average valuation, this would suggest a potential 26.7% active return upside, assuming earnings are held constant.",
+    "quality": 2
+}

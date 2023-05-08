@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how our Adaptive Multi-Factor Framework (AMF) incorporates a factor allocation strategy.",
+    "output": "Our AMF incorporates a factor allocation strategy that aims to exploit the persistence in factor returns. Specifically, the Momentum pillar in the MSCI AMF Index overweights the top three performing factors and underweights the bottom three factors relative to an equally weighted factor mix, at every quarterly rebalancing. This has consistently been the top-performing pillar, beating the benchmark as well as the equal-weighted combination of all four pillars in the AMF.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the three categories of Scope 3 emissions that contributed to over 70% of the total carbon footprint for constituents of the MSCI USA Investable Market Index.",
+    "output": "The three categories of Scope 3 emissions that contributed to over 70% of the total carbon footprint for constituents of the MSCI USA Investable Market Index are purchased goods and services, use of sold products, and investments. Constituents of the MSCI USA IMI that report GHG emissions to CDP also consider purchased goods and services and use of sold products to be relevant at rates of 78% and 43%, respectively. However, financed emissions could be contentious, as only 2% of financial-sector companies report this category as relevant, despite estimates showing that it accounts for the largest share of GHG emissions for the sector (92%).",
+    "quality": 0
+}

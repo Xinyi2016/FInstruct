@@ -1,0 +1,5 @@
+{
+    "instruction": "Provide a summary of the key points discussed in the text.",
+    "output": "The text discusses the problem of space debris and its potential impact on the space industry. Satellites produce debris over their lifecycle, and collisions between debris objects can generate even more hazardous high-velocity debris. The accumulation of debris can cause a cascading series of collisions, known as Kessler Syndrome, which can render an orbital region unusable and impassable for decades, centuries, or longer. Kessler Syndrome can cause large economic losses, both directly from damage to active satellites and indirectly from limiting access to space. The worst-case scenario could completely block human access to space, marking an eventual end to services like GPS and satellite imaging. The text also discusses the development of the space economy and its contribution to terrestrial growth globally. Some estimates show debris production due to debris-debris collisions in higher reaches of LEO has already crossed the self-sustaining growth threshold.",
+    "quality": 0
+}

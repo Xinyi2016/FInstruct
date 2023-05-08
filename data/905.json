@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the residual return performance for T1 (low ESG ratings) and T3 (high ESG ratings) by examining the cumulative active residual returns along with the residual return spread between the two.",
+    "output": "Based on our analysis of the residual return performance for T1 and T3, we found that the cumulative active residual returns for T3 (high ESG ratings) consistently outperformed those of T1 (low ESG ratings) over the analysis period. Additionally, the residual return spread between the two terciles (T3 - T1) was consistently positive, indicating that the outperformance of high ESG-rated issuers persisted even after accounting for credit ratings and other credit factors. These findings suggest that incorporating ESG factors into investment decisions may lead to better investment outcomes over the long term.",
+    "quality": 0
+}

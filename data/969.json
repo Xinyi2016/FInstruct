@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the relationship between stock prices and climate transition risk profiles of companies in response to both progress and setback events in the transition to a low-carbon economy. Use the carbon efficiency, share of green revenue, and carbon beta variables to proxy climate transition risk. Provide statistical significance for your findings.",
+    "output": "After analyzing nine key climate-related political or regulatory events that have occurred since 2015, we found that greener companies with lower transition risk (as measured by carbon efficiency, share of green revenue, and carbon beta) tend to outperform following progress events and underperform following setbacks relative to their more carbon-intensive counterparts. Our analysis also revealed statistical significance for these findings, indicating a strong relationship between stock prices and companies' climate transition risk profiles.",
+    "quality": 0
+}

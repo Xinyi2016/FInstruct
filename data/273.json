@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the key findings of the study.",
+    "output": "The study found that under all but the low growth, free elasticity parameter sets, it is more likely than not that Kessler Syndrome will occur by 2050 given open access and historically-plausible annual variation in sectoral costs and revenues. The low growth, free elasticity parameter set is the only case where the costs of operating a satellite grow faster than the revenues. The probability of Kessler Syndrome is uniformly lower at any given time under the low-growth parameter set than under the main set, and vice versa for the high-growth parameter set. Higher occupancy elasticities uniformly increase the probability of Kessler Syndrome at any given time. In the main parameter set, the probability of Kessler Syndrome occurring exceeds 0.5 shortly after 2040. In the low-growth parameter set, the upper 95% confidence band of the probability of Kessler Syndrome occurring does not approach 0.5 until 2070, while under the high-growth parameter set the probability is nearly 1 by 2045.",
+    "quality": 0
+}

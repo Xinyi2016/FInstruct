@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the key findings of the paper.",
+    "output": "The paper finds that under open-access management, the debris stock in LEO can diverge to infinity, leading to Kessler Syndrome. The authors find that the average growth of returns to operating a satellite and the \u201corbital occupancy elasticity of satellite payoffs\u201d are key economic parameters determining whether and when Kessler Syndrome occurs. The paper also provides a novel insight into the existence of an open-access equilibrium manifold due to couplings between satellites and debris in the collision risk function. The authors use a dynamic model with both economic and physical detail to estimate the time until Kessler Syndrome occurs under open-access management.",
+    "quality": 0
+}

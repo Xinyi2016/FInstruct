@@ -1,0 +1,5 @@
+{
+    "instruction": "Develop a GPU acceleration scheme for the NR method to reduce the computational time for estimating implied volatilities.",
+    "output": "To achieve this task, we will apply the neural emulation technique, which implements an algorithm as if a neural network with zero or very few parameters. This technique enables employing well-known deep learning packages, such as TensorFlow and PyTorch, to accelerate a scientific procedure. These popular packages make it straightforward to implement large-scale parallel computation using GPUs. Additionally, this approach allows a neural network optimization engine, TensorRT, to further maximize inference performance. We will refer to the network emulating the NR method as the NR emulation network. The NR emulation network will be compared with the NR method of SciPy in terms of estimation accuracy and speed to verify the effectiveness of this study. The test results reveal that the NR emulation network is up to 1,000 times faster than the NR method of SciPy, but with similar accuracy.",
+    "quality": 0
+}

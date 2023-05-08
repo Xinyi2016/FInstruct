@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the process used to extract the results of the USS forecasts.",
+    "output": "The process involved using the Python module Selenium and the web driver geckodriver to interact with the USS modeller. The code automated the interaction with the browser, including clicking buttons and setting input values. The inputs included the date of birth, salary, inflation, salary increase, and investment growth values. The outputs collected were the annual pension under the 2021 scheme and the UUK proposal scheme at retirement and 20 years after retirement. The lump sum was not collected, which caused a small underestimation in the calculation of the size of cuts.",
+    "quality": 1
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the unintended side effects that may arise from the prescribed trade-size assumption and the new volume-based classification approach for large equity funds.",
+    "output": "The prescribed trade-size assumption of 10% may force asset managers to hold larger positions or overdiversify their portfolios, reducing returns and driving up transaction costs. Additionally, the new volume-based classification approach may pose risks, as a 20% daily trading limit assumes that no significant trades will occur outside of this threshold, which may not always be the case. This may create liquidity issues and drive up transaction costs, particularly in more illiquid markets. Overall, both changes may have unintended consequences for large equity funds and require careful consideration by asset managers.",
+    "quality": 0
+}

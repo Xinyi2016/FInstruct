@@ -1,0 +1,5 @@
+{
+    "instruction": "As an institutional investor, you want to measure the temperature of your investment portfolio and align it with the Paris Agreement's goal of limiting global warming to 1.5\u00b0C or 2\u00b0C by mid-century. Research and suggest a metric to achieve this.",
+    "output": "One metric that could be useful for measuring the temperature of your investment portfolio is the MSCI Implied Temperature Rise methodology. It aligns closely with the Task Force on Climate-related Financial Disclosures' (TCFD) principles and translates individual company carbon budgets into a portfolio-level temperature reading. By projecting each company's annual emissions through 2070, including any reduction targets, we can see how much they are over or under their budget and translate that into an associated rise in temperature. This metric could help you identify which companies in your portfolio are aligned with the Paris Agreement's goals and which ones need improvement.",
+    "quality": 0
+}

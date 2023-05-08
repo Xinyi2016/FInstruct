@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the use of the Expokit in valuing European contracts and compare it with the fast algorithm.",
+    "output": "The Expokit, based on Krylov subspace projection methods, can significantly accelerate the computation time when valuing a European contract. It is available for free download in both Matlab and Fortran software packages from <https://www.maths.uq.edu.au/expokit>. When N=500, the function expv in the Expokit can accelerate the running time by up to 7777 times compared to the fast algorithm. However, the fast algorithm is more efficient when valuing Bermudan contracts because it only calculates matrix exponentials once at the beginning of the procedure, while the Expokit needs to calculate it at each time step, slowing down the execution. Therefore, Algorithm 3 is up to 9999 times faster than the regular algorithm using Expokit procedures when valuing a Bermudan contract.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of optimal market making (MM) and its associated risks.",
+    "output": "Optimal market making (MM) is the problem of placing bid (buy) and ask (sell) orders simultaneously on both sides of the limit order book (LOB) with the goal of maximizing trader\u2019s terminal wealth, all while minimizing the associated risks. The most significant risk associated with MM is inventory risk, which arises from price movements in the underlying asset held by the trader in its inventory. A risk-averse market maker typically prefers to keep its inventory close to zero, which requires continuous adjustment of prices at which the orders are placed in response to the current inventory and other relevant variables. This has led to the formulation of MM as a stochastic optimal control problem, where the goal is to reduce the associated Hamilton-Jacobi-Bellman equation to a system of ordinary differential equations and derive closed-form approximations to the optimal MM controls. Alternatively, near-optimal controls can be obtained using techniques such as reinforcement learning.",
+    "quality": 0
+}

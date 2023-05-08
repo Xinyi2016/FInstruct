@@ -1,0 +1,5 @@
+{
+    "instruction": "Construct the cryptocurrency SMB and WML factors following the method in Fama and French (1993).",
+    "output": "To construct the cryptocurrency SMB and WML factors, we split the coins into three size groups by market capitalization: bottom 30% (small), middle 40% (middle), and top 30% (big). We then form value weighted portfolios for each of the three groups. The size factor (SMB) is the difference between the returns of small and big portfolios. We construct the momentum factor (WML) using three-week momentum and form the momentum factor portfolio based on the intersection of 2\u00d73 portfolios. In particular, for each week, we first sort coins into two portfolios based on coin size, then form three momentum portfolios within each size portfolio based on past three-week returns. The first, second, and third momentum portfolios are the bottom 30%, middle 40%, and top 30% of the coins based on past three-week returns. The momentum factor is constructed as:",
+    "quality": 0
+}

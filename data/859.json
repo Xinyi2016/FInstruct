@@ -1,0 +1,5 @@
+{
+    "instruction": "Evaluate the feasibility of using a risk parity portfolio compared to a 60%-equity/40%-bond portfolio to achieve equity-like return targets.",
+    "output": "Our analysis shows that employing leverage with risk parity portfolios can be a viable approach for investors seeking to compete with higher-return/higher-volatility strategies. In comparison to the classic 60%-equity/40%-bond portfolio, a risk parity portfolio and a higher risk allocation to equities portfolio performed well during 2020 despite market uncertainties. By equating risk allocations across sectors, risk parity portfolios offer the benefit of diversification and relatively low-risk asset classes while still achieving equity-like return targets.",
+    "quality": 0
+}

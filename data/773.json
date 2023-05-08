@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the market coverage approach and another approach in terms of market capitalization coverage and number of constituents.",
+    "output": "The market coverage approach consistently covered around 96% of free-float-adjusted market capitalization from June 2007 to December 2019. On the other hand, the other approach was less consistent in terms of market capitalization coverage. Additionally, the number of constituents in the market coverage approach was less affected by market movements, because the rebalance of index constituents reflected the liquidity and size movements of all investable securities in the market. Therefore, the market coverage approach appears to be more reliable and stable compared to the other approach.",
+    "quality": 0
+}

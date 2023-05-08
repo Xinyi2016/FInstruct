@@ -1,0 +1,5 @@
+{
+    "instruction": "Write a summary of the article \"2019 Review of MSCI\u2019s Agency MBS Model\"",
+    "output": "The article \"2019 Review of MSCI\u2019s Agency MBS Model\" discusses the importance of modeling and managing prepayment and interest-rate risk in the agency mortgage-backed securities (MBS) market. The article highlights the challenges faced by investors in the summer of 2019, when volatility in rates and MBS basis made effective MBS hedging difficult. The article also emphasizes the importance of benchmarking model durations against market-price dynamics. The article is a review of MSCI's agency MBS model for 2019 and underscores the importance of modeling the refinance regime and prepayment burnout.",
+    "quality": 0
+}

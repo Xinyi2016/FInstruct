@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the tracking error over the past year for the global small-cap composite and compare it to the MSCI ACWI Small Cap Index and MSCI ACWI Index.",
+    "output": "Based on our analysis, it appears that the tracking error of the global small-cap composite has been closer to the MSCI ACWI Small Cap Index than the MSCI ACWI Index. This suggests that the performance of the global small-cap composite has been more aligned with the small-cap segment of the market, rather than the broad global market.",
+    "quality": 0
+}

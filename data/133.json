@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of negative autocorrelation in financial markets.",
+    "output": "Negative autocorrelation refers to the tendency of financial returns to be negatively correlated with their previous returns. This means that if the return of a financial asset is negative, it is more likely to be followed by another negative return, and vice versa. This phenomenon has been observed in various financial markets and is often attributed to microstructure effects, such as the bid-ask bounce. The bid-ask bounce occurs when the price of an asset bounces between the bid and ask prices, which tend to be close to each other. This can cause consecutive returns to be negatively correlated, as the price of the asset is more likely to move in the opposite direction after a large price movement.",
+    "quality": 0
+}

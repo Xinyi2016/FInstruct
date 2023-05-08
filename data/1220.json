@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the exhibit below and provide a summary of the conclusions that can be drawn from the efficient frontier constructed for the top five countries in the MSCI ACWI Index.",
+    "output": "The exhibit shows that while a global allocation provided significant international diversification benefits for most investors between January 2014 and November 2020, those with the flexibility of making individual country allocations could have reduced risk even further relative to individual countries and the global equity market. This suggests that institutional investors may choose to make country bets in addition to being exposed to the diversified global equity universe, as deglobalization may lead to more regional trade flows and lower cross-border trade and investment. However, it is important to note that such domestic economic conditions may also increase vulnerability to country-specific risks.",
+    "quality": 0
+}

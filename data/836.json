@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the corporate issuers according to their equity-price performance between Feb. 19 and June 26, and categorize them into three categories - COVID outperformer, COVID underperformer, and COVID severe underperformer. Based on this analysis, provide insights on how corporate-debt net issuance has increased since March.",
+    "output": "Our analysis of corporate issuers based on equity-price performance between Feb. 19 and June 26 suggests that underperformers and severe underperformers in the equity market contributed approximately 68% of the increase in corporate-debt net issuance since March. This indicates that companies that have underperformed in the equity market are taking on larger debt burdens, which could be a warning signal for credit investors. The categorization of issuers into COVID outperformer, COVID underperformer, and COVID severe underperformer based on equity returns has helped us gain a better understanding of the source of the issuance surge.",
+    "quality": 0
+}

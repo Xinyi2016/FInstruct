@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain why DSGE models are limited in examining feedback effects between economic sectors arising from financial instability dynamics.",
+    "output": "DSGE models are limited in examining feedback effects between economic sectors arising from financial instability dynamics due to their inability to incorporate nonlinearities and the use of a representative agent with optimizing behavior and full rationality assumptions. These assumptions are not valid during instability phases and can lead to inaccurate analysis of crisis dynamics such as excessive leverage, funding fragility, liquidity limits, coordination failures, market freezes, and bankruptcies cascades. In contrast, MABMs are better suited for examining these feedback effects as they are based on the emergent property via the interaction among adaptive heterogeneous agents and can better capture the non-stationary, stochastic, non-ergodic, and structurally evolving nature of socio-economic systems.",
+    "quality": 0
+}

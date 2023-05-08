@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the motivation behind KMRW\u2019s models and how they resolve the paradoxes of using a deterrence strategy in the CSP game and cooperation in the PD game.",
+    "output": "KMRW\u2019s models are motivated by the chain-store paradox and experimental evidence of cooperation in finitely repeated prisoner\u2019s dilemma games. These paradoxes contradict the logic of backward induction, which implies unraveling to the one-shot, stage game solution. KMRW\u2019s objective is to resolve these paradoxes by transforming complete games into incomplete, information games by introducing a \u201ctiny\u201d probability of exogenous type. This \u201ctiny\u201d probability is critical because it prevents the deterrence strategy in the CSP game or cooperation in the PD game from being rationalized even in a one-shot game. In NLK, the probability of such an exogenous type is typically quite large but similar to that in Level-K model. NLK is a behavioral model of bounded rationality.",
+    "quality": 0
+}

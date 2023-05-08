@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main findings of the study.",
+    "output": "The study found that the optimal electricity storage capacity in central Europe substantially decreases when interconnection between countries is allowed. Compared to a setting without interconnection, short- and long-duration storage energy capacity decreases by 31%, storage discharging power, on average, declines by 25% and 33%, respectively. These values hold for an average of ten weather years, covering three decades of historical data. The study also found that the storage-mitigating effect of geographical balancing also holds in a 100% renewable energy scenario. The study used a factorization approach to disentangle and quantify how the mitigation of storage needs is driven by different factors.",
+    "quality": 0
+}

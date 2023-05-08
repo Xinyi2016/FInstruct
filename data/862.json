@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the difference between directional and relative strategies for investors using futures in EM and Asia.",
+    "output": "Directional strategies involve investors taking a long or short position on a futures contract or a basket of contracts for a certain time horizon, based on their views on the market. For example, an investor may decide to gain exposure to an MSCI Japan Index futures contract to reflect their views on the Japanese market's short-term dislocation or use a combination of MSCI Pacific ex Japan and MSCI China Free contracts to match exposure to a developed Asia-plus-China portfolio. Relative strategies involve matching long positions with short positions within index futures to reflect views on potential relative mispricing and opportunities. This is done by combining index-level fundamental data, such as price-to-forward-earnings ratio, to decide on tactical positioning of one market against another, for example, India vs. Taiwan.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of Kessler Syndrome and how it can occur.",
+    "output": "Kessler Syndrome is a scenario in which the Earth's orbit becomes so congested with debris that it becomes difficult or impossible to launch new satellites into space. This can occur when the debris decay rate is variable, causing the basin of attraction to the stable steady state to expand and contract. When the sunspot activity is high, it raises the debris decay rate and expands the stable basin to cover more of the equilibrium isoquant. This can cause the stable steady state to move to a point where the debris stock is lower and the satellite stock is higher. When the sunspot activity dies down again, the stable steady state moves back to its original location and the stable basin contracts back to its original size. However, if the newly-contracted basin no longer covers the high-sunspot-activity steady state, Kessler Syndrome will occur. Launch rate caps can help manage these dynamics by controlling overshooting and limiting the reachable portions of the equilibrium isoquant.",
+    "quality": 0
+}

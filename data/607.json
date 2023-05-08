@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how often we rebalance the portfolio, and what the exhibit below shows about asset weights and factor risk contributions?",
+    "output": "We rebalance the portfolio on a quarterly basis between Q1 2011 and Q1 2019. The exhibit shows the stable-by-design asset weights at the top, and the risk contributions at the bottom, for equity, interest-rate, inflation, and credit factors. One notable observation is that even with an equity allocation of just 30%, the risk contribution from equity averaged about 70% throughout the period. Additionally, the factor risk contributions exhibited significant fluctuations, with the equity risk contribution dropping to a decade-low level of 40% by the beginning of 2018 due to a bull market, and then quickly rising to almost 80% after the February 2018 market sell-off.",
+    "quality": 0
+}

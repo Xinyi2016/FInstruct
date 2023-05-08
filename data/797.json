@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the asset selection of your real estate portfolio using attribution analysis to understand its impact on relative performance.",
+    "output": "Using attribution analysis, we found that asset selection accounted for a significant portion of our tracking error between our real estate portfolio and benchmark over the past year. During past market disruptions, such as the 2008 global financial crisis, the impact of asset selection was even more pronounced. With the ongoing COVID-19 pandemic causing unprecedented disruption in the real estate market, attribution analysis is an essential tool to help us understand and explain the drivers of our portfolio performance. By separating the impact of allocation differences from the influence of asset selection within those allocations, we can better position our performance within the context of wider market trends.",
+    "quality": 0
+}

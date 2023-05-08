@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the article about the history of option pricing and the application of path integral method in pricing exotic options.",
+    "output": "The article discusses the history of option pricing and the application of path integral method in pricing exotic options. It begins with the Black and Scholes model in 1973 and then moves on to more complex options such as barrier options. The article also mentions the works of various researchers who have applied the path integral method to pricing options, including Baaquie, Haug, Marakani, Srikant, Linetsky, Lee, Xing, and Kleinert.",
+    "quality": 0
+}

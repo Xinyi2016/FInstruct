@@ -1,0 +1,5 @@
+{
+    "instruction": "Please research the corporate structures of all tenant companies in our cross-border portfolio and determine which parent companies grant rental-payment guarantees to their child companies.",
+    "output": "After conducting thorough research on the corporate structures of our tenant companies in the cross-border portfolio, we have identified 15 parent companies that grant rental-payment guarantees to their child companies. By analyzing the aggregated income of these parent companies and weighting their default-risk scores, we were able to identify three specific tenants that contributed disproportionately to the risk of the overall portfolio. We recommend monitoring these tenants closely to mitigate any potential concentration risk.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the performance of the FAANG stocks during the recent market turmoil.",
+    "output": "During the market turmoil on Oct. 10, an equal-weighted simulated portfolio of Facebook, Apple, Amazon, Netflix, and Google performed worse than the overall market, dropping by 5.6% compared to the market's decline of 3.3%. However, on Oct. 11, while the market continued to fall by 2%, FAANG stocks only lost 0.65%. Three out of five stocks generated positive specific returns above 1%, and overall, the portion of the return unexplained by factors was 0.7%. Thus, even in the darker days of the market, specific returns for these popular names remained positive, showing market support for these stocks.",
+    "quality": 0
+}

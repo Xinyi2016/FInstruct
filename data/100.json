@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the text.",
+    "output": "The text discusses the relationship between implied volatility and returns in currency markets. The authors of a recent study found a negative relationship between implied volatility and returns and a positive relationship between realized and implied volatility. They suggest that implied volatility might be useful in predicting future levels of realized volatility. However, there are some limitations to using implied volatility, such as biases in pricing and the smaller size of some currency markets. The authors also acknowledge that attention might be related to implied volatility. They provide evidence that intraday implied volatility is a strong predictor of price fluctuations and that it encompasses investors' attention.",
+    "quality": 0
+}

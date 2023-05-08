@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the current state of research on RL applications in MM.",
+    "output": "Recent research has focused on applying RL to optimal MM in various financial markets, including high-frequency trading, cryptocurrency MM, and MM with additional features like dark pools and dealer markets. Many studies have demonstrated the superior performance of RL agents over traditional benchmarks, using various RL algorithms and value function approximators.",
+    "quality": 0
+}

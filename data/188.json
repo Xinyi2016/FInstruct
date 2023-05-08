@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the main idea of the abstract.",
+    "output": "The main idea of the abstract is that Cyber-physical human systems (CPHS) require real-time decisions from humans for successful performance, and that models of human behavior are necessary for decision-making problems in these systems. The abstract suggests that both Utility Theory and Prospect Theory can be used as tools to characterize human behavior in the presence of uncertainty and risk, with Prospect Theory offering an alternative to Utility Theory. The abstract also mentions that examples from transportation use cases such as shared mobility will be used to illustrate these models.",
+    "quality": 0
+}

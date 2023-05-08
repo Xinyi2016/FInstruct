@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide insights on the correlation of hedge funds with other asset classes?",
+    "output": "Our analysis shows that major hedge fund investment strategies have significant correlations with U.S. equities, ranging from 30% in global macro to 72% in long-short equity. On the other hand, correlations with U.S. fixed income were generally lower, ranging from 5% in long-short equity to 40% in global macro. This suggests that hedge funds do offer some diversification benefits, but the extent of diversification varies depending on the asset class and strategy. Additionally, our analysis found that hedge fund performance varied significantly by strategy, so careful scrutiny of fund selection may be required.",
+    "quality": 0
+}

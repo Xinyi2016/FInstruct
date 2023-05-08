@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of empirical MBS durations and how they are affected by factors other than prepayment behavior.",
+    "output": "Empirical MBS durations refer to the actual duration of mortgage-backed securities (MBS) in the market. These durations are affected by various factors, including prepayment behavior, supply and demand issues, and the prepayment-uncertainty risk premium. During the \u201ctaper tantrum\u201d episode and the period of uncertainty around the Fed\u2019s MBS QE, TBA empirical durations significantly extended, indicating that market participants were demanding a higher premium for the increased uncertainty surrounding these events. It is important to examine and understand these gaps between model durations and empirical durations to gain a better understanding of the behavior of MBS in the market.",
+    "quality": 0
+}

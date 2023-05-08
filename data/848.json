@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide a summary of how the MSCI indices performed in Q2 2020?",
+    "output": "According to the report, global equities recovered in Q2 2020 and the MSCI ACWI Index returned 19.4%. MSCI World outperformed MSCI EM and MSCI USA outperformed within developed markets. MSCI Quality and Momentum equity factor indexes continued to outperform, while excess returns in MSCI Carry, Value, and Low Size Corporate Bond Factor Indexes outperformed the parent IG USD Corporate Bond Index. Additionally, the MSCI Adaptive Multi-factor Momentum Index outperformed the broad market YTD through May 29 and over the last 10 years. Stocks with high turnover relative to their market capitalization fared well, which led to a strong performance of the liquidity factor. ESG, profitability, and momentum also added to gains seen in Q1 2020.",
+    "quality": 0
+}

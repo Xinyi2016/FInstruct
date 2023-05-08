@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the current state of ESG rating prediction research.",
+    "output": "There have been limited works in the field of ESG rating prediction. Krappel et al. (2021) used an ensemble approach with models like XGBoost, CatBoost, and a Feedforward NN. D\u2019Amato et al. (2022) utilized random forest algorithm for ESG rating prediction. Borms et al. (2021) constructed ESG indices from Flemish-Dutch news articles and showed that these indices can predict negative adjustments in ESG scores up to a few months in advance. Sokolov et al. (2021) analyzed social media data using BERT and proposed an aggregation function for ESG index construction. However, they did not report the resulting indices nor compare them to any benchmark.",
+    "quality": 0
+}

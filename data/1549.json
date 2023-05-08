@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the performance of the MSCI ACWI ESG Index and the MSCI ACWI Index from 2012 to 2022, considering the impact of higher energy prices on industry performance.",
+    "output": "The historical data shows that the MSCI ACWI ESG Indexes had lower allocations to the energy sector and higher allocations to information technology, which contributed to their outperformance in the past decade. However, in 2022, higher energy prices led to a reversal in industry performance. Despite this, from 2012 to 2021, the MSCI ACWI ESG Indexes outperformed the MSCI ACWI Index with lower risk and a higher Sharpe ratio, as shown in the graphs and tables below.",
+    "quality": 0
+}

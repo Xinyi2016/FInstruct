@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the performance of our multi-factor model and compare it to the expected performance of U.S. factors in the upcoming year.",
+    "output": "Based on our adaptive multi-factor model, we have observed an overweight to value and low size and an underweight to quality and low volatility. However, recent research suggests that U.S. factors such as value, momentum, and quality are expected to outperform other factors in the coming year. Therefore, we will need to closely monitor the performance of our multi-factor model to see if adjustments need to be made to align with the expected outperformance of these U.S. factors.",
+    "quality": 0
+}

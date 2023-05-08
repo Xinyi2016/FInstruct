@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of neural network regression-based simulation techniques and their significance in the field of numerical methods for PDEs and BSDEs.",
+    "output": "Neural network regression-based simulation techniques are a rapidly growing field in the numerical methods for PDEs and BSDEs. These techniques use neural networks to approximate solutions to partial differential equations (PDEs) and backward stochastic differential equations (BSDEs). The universal approximation theorems and density results justify the use of neural networks as a versatile parameterization. Additionally, neural networks can automatically infer a linear regression basis and allow for easy transfer learning. However, the control of the error arising from the numerical optimizations for the embedded training tasks is a largely open issue. The twin Monte Carlo validation procedure is a useful practical contribution in this regard.",
+    "quality": 0
+}

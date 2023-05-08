@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of capital efficiency in the context of DeFi insurance protocols.",
+    "output": "Capital efficiency refers to the amount of capital required to support a given level of insurance coverage in a DeFi insurance protocol. In other words, it measures how effectively the collateral is being used to provide protection against losses. In the context of DeFi insurance protocols, capital efficiency is typically low, with most protocols holding collateral in low-risk, non-interest-bearing assets. This approach is conservative and aims to ensure the security of the insured protocols, but it also means that only a portion of the collateral can be used to provide insurance coverage, resulting in low capital efficiency.",
+    "quality": 0
+}

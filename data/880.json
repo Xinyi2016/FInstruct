@@ -1,0 +1,5 @@
+{
+    "instruction": "Evaluate the performance of high-beta, growth, quality, momentum, value, low volatility, yield, and size factors in the third quarter of 2020.",
+    "output": "According to the third quarter report, high-beta, growth, quality, and momentum outperformed in equities, while carry and value were favorable for USD and EUR investment-grade corporate bonds. Quality and momentum were less sensitive to inflation, while growth and low volatility had negative and positive sensitivity, respectively. MSCI's adaptive multi-factor model indicated an overweight of low size, value, and momentum, with an underweight of quality, low volatility, and yield. Despite a continued rally in global equities, year-to-date performance suggests high levels of dispersion, with almost 30% of ACWI stocks down more than 20%.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you summarize the findings regarding bettor behavior after an equalizing goal in a football match?",
+    "output": "It appears that bettors tend to back pre-match favourites over longshots after an equaliser, especially in the second half of the match. The relative stakes placed on a team prior to an equalising goal significantly predict the relative stakes after, although the coefficient for this variable is less than one. Additionally, betting volumes tend to double in the minute after an equaliser compared to the three minutes before, and the relative stakes placed on the equalising team are significantly higher than those placed on the conceding team. The goodness of fit of the model is also promising, with an R2 of more than 0.6. These findings hold for sub-samples according to when the equaliser went in, with an especially pronounced increase in relative stakes on the equalising team in the second half of matches.",
+    "quality": 0
+}

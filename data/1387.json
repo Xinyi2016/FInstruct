@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain why there is a disconnect between Russian equity prices reported by the Moscow Exchange and the CDS market, as mentioned in the exhibit?",
+    "output": "Sure, the reason for this disconnect is that investors trading on one market are not trading on the other. While Russian equity prices declined around 40% since the invasion, the prices in the CDS market were essentially zero. This can be attributed to the fact that most foreigners are unable to trade Russian stocks, and CDS are only accessible to institutional investors.",
+    "quality": 0
+}

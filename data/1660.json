@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide recommendations on how asset owners can integrate a low volatility factor allocation into their existing roster of active managers.",
+    "output": "One approach could be a \"barbell\" strategy between core indexed and active management. Asset owners can gradually fund a low volatility factor allocation from the indexed allocation while preserving the existing managers. The active management can consume the bulk of the risk budget, while the low volatility factor allocation can either derisk the equity program or increase the allocation to active management. Another option could be a top-down factor implementation, where the factor allocation is funded from the indexed allocation but given added restrictions to preserve existing managers. Alternatively, the asset owners might consider a bottom-up factor implementation where investment staff are given greater discretion in having the factor program compete with active managers for funding and risk budget. Ultimately, the best approach may vary depending on the asset owner's investment beliefs, goals, and risk tolerance.",
+    "quality": 0
+}

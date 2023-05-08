@@ -1,0 +1,5 @@
+{
+    "instruction": "Investigates the effect of different deposit and loan rates on a continuous-time mean-variance hedging problem in the Black-Scholes market.",
+    "output": "The gap between deposit and loan rates has a similar effect to transaction costs, dividing the trading space into three regions corresponding to different optimal strategies: borrowing money, no-trading, and saving money. When an investor\u2019s wealth is far from her target, she must borrow money to invest in the risky asset to maximize her chances of achieving her goal. If her wealth is close to her target, she should save some in the money account to reduce her risk. In the middle no-trading region, no trading is needed. The trading strategies in the borrowing and saving regions are similar to the no gap case, except for using the loan rate in the borrowing region and the deposit rate in the saving region. Therefore, the optimal strategy is a mixture of continuously trading and discontinuously trading strategies.",
+    "quality": 2
+}

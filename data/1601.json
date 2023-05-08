@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how hedge ratios for MBS traded in the to-be-announced market are determined and how it relates to duration hedging in MBS investment and risk management?",
+    "output": "Sure. Hedge ratios for MBS in the TBA market are determined based on market consensus which takes into account the amount of interest-rate product used relative to MBS holdings to achieve neutral duration. This is important for duration hedging in MBS investment and risk management as duration hedging is a key challenge for MBS investors. Model-based duration measures like option-adjusted duration (OAD) are often used for less liquid collateralized mortgage obligations like inverse interest-only instruments. However, choosing which curve to use for hedging and measuring duration can be a complicated matter.",
+    "quality": 0
+}

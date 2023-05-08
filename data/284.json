@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of Kessler Syndrome and its different definitions.",
+    "output": "Kessler Syndrome is a scenario in which the density of debris objects in Earth's orbit becomes so high that it creates a cascading effect of collisions, leading to an exponential increase in the number of debris objects. The concept was first introduced by Donald Kessler in 1978, and has since been studied by various engineering and scientific communities. There are different definitions of Kessler Syndrome, depending on the assumptions made about launch activities and orbital management institutions. Some definitions assume continuation of historical trends indefinitely or continuation with total launch cessation at an arbitrary date. Other definitions are based on a launch policy that holds the stock of \"intact objects\" constant. Our definition encompasses all these definitions and makes the dependence on the launch policy explicit. The unavoidable Kessler region is defined as the region where Kessler Syndrome will occur even if there are no new launches, under a never-launch policy.",
+    "quality": 0
+}

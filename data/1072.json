@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the loan-level data for auto-loan asset-backed securities (ABS) and determine the drivers of collateral risk and overall performance by examining auto-vehicle type, loan-to-value (LTV) ratio, gross coupon, term, and issuer.",
+    "output": "By analyzing loan-level data for auto-loan ABS and examining factors such as auto-vehicle type, LTV ratio, gross coupon, term, and issuer, we can gain granular insights into the drivers of collateral risk and overall performance. This data can be incorporated into MSCI models to sharpen our analysis of auto-loan ABS. U.S. regulators have required issuers to disclose data on individual loans bundled into publicly offered auto-loan ABS, providing four years of loan-level data. By incorporating this data into the MSCI U.S. Auto Loan ABS Collateral Model, we can better understand the risks and performance of these securities. The exhibit below shows the CDR of two auto-loan ABS deals, which vary in default performance due to loan-level differences that investors may overlook.",
+    "quality": 0
+}

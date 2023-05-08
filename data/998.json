@@ -1,0 +1,5 @@
+{
+    "instruction": "Please summarize the findings regarding the performance of sector- and country-selection asset-allocation strategies based on time-series valuation metrics.",
+    "output": "According to the study, value from sector and country selection followed a similar pattern as value in stock selection. These asset-allocation strategies have registered a negative return since 2010, meaning that sectors and countries with higher valuations have performed better than those with lower valuations. However, this is partly due to the outperformance of information technology (IT) and the U.S. as opposed to lower valuations in other sectors and countries.",
+    "quality": 0
+}

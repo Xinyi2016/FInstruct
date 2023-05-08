@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the impact of ESG ratings on Chinese companies over the past two years.",
+    "output": "Over the past two years, Chinese companies have significantly improved their ESG ratings, with those with better CESG ratings exhibiting lower systematic risk and lower financing costs. Using backtesting to exclude low ESG rated stocks has helped reduce risk and increase investment returns for active funds focusing on China. Just two years ago, ESG issues were not a consideration for many Chinese companies, and MSCI had not yet rated most of the Chinese stocks listed domestically. However, since 2016, Chinese policymakers and regulatory agencies have been pushing the country towards \"green development,\" with some Chinese A-shares being included in the MSCI Emerging Markets Index, prompting further sensitivity towards ESG issues among Chinese companies. As of May 29, 2020, almost all 704 Chinese stocks in the index have undergone MSCI ESG ratings, with Chinese companies' ESG performance showing significant improvement over the past two years.",
+    "quality": 0
+}

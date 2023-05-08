@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain why the MSCI Climate Indexes underperformed relative to their parent indexes in developed markets, but demonstrated greater resilience in emerging markets?",
+    "output": "The underperformance of MSCI Climate Indexes in developed markets was due to an energy sector rally and the relative outperformance of companies with low valuations. On the other hand, the indexes showed greater resilience in emerging markets despite the same factors affecting the energy sector. This was because of long-term decarbonization commitments from major energy-consuming nations, which may support the low-carbon transition going forward. Additionally, the outperformance of energy and value stocks in 2022 detracted from the performance of the indexes compared to their market capitalization-based benchmarks, given that these indexes historically had lower allocations to the energy sector and value stocks.",
+    "quality": 0
+}

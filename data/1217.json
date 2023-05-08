@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the carbon intensity levels of different types of investment funds and their sector exposures, based on the information provided.",
+    "output": "Expansion-capital and venture-capital funds have lower carbon intensity levels due to their focus on industries with inherently low intensity such as information technology and communication services, which make up the majority of their holdings. However, distressed-debt funds have exceptionally high levels of carbon intensity as they have higher exposure to carbon-intensive sectors such as energy, materials, and utilities. Mezzanine- and senior-debt funds have much lower levels due to their lower exposure to these sectors. At the sector level, utilities have the highest average intensity at 1,655 tons CO2 equivalent/USD 1 million in sales, which is roughly 30 times the overall average of other sectors.",
+    "quality": 0
+}

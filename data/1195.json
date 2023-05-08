@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the exhibit below and the impact of transition risk on the mean probability of default by sector?",
+    "output": "Sure thing. The exhibit shows how transition risk impacts the median five-year default probability by sector. It's important to note that the impact varies widely depending on the sector. For example, under the \"Net-Zero 2050\" scenario, the increase in median default probability could range from 0.09 percentage points for USD utilities IG issuers to 0.45 percentage points for EUR energy IG issuers. But for USD high-yield energy issuers, the increase could be as high as 1.6 percentage points. So while the median default probability is a useful metric, it hides significant dispersion within the universe of issuers.",
+    "quality": 0
+}

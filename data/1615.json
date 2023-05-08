@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the loss-absorption mechanics of Cocos and how AT1 bonds' loss-absorption risk relates to a bank's capital position.",
+    "output": "Cocos' loss-absorption mechanics are quite complex and untested, which can make it challenging to measure and manage risks. AT1 bonds have a loss-absorption risk that increases as a bank's capital position deteriorates, which is known as \"negative convexity.\" To capture this risk, MSCI's model for AT1 bonds considers the equity of the issuing bank as an explicit risk factor. As can be seen in the exhibit, Credit Suisse's AT1 bonds had elevated risks due to their equity exposure, and traditional risk management focused on credit-spread risk would have missed these coco-specific risks. BNP Paribas SA's AT1 bonds also exhibited higher equity risk after the collapse of Credit Suisse, reflecting the heightened sense of risk in the overall coco-bond market.",
+    "quality": 0
+}

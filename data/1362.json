@@ -1,0 +1,5 @@
+{
+    "instruction": "Research the average size of issuers' liabilities in different sectors of the MSCI USD Investment Grade (IG) Corporate Bond Index versus the MSCI USD High Yield (HY) Corporate Bond Index and the impact of emission profiles on the size of bond pools.",
+    "output": "According to our research, there is a larger divergence between the size of issuers' liabilities in different sectors in the MSCI USD Investment Grade (IG) Corporate Bond Index compared to the MSCI USD High Yield (HY) Corporate Bond Index. Companies in sectors with worse emission profiles tend to have smaller bond pools with lower liquidity. This indicates that emission profiles can have an impact on the size of a company's bond pool, which may affect its financial stability and ability to meet its debt obligations.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide more information on the mid-capitalization factor's contribution to the MSCI USA Small Cap Index's active return?",
+    "output": "Sure! The mid-capitalization factor had a modest contribution of approximately 20 basis points, only around a tenth of the total active return. Most of the outperformance of the MSCI USA Small Cap Index relative to the MSCI USA Index was driven by riskier and lower-quality assets with higher exposures to beta and lower exposures to profitability. The rotation out of momentum also contributed significantly. Nine out of 10 contributions were positive among the 10 largest contributors by absolute value among all model factors, including the mid-capitalization factor.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of modularity metric and how it is used in decision-making.",
+    "output": "Modularity metric is a measure of the degree of modularity or the extent to which a system can be divided into smaller, independent modules. In decision-making, modularity metric is used to evaluate the degree of separation or isolation between different decisions or sub-problems. A high modularity metric indicates that decisions or sub-problems can be made independently of each other, while a low modularity metric suggests that decisions or sub-problems are interdependent and cannot be made in isolation. The modularity metric is used to assess the complexity of decision problems and to identify the optimal level of decomposition of decision problems into smaller sub-problems.",
+    "quality": 0
+}

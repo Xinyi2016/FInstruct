@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how careful selection using size and liquidity criteria can help improve the emission intensity of a corporate bond portfolio.",
+    "output": "Choosing larger issuers in a corporate bond index may not always lead to the desired results, as demonstrated by the MSCI EUR IG Corporate Bond Index. Opting for larger issuers in sectors like energy and utilities reduces exposure to sectors with lower emission intensity, which can increase the carbon footprint of an index. However, improving liquidity in a corporate bond index does not necessarily worsen its carbon footprint. Through careful selection using size and liquidity criteria, owners of a corporate bond portfolio can improve the emission intensity of their portfolio while still opting for higher-liquidity bonds. By doing so, portfolio owners can reduce their exposure to carbon-intensive sectors, ultimately leading to a more sustainable portfolio.",
+    "quality": 0
+}

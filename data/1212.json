@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the exhibit, explain the persistent difference in leader/laggard spreads and the premium for leader bond issuers.",
+    "output": "The exhibit shows that there is a persistent difference in leader/laggard spreads based on both environmental pillar and carbon-emission scores, indicating a small premium for leader bond issuers. This means that yields on bonds of leaders were lower than those of laggards. As of Sept. 24, 2021, this premium was about 12 basis points (bps) based on environmental-pillar scores and about 5 bps based on carbon-emission scores. The observed premium between leaders and laggards was not noticeably different during 2021 from how it was during 2018-2019. This suggests that there is a persistent premium for leader bond issuers based on their environmental and carbon performance.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you please explain how the market's expected recovery rate affects SNP bonds compared to traditional senior bonds?",
+    "output": "A more direct measure of how SNP bonds differ from traditional senior bonds is the market's expected recovery rate. The median implied recovery rate based on senior-preferred/SNP bond pairs is displayed in the next exhibit. This measure reflects the market's perception of the likelihood of recovery in the event of default. Generally, the expected recovery rate for SNP bonds is higher than that of traditional senior bonds, as they are closer in the capital structure to equity and may bear a higher level of risk.",
+    "quality": 0
+}

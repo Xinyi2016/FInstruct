@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the findings of the empirical analysis on homophily in social networks.",
+    "output": "The empirical analysis found that social networks exhibit homophily along three dimensions: poverty status, baseline academic achievement, and baseline centrality level. Specifically, poor students have fewer non-poor friends, lower-achieving students interact more with other lower-achieving students and less with higher-achieving students, and less central students have fewer connections with more central peers. These findings were statistically significant with p-values less than 0.01.",
+    "quality": 0
+}

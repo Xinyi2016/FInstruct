@@ -1,0 +1,5 @@
+{
+    "instruction": "Develop a forward-looking gauge for ETF investors to measure the price-NAV risk of their holdings using transaction-cost estimates.",
+    "output": "Our analysis of thematic equity ETFs with USD 1 to 20 billion in AUM and significant holdings of constituent shares indicate that transaction-cost estimates could serve as a useful forward-looking gauge for price-NAV risk. By using MSCI's RiskMetrics\u00ae LiquidityMetrics\u00ae and historical fund-flow data, we estimated transaction costs for each ETF and found that these were generally close to the maximum price-NAV difference during our sample period. This suggests that investors could use transaction costs as a tool to anticipate potential price-NAV discrepancies and manage their ETF holdings more effectively.",
+    "quality": 0
+}

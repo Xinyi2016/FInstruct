@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the key findings of the empirical study.",
+    "output": "The empirical study focuses on S&P 500 index firms for 2014-2020 and uses firms' greenhouse gas (GHG) emission intensity to create peer groups of green and brown stocks. The study finds that on average, about 20% of the stocks differentiate themselves from their peers in terms of realized-alpha performance over various horizons. The study also finds a much higher variability in this opportunity set within brown stocks and that this heterogeneity has decreased over time, especially for green stocks, implying that it is now more difficult for investment managers to deploy their skills when allocating among low-GHG intensity stocks.",
+    "quality": 0
+}

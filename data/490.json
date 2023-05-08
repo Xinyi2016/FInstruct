@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the Gadam algorithm and its components.",
+    "output": "The Gadam algorithm is a combination of the Adam algorithm and tail iterate averaging for improved convergence properties and variance reduction. The Adam algorithm component uses default algorithm parameters, and the mini-batch size selected depends on the problem to be solved. Mini-batch sizes of at least 1,000 paths of the training data set are required for measures of tail risk in the objective.",
+    "quality": 0
+}

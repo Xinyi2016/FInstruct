@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain why liquidity of bonds is important when constructing an index.",
+    "output": "The liquidity of bonds in an index is crucial to ensure its replicability as the cost of replicating the index is directly impacted by the liquidity of its constituents. Tradability and liquidity metrics are the best measures of a bond's liquidity. However, in absence of such metrics, size is a widely used proxy for bond liquidity in index construction. Corporate bonds with smaller issuance size tend to have less liquidity, resulting in wider average bid-ask spreads across different segments of the credit market. Therefore, the liquidity of bonds plays a critical role in index construction and should be carefully considered.",
+    "quality": 0
+}

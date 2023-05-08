@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the events leading up to the Compound community's decision to update the risk parameter and cap the amount of ETH that can be borrowed.",
+    "output": "On 16 August 2022, the Compound community began discussing the potential consequences of the Ethereum network's upcoming merge. Concerns arose regarding the liquidity risk for ETH, as DeFi users might withdraw their ETH from Compound or borrow any available ETH. To address this, the community suggested updating the risk parameter and capping the amount of ETH that could be borrowed. After two weeks of discussion, a vote was held on 8 September 2022, and the COMP token holders voted in favor of the changes. The alterations were executed on 10 September 2022, taking a total of three weeks from start to finish. Following the adoption of the proposal, the interest rate for ETH borrowing on Compound utilized the jump interest rate model, where the interest rate at time t\ud835\udc61titalic_t contains a kink and is given by.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please investigate any instances where the price-NAV difference falls outside of our transaction-cost estimates and provide an explanation for this occurrence.",
+    "output": "After analyzing the data, we have found that in a small number of cases, the AP's flow expectations exceeded the 99th percentile of historical flows, resulting in a price-NAV difference that fell outside of our transaction-cost estimates. Additionally, same-day liquidation of the basket of equities and different market-closing times for global ETFs contributed to these outliers. We recommend that we continue to monitor and analyze these occurrences in order to make adjustments to our transaction-cost estimates where necessary.",
+    "quality": 0
+}

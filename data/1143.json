@@ -1,0 +1,5 @@
+{
+    "instruction": "Please review the exhibit below and explain the difference in funding ratio between the Reflation and Stagflation scenarios.",
+    "output": "Under the Reflation scenario, the funding ratio remained stable and above 100% due to gains in both assets and liabilities, and no special contributions were required. However, under the Stagflation scenario, the funding ratio dropped below 85% by the end of the second year and special contributions were triggered. This caused the funding ratio to recover to 100% four years after the market bottom. Without the special contributions, it would have taken 10 years to reach 100%. The exhibit demonstrates a significant difference in both the speed and need for intervention to maintain funding ratio under these two scenarios.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the probabilities of deep recessions in the three economies (2007, 1990, and 1975) based on the output drop relative to the high steady state level for at least 4 consecutive quarters.",
+    "output": "The 2007 economy is approximately twice as likely to experience a 10% fall in output over a 10-year period compared to the 1990 economy. Over 100 quarters, the 2007 economy appears about 1.67 times more likely to experience a 10% recession than the 1990 economy. The same probability for the 1975 economy is 3.4%. This implies that, in expectation, the 2007 economy experiences a recession larger than 10% every 75 years, the 1990 economy does so every 120 years and the 1975 economy every 735 years.",
+    "quality": 2
+}

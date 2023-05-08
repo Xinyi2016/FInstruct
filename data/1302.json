@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the bid-ask spreads of the portfolios with the benchmark both before and after the COVID-19 pandemic.",
+    "output": "The portfolios consistently had lower bid-ask spreads compared to the benchmark even after the onset of the COVID-19 pandemic. However, there was a significant index turnover triggered by the pandemic in the benchmark which also affected the portfolio but to a lesser degree. Additionally, the portfolios experienced spikes in turnover which were also lower than that of the benchmark during this period.",
+    "quality": 0
+}

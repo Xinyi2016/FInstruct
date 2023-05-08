@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the proposed approach to identify different regimes in the data and use it as a pre-filter to fit several models that produce more accurate results than an unfiltered model.",
+    "output": "The proposed approach involves using a clustering algorithm based on IV to identify different regimes in the data. The algorithm is modified to serve the specific needs of the project. The sparse inverse covariance matrix at each point in time is used to infer different volatility states, as in Barfuss et al. (2016). The identified regimes are then used as a pre-filter to fit several models that produce more accurate results than an unfiltered model.",
+    "quality": 0
+}

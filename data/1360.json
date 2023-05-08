@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the exhibit above and explain how liquidity is related to the size of bonds.",
+    "output": "Based on the exhibit above, liquidity is related to the size of bonds as bid-ask spreads were generally lower for bonds with higher total amount outstanding, serving as proxies for liquidity in this analysis. This was observed both in normal and stressed liquidity conditions, which is useful information for investors to consider when making investment decisions.",
+    "quality": 0
+}

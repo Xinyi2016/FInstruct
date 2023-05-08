@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the factors that were tested in the multifactor model?",
+    "output": "The factors selected for the multifactor model were chosen because they have some similarity in the equity space and were based on initial beliefs. One example is the notion that higher-capital-value properties may attract an illiquidity premium because they are more difficult to buy. The factors tested were yield, leasing profile, momentum, and two others, but only three of them (yield, leasing profile, and momentum) showed promising results when tested on a sample of over 25,000 retail, office, and industrial properties from the MSCI UK Quarterly Property Index between 2002 and 2020.",
+    "quality": 0
+}

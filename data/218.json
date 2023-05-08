@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the challenges associated with implementing mean-variance portfolios.",
+    "output": "Despite its simplicity and theoretical appeal, implementation of mean-variance portfolios is often impractical. The traditional approach to use the sample moments as input parameters leads to extreme negative and positive weights, and extensive literature documents poor out-of-sample performance of such plug-in approach. The problem might be seen as an inverse problem, and it has high sensitivity to even small perturbations of the input estimates: the mean and the covariance matrix. The MV portfolios are more sensitive to changes in the mean estimate, and the error of mean estimation is so large that nothing is lost when one ignores the mean at all. Following the majority of research on this topic, we focus here on global minimum variance portfolios (GMV), which only depend on the covariance.",
+    "quality": 0
+}

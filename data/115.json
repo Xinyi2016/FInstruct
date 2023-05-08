@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a code to extract the contracted salary of each worker from the RAIS dataset.",
+    "output": "Here is a code snippet in Python to extract the contracted salary of each worker from the RAIS dataset:\n```python\nimport pandas as pd\n\n# Load the RAIS dataset\ndf = pd.read_csv('RAIS.csv')\n\n# Extract the contracted salary of each worker\ncontracted_salary = df['contracted_salary'].values\n```\nIn this code, we first import the Pandas library and load the RAIS dataset into a DataFrame using the `read_csv()` function. We then extract the `contracted_salary` column from the DataFrame using the `.values` attribute and store it in a new variable called `contracted_salary`. This variable contains the contracted salary of each worker in the RAIS dataset.",
+    "quality": 2
+}

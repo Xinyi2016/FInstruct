@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide a brief summary of the findings from the MSCI Hedge Fund Crowding data?",
+    "output": "Sure, based on our analysis of the MSCI Hedge Fund Crowding data, we found that hedge funds held heavy short positions in crowded stocks prior to the January 2021 short squeeze. Our crowding conviction metrics also indicated that these hedge funds may have had difficulty liquidating these positions. Additionally, we found that the same data can be used to create a risk factor that provides further insights into potential short squeezes and other risks for individual stocks and portfolios.",
+    "quality": 0
+}

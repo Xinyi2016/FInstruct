@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the importance of using bid-ask information in the calibration scheme for option pricing.",
+    "output": "Bid-ask information is crucial in the calibration scheme for option pricing because it provides more stable results, especially when the option market liquidity is limited. This is because bid-ask information reflects the market's consensus on the price of an asset, which is necessary for accurate option pricing. Additionally, the crypto market is open 24 hours a day, 7 days a week, and has a higher volatility compared to traditional markets, which means that market prices need to be updated more frequently. Therefore, using bid-ask information in the calibration scheme allows for more accurate and up-to-date option pricing.",
+    "quality": 2
+}

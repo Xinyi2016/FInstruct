@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the purpose of SNP bonds and how they differ from other loss-absorbing capital.",
+    "output": "SNP bonds are a type of loss-absorbing capital that European banks are beginning to issue in order to comply with the additional total loss-absorbing capacity (TLAC) requirements set by the Financial Stability Board and regulators for global systemically important banks (G-SIBs). Unlike contingent-convertible bonds, SNP bonds cannot be written down without triggering a default. However, in the event of default, they are required to be written down to absorb losses, which means that their expected recovery rate is less than that of traditional senior bonds. This characteristic defines what is known as recovery risk, which makes them an important tool for protecting taxpayers and avoiding another government bailout of too-big-to-fail banks.",
+    "quality": 0
+}

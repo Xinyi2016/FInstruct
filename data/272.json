@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a table summarizing the growth rate of the space economy, the occupancy elasticity, and the growth rates of returns and costs for the high-growth free-elasticity parameter set, the low-growth free-elasticity parameter set, and the mean-growth, low-elasticity and high-elasticity parameter sets.",
+    "output": "| Parameter Set | Growth Rate of Space Economy | Occupancy Elasticity | Growth Rates of Returns and Costs |\n| --- | --- | --- | --- |\n| High-Growth Free-Elasticity | 10.4% | 0.5 | 5.4% |\n| Low-Growth Free-Elasticity | 5.4% | 0.5 | 5.4% |\n| Mean-Growth, Low-Elasticity | 7.5% | 0.5 | 5.4% |\n| Mean-Growth, High-Elasticity | 12.6% | 0.5 | 5.4% |\n\nNote: The growth rates of returns and costs are the same for all parameter sets.",
+    "quality": 2
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze trends in active opportunities from bottom-up stock selection by computing the stock-specific contribution to the total dispersion across MSCI ACWI, MSCI World and MSCI EM IMI. Provide insights on the percentage of stock-specific contribution in developed and emerging markets, and how it has changed recently.",
+    "output": "Based on the analysis of the stock-specific contribution to the total dispersion across MSCI ACWI, MSCI World and MSCI EM IMI, we found that the dispersion of returns tends to follow the market cycle. During periods of high volatility, such as 1999 to 2002, 2008 to 2009, and 2020, stock-specific contributions tend to be lower due to higher correlation among stocks, making systematic factors more important. The stock-specific contribution as a percentage of total dispersion was typically between 70% and 80% in developed markets and between 65% and 85% in emerging markets. We have observed that stock-specific contributions have been rising recently in each region.",
+    "quality": 0
+}

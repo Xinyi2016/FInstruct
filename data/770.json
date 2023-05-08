@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the minimum market-cap approach to the other two indexes in terms of market-cap coverage and number of constituents.",
+    "output": "Our study found that the minimum market-cap approach had the largest market-cap coverage and highest number of constituents throughout the study period. However, we also found that these metrics fluctuated more in this approach than the other two indexes due to the fixed market-cap size used for additions and deletions from the index. This suggests that while the minimum market-cap approach may provide broader coverage and more constituents, it may also be subject to greater volatility and market fluctuations.",
+    "quality": 0
+}

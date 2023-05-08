@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the exhibit provided, write a brief summary of the performance of the most cyclical factors from the fourth quarter of 2002 to the fourth quarter of 2022 and their relationship to risk-on/risk-off behavior.",
+    "output": "The exhibit shows that yield and leasing profiles are the most cyclical factors from the fourth quarter of 2002 to the fourth quarter of 2022, and they tend to move in different directions. During the GFC, there was a flight to safety towards assets with stronger leasing profiles and away from higher-yield assets, which were perceived as riskier. However, this performance dynamic only appeared after five quarters from the point where asset values had peaked. In the early stages of slowing returns, the yield factor was still associated with outperformance, while the leasing factor remained muted.",
+    "quality": 0
+}

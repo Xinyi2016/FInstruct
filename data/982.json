@@ -1,0 +1,5 @@
+{
+    "instruction": "Use MSCI Hedge Fund Crowding data to calculate the days-to-liquidate for a list of stocks that hedge funds have heavily shorted.",
+    "output": "After analyzing the MSCI Hedge Fund Crowding data, we found that the days-to-liquidate for the heavily shorted stocks in our list ranged from moderate to high. In particular, stock XYZ had a days-to-liquidate in the top quartile for the entire year, indicating the potential for a significant short squeeze if hedge funds decide to exit their positions. We recommend closely monitoring these stocks for any potential market movements.",
+    "quality": 0
+}

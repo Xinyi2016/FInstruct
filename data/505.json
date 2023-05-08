@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the caveat mentioned in the text and how the researchers addressed it.",
+    "output": "The researchers noted that their sample consisted only of lottery winners, and therefore, the characteristics of lottery winners might differ from those of the general population. To address this concern, they re-weighted the estimation sample to make its characteristics similar to those of the general population in Taiwan. They matched observable characteristics such as marital status, age, and household wealth groups. After re-weighting, although the differences in observable characteristics between the lottery sample and the population remained statistically significant, the magnitudes became much smaller. The estimate based on the sample with population re-weighting was close to the main result.",
+    "quality": 0
+}

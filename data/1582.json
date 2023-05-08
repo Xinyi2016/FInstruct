@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the information provided, analyze the impact of the debt-ceiling debate on the trading activity of credit-default swaps (CDS) on the U.S. government.",
+    "output": "The heated debate surrounding the U.S. government's ability to borrow has led to a significant increase in trading activity on U.S. CDS. Implied default probabilities have risen to levels not seen since the 2013 debt-ceiling debate, indicating that some market participants are challenging the view that the U.S. Constitution does not allow the government to default on its debt obligations. Historically, CDS on the U.S. government generated little interest in the market, but since mid-January, there has been a remarkable pick-up in activity on U.S. CDS, as shown in the exhibit above. This uptick in trading on U.S. CDS reflects the market's growing concerns about a potential default on the government's debt obligations.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the data in the exhibit below and explain the trend in ETF investor behavior.",
+    "output": "The exhibit shows that over the last one-year period, there has been a significant increase in cumulative cash flow in value ETFs, exceeding USD 30 billion. On the other hand, growth-ETF cash flow has remained flat. This trend can be attributed to the recovery and early expansion phases in the macroeconomic cycle, which historically favor value stocks. As a result, investors have been repositioning their portfolios to take advantage of this trend.",
+    "quality": 0
+}

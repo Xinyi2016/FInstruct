@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the proposed solution methodology in simple terms.",
+    "output": "The proposed solution methodology is designed to be simple and efficient. It uses a limited number of parameters that don't increase with the number of rebalancing events, making it feasible for problems with long or short time horizons and frequent trading/rebalancing. The approach also requires minimal information about the investment objective, and uses relatively shallow neural networks to ensure accurate results and an easy-to-train model that is less susceptible to common neural network problems like vanishing or exploding gradients.",
+    "quality": 0
+}

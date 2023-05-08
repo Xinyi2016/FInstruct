@@ -1,0 +1,5 @@
+{
+    "instruction": "Could you please summarize the potential effects of the new higher loan-size limit on both the supply and demand side?",
+    "output": "Sure, on the supply side, the new higher loan-size limit has the potential to encourage banks to choose GSE securitization for adjustable-rate mortgages (ARMs). This is because the limit allows for more flexibility in loan sizing, which may align better with ARMs than fixed-rate mortgages. On the demand side, ARMs may become more attractive to investors due to their more favorable risk characteristics in comparison to other types of mortgage-backed securities (MBS). This heightened demand may prompt investors to increase their holdings of ARMs, especially in the face of potential rate increases.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the residual risks associated with the approach discussed in the exhibit.",
+    "output": "The approach introduced significant residual risk to currencies and countries, particularly during market stress. Ex-ante equity-market risk was almost 5%, while currency risk was 3.3% and country risk was nearly 4%. Although reducing equity risk through exposure to other countries may have been possible, investors may have faced liquidity issues sourcing futures for smaller markets. Additionally, institutional investors may not always consider other instruments, such as ETFs or swaps, as suitable due to borrowing cost, funding requirements, regulations, time horizon, or other considerations.",
+    "quality": 0
+}

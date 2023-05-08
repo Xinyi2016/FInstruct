@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the limitations of the investigation and suggest areas for future research.",
+    "output": "The investigation has some limitations that should be considered. First, the study may underestimate storage needs by averaging over specific weather years. In reality, system planners may only consider scenarios with the highest storage needs to derive robust storage capacity needs. Second, the study excludes demand-side flexibility options, which may decrease the storage-mitigating effects of interconnection. Third, the study's results depend on input parameter assumptions, such as fixed interconnection capacities. To improve the investigation, future research could disentangle the \"level\" and \"pattern\" effects of wind and solar PV profiles, differentiate between the availability of different flexibility options, and consider the impact of extreme renewable energy droughts on storage needs.",
+    "quality": 0
+}

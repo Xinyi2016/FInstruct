@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the impact of a stress test assuming a drop in equity and credit markets similar to that of 2008 and early 2009 on a hypothetical portfolio of global equities and U.S. bonds.",
+    "output": "Under such a scenario, the portfolio could potentially experience a further loss of 15%, with global equities losing around 22%, investment-grade bonds sinking a further 8%, and high-yield bonds experiencing a potential loss of 19%. The 10-year U.S. Treasury yield could also decrease by another 30 bps. We would like to emphasize that this is a \"what-if\" analysis and not a forecast as markets could drop more or less.",
+    "quality": 0
+}

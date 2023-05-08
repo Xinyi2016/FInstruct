@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the approach used in the paper.",
+    "output": "The approach used in the paper is based on predicting ESG ratings from news data using a multi-variate timeseries solution. The solution captures different aspects of companies, including the changes in the number of relevant and irrelevant articles, sentiment, and semantics of their ESG related information. The resulting timeseries are then used as input to train a deep learning model on the task of predicting ESG rating. The approach is fully automated and does not require any manual selection, unlike other methods. The dataset used is also larger in terms of the number of companies and news articles. The results indicate that the approach is promising for the ESG prediction task.",
+    "quality": 0
+}

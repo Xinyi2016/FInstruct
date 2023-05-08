@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how implementing crisis-period exposure management and TAA policies through integrated futures can help investors manage increased market volatility, based on the information provided.",
+    "output": "According to the information provided, during market-crisis periods, the weighted average turnover of stocks in the MSCI EM Index rose by 30-70%, while the daily trading volume of E-mini futures based on this index increased by 70-160%. Given this increased market volatility, one option to manage exposure during these periods is to implement crisis-period exposure management and tactical asset allocation (TAA) policies through integrated futures. By using futures contracts that are tied to the index, investors can potentially protect their portfolios from volatility and losses while still taking advantage of market opportunities. This approach may help investors navigate market crises while minimizing risk and maximizing returns.",
+    "quality": 0
+}

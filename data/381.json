@@ -1,0 +1,5 @@
+{
+    "instruction": "Research a recent study on the influence of news and sentiment on DA prices and summarize the key findings.",
+    "output": "Recent research has shown that DA prices are largely influenced by intra-day jumps caused by news and sentiment instead of historical returns or standard risk factors (Liu and Tsyvinski, 2021). This suggests that sentiment and news events play a significant role in the fluctuations of DA prices. Additionally, approaches employing the SVCJ usually focus on daily data (Hou et al., 2020), but the behavior of the model in a high frequency (HF) setup is yet to be explored. The valuation of cryptocurrencies also remains an open question (Burda, 2021), and sentiment is usually represented by observing whether people in online communities such as Twitter or Reddit are majorly bullish or bearish based on specific vocabulary used (Nasekin, 2020).",
+    "quality": 0
+}

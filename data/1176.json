@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the concentration of emissions by sector for private and public companies.",
+    "output": "Private companies had a lower concentration of emissions in the utilities, energy, and materials sectors, accounting for approximately 68% of total emissions. These sectors accounted for only 12.3% of private-company revenue compared to 20.5% for public companies.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the key points of the passage and provides a brief explanation of the hypothesis.",
+    "output": "The passage discusses the impact of war and economic sanctions on the Russian ruble, which significantly weakened and lost almost 50% of its value against the USD. In this context, the authors propose to create a prediction model based on limited attention theory and the forward-looking nature of option contracts. The goal is to predict intraday price fluctuations of the ruble against the USD and the EUR during the onset of the Russo-Ukrainian crisis. The hypothesis is that the population's attention and investors' expectations can be used to create a suitable prediction model.",
+    "quality": 1
+}

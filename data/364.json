@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the methodology used in the analysis of incident-level datasets.",
+    "output": "The methodology used in the analysis of incident-level datasets involved comparing multiple datasets to demonstrate that incidents\u2019 average distances to shore are increasing and that smugglers are shifting towards the use of smaller boats and wooden boats. However, each of these sources records different incident attributes, and each demonstrates different biases and shortcomings. Collecting data from multiple alternative sources also required substantial manual effort, and matching incidents across sources was challenging due to variations in the reported location, date, and number of people involved. Despite these challenges, the analysis was able to demonstrate that incidents\u2019 average distances to shore are increasing and that smugglers are shifting towards the use of smaller boats and wooden boats.",
+    "quality": 0
+}

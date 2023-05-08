@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the impact of the coronavirus epidemic on the corporate-bond market and explain how government intervention affected the market.",
+    "output": "The coronavirus pandemic had a significant impact on the corporate-bond market, with spreads of the MSCI USD Investment Grade Corporate Bond Index widening by over 200 basis points between February 19 and the peak on March 23. However, after the U.S. Treasury Department and Federal Reserve announced the establishment of new facilities to purchase corporate bonds, spreads tightened rapidly, indicating efforts to stabilize the market and provide support for eventual economic recovery. Despite this, spreads as of June 26 remained 165 bps, still higher than just before the onset of the crisis. The increase in corporate-debt net issuance, resulting from the tightening of spreads, led to a 10% increase in the outstanding supply of U.S. investment-grade (IG) corporate bonds between March 1 and June 26. Overall, government intervention has had a positive impact on the corporate-bond market during the coronavirus pandemic.",
+    "quality": 0
+}

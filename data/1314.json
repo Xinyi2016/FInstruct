@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the exhibit, provide a summary of how the distribution of individual asset returns in the MSCI US Quarterly Property Index changed between 2020 and 2021 and how this trend varied across different property types.",
+    "output": "The exhibit shows that the distribution of individual asset returns in the MSCI US Quarterly Property Index shifted to the right and widened considerably between 2020 and 2021. This trend varied across different property types, with industrial properties being the most noteworthy in terms of how much they widened and shifted rightward. In addition, by slicing the 2021 all-property performance distribution into 10 equally sized groups, we can see that property type had a significant impact on relative performance, with office and retail properties performing poorly and industrial properties performing well. In fact, slice 1, which represents the best-performing 10% of assets, consists almost entirely of industrial properties.",
+    "quality": 0
+}

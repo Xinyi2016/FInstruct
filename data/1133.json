@@ -1,0 +1,5 @@
+{
+    "instruction": "Please identify funds that hold a significant fraction of their constituents\u2019 shares based on the ownership ratio and rank them by their weighted average ownership ratio. From this list, select the top nine funds for analysis.",
+    "output": "Based on the ownership ratio, we have ranked the ETFs and selected the top nine for analysis. The characteristics of these funds are shown in the table below. The transaction costs have been estimated based on the 99th percentile of historical daily fund flows over the sample period. The exhibit displays the historical price-NAV differences and our model transaction-cost estimates. However, it should be noted that for ETF 5, the transaction-cost estimate is far above the realized price-NAV difference most of the time. It is possible that a smaller transaction size would be more representative of an AP\u2019s expectations for this fund.",
+    "quality": 0
+}

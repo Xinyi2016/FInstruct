@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an analysis of the net-short positions in futures linked to the MSCI EAFE Index and MSCI EM Index for the first quarter of 2023.",
+    "output": "In the first quarter of 2023, futures linked to the MSCI EAFE Index experienced their highest ever net-short positions build-up for the week ending March 14. This was largely driven by an increase in short positions as investors tried to manage their developed-market risk exposures in anticipation of the contagion effect. However, by the end of the quarter, net positions reverted to levels seen at the beginning of the year as regulators stepped in to stem further damage. On the other hand, investors in futures linked to the MSCI EM Index were net short around 30,000 contracts leading up to the banking crisis. They then cut their net shorts following the collapse of SVB and reinitiated net shorts toward the end of the quarter. The collapse of SVB may not have been considered to pose contagion risk in broader emerging markets, as investors moved on to focus on previous macro issues like inflation and growth.",
+    "quality": 0
+}

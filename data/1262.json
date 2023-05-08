@@ -1,0 +1,5 @@
+{
+    "instruction": "Write a brief reflection on the state of the U.S. auto market based on the statistics provided.",
+    "output": "The U.S. auto market had a tumultuous year in 2021, with peak annualized vehicle sales in April followed by a sharp decrease due to supply shortages. The drop in the auto inventory to sales ratio was drastic, with a decrease from 1.959 to 0.359 by year-end 2021. However, this had a positive impact on the used-vehicle market, resulting in a 44% increase in the used vehicle transaction amount. The used-car consumer price index also saw a significant jump from 153.1 in December 2020 to 210.2 in December 2021. It is interesting to note the historically high issuance in all four subcategories of auto ABS, indicative of the market's resilience in the face of supply chain challenges.",
+    "quality": 0
+}

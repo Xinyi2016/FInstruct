@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the formation of multiple RJVs and the impact of competition on R&D cooperation.",
+    "output": "In a market with four firms, two symmetric RJVs can form, each with two firms. This reduces the number of competing agents in the innovation stage but does not eliminate competition entirely. As a result, cheap projects may still be duplicated. The analysis of two competing RJVs is similar to the R&D competition regime in the baseline model when the budget of an RJV is sufficiently large. Proposition 1 states that when competition is relatively soft, variety and innovation probability are higher with two RJVs than with R&D competition without additional conditions. However, under relatively moderate or intense competition, cooperation on R&D increases project variety and innovation probability only if the budget and interest rate are sufficiently high. In this case, total R&D spending with two RJVs is lower than when four firms invest individually.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you analyze the impact of the COVID-19 pandemic on credit-card ABS issuance and performance in 2020, and explain the trends in charge-off and principal-payment rates for general-purpose and private-label issuers?",
+    "output": "Sure, based on data provided in the exhibit, credit-card ABS issuance declined significantly in 2020 as lenders tightened credit in response to COVID-19. However, the charge-off and principal-payment rates remained relatively stable, with a drop in charge-off rates at the onset of the pandemic and a slight decline in principal-payment rates in Q2. The improved disposable income and lower credit-card spending helped return the principal-payment rate to normal or slightly elevated levels. Our ABS model assumes that borrowers prioritize paying down credit-card debt when they receive stimulus payments due to high interest rates on credit cards. Overall, while the pandemic had a significant impact on credit-card ABS issuance, the performance of general-purpose and private-label issuers has held up well.",
+    "quality": 0
+}

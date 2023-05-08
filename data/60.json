@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the main findings of the paper in simple terms.",
+    "output": "The paper expands on the standard Hotelling model by introducing stochastic discoveries of an exhaustible resource. It solves the model using impulse control and finds that there is a critical frontier of \"proven\" reserves above which exploration is stopped and below which it happens at infinite speed. The level of \"proven\" reserves along this frontier indicates the scarcity of the resource. The expected shadow price of reserves rises at the rate of interest across exploratory episodes, but the actual prices realized may jump up or down upon exploration. The expected price increases at a rate bounded above by the rate of interest, consistent with most empirical tests.",
+    "quality": 0
+}

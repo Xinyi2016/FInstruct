@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the three main findings about open-access orbit use.",
+    "output": "The three main findings about open-access orbit use are: \n\n1. The open-access equilibrium collision probability is determined by the excess rate of return on a satellite. This generates an equilibrium manifold, subject to initial conditions and launch rate constraints.\n\n2. When collisions between debris produce more debris, Kessler Syndrome can occur along open-access paths. The study shows conditions under which open-access orbit users will cause Kessler Syndrome, and derives the social planner\u2019s solution, decomposes the steady-state marginal external cost, and numerically illustrates the inefficiency of open-access Kessler Syndrome.\n\n3. The study calibrates the model to an important region of low-Earth orbit and shows that sectoral growth projections from investment banks and industry associations are consistent with open-access Kessler Syndrome occurring as early as 2035.",
+    "quality": 0
+}

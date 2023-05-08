@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the performance of high-ESG-rated issuers compared to low-ESG-rated issuers over the analyzed period and identify any distinct regimes.",
+    "output": "After adjusting returns for credit-rating exposures, we found that high-ESG-rated issuers outperformed low-ESG-rated issuers over the analyzed period. There were three distinct regimes that we observed. The first regime was from 2014 to 2018, where the performance differences between high-ESG-rated issuers and low-ESG-rated issuers were muted. The second regime was from 2018 to 2020, during which high-ESG-rated issuers outperformed low-ESG-rated issuers and the entire universe. This could possibly be explained by the recent rise of ESG adoption by investors. Finally, from January 2020 to July 2020, we observed another regime, which further reinforced our conclusion that ESG ratings provided additional information relevant to the identification of risk that was not fully captured by credit factors including credit ratings.",
+    "quality": 0
+}

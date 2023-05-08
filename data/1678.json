@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide an analysis of the recent decline in equity markets and compare it with previous extreme market conditions?",
+    "output": "The recent decline in equity markets was not indiscriminate, as there was clear evidence of investors seeking safer assets in defensive sectors such as utilities and telecom. Cyclical sectors such as energy, materials, and information technology suffered more losses than the market as a whole. The same pattern was observed in equity factor indexes, with low volatility indexes outperforming and value and momentum indexes underperforming significantly. Interestingly, large-cap stocks saw a sharper decline than mid- and small-cap companies, resulting in the outperformance of the MSCI USA Equal Weighted Index. Factor returns during the decline were much less volatile than in previous extreme market conditions such as the Quant Crunch in 2007 and the bankruptcy of Lehman Brothers in 2008. While Black Monday may have been a significant event, there have been much more severe drawdowns and intra-market rotation in the past decade.",
+    "quality": 0
+}

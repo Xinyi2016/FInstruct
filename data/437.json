@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the literature on energy embodied in international trade.",
+    "output": "Energy embodied in international trade has been extensively studied in the literature. The interdependencies between industries within the economy have been initially depicted by Leontief, and an extended input-output analysis (EEIOA) has been developed to evaluate the environmental and social impact of economic activities. The interconnected and complex embodied energy flows in international trade have been studied from a network perspective, with many suitable tools applied to consider direct energy commodity trade networks at global, national, and regional levels. The literature typically models this topic using monoplex networks, but a multilayer network approach has been proposed to capture the joint interaction between sectors and countries.",
+    "quality": 0
+}

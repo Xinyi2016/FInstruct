@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the exhibit in simple terms.",
+    "output": "The exhibit shows how the model was able to accurately predict the changes in prices for all TBAs (trading, bond, and asset securities) across different interest rate scenarios in 2019. It demonstrates that the model was able to capture the market's expectations for price movements during a volatile interest rate environment.",
+    "quality": 0
+}

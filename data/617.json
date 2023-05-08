@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an overview of the performance of U.S. price momentum across different regions and sectors.",
+    "output": "According to our analysis using the MSCI U.S. Sector Model, we found that U.S. price momentum's performance has been particularly weak this month. The factor has underperformed across all sectors of the Global Industry Classification Standard (GICS\u00ae), and we observed the worst drawdowns in communication services, information technology, and consumer staples. Furthermore, the negative momentum performance was not limited to the U.S. but was also observed in Europe, Japan, Asia-ex Japan, and emerging markets.",
+    "quality": 0
+}

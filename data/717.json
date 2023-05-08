@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the reasons behind index methodology changes and provide an example.",
+    "output": "Index methodology changes may be considered if a significant portion of the investable opportunity set is missing from country indexes due to market evolution or other developments. For instance, many EM companies chose to list their stocks in countries other than their home country, which meant that excluding these companies from their domiciled country indexes resulted in a gap in coverage. To address this issue, Chinese companies like Alibaba and Baidu, Inc. were included in MSCI China Indexes and other regional indexes to reflect the information technology sector's significant contributions to China's economy.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the implications of the baseline model in the context of legislative voting patterns and interest group influence.",
+    "output": "The baseline model suggests that a stronger network in a party can increase the utility derived by some legislators due to the increased network effect. However, legislators in a party against the interest group may suffer from ideological-disutility when voting in favor of the interest group. If the ideological-disutility is low, the interest group can increase investments towards legislators with high Bonacich centralities to increase their probability of voting in favor of the interest group. This, in turn, may also influence their \"close\" friends to vote in favor of the interest group. However, once ideological polarization between the parties becomes high, no amount of investment can compensate for the increased ideological-disutility suffered by legislators. The proposition also notes two additional implications of the baseline model.",
+    "quality": 0
+}

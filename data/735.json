@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the historical performance of emerging-market equities during market downturns, analyze the potential implications for a hypothetical portfolio that is heavily invested in EM equities.",
+    "output": "Considering the historical performance of EM equities during market downturns, it is important to note that EM drawdowns have historically been larger than those in developed markets during market crises. This can be attributed to the fact that EM equities are a \"high beta\" asset class, meaning that their performance is highly sensitive to market fluctuations. As such, a portfolio heavily invested in EM equities may experience greater volatility and drawdowns during periods of market turbulence. It may be prudent to diversify holdings across different asset classes and geographic regions to mitigate risk and achieve a more balanced portfolio.",
+    "quality": 0
+}

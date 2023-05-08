@@ -1,0 +1,5 @@
+{
+    "instruction": "Identify the presence and pattern of clientelist institution in surveyed villages.",
+    "output": "To identify the presence and pattern of clientelist institution in surveyed villages, we use the derived network data. If a clientelist network is present, it would be characterized by patrons and clients. We define a patron, called an elite, as a household that more than 5% of the sampled households are dependent on. A household that is dependent on at least one elite is called a client. Any household that is neither a client nor an elite will be called a non-client. In Figures 1 and 2, we show dependence-connection networks of two villages, one with presence of elites and another without.",
+    "quality": 0
+}

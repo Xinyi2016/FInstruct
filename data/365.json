@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of discrete choice model and its application in the context of the given research.",
+    "output": "A discrete choice model is a statistical model used to analyze choices made between different alternatives. In the context of the given research, a discrete choice model is constructed to estimate the strategic tradeoff between the short-run incentive to crowd more passengers onto wooden boats and the long-run incentive to avoid Libyan interception by using smaller boats. The model connects the rate of interception (flow-level data) and the incident-level data (boat size, type of boat) and enables counterfactual estimation with a limited amount of incident records. The results of the model are consistent with the rise in the use of smaller boats in early 2019, when the intensity of LCG activity peaked, implying that the model can capture continuous changes in the enforcement situation, unlike before-after discontinuity models.",
+    "quality": 0
+}

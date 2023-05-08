@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an overview of the obstacles facing the transition from LIBOR to SOFR for securitized products and loans.",
+    "output": "The transition from LIBOR to SOFR for securitized products and loans faces many obstacles, including the lack of term rates and liquidity for SOFR. This makes it challenging for regional banks to use this new reference rate for their asset/liability management. Additionally, many legacy securitized products and related loans do not have robust fallback language to effectively address discontinuation of LIBOR, and it is difficult to amend these documents. The potential deadline at the end of 2021 for LIBOR transition also presents significant challenges for securitization investors and analytics providers.",
+    "quality": 0
+}

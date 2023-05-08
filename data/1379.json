@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the data provided on climate target disclosure by companies in the MSCI USA Investable Market Index and identify any patterns or trends you observe.",
+    "output": "Based on the data provided, we can see that approximately 25% of companies in the MSCI USA Investable Market Index have disclosed some type of climate target as of May 2022. Out of these companies, about 60% have reported target-related information consistent with the SEC proposal on base GHG emissions, target carbon-reduction values and emission scopes covered, among others. However, 40% of companies have reported some targets but missed key target-related metrics that were in line with the SEC proposal. This suggests that while many companies are taking steps towards climate action, there is still room for improvement in terms of consistent and comprehensive disclosure.",
+    "quality": 0
+}

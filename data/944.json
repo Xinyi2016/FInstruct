@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the data in the table below and identify the top three largest foreign-currency issuers in our sample.",
+    "output": "Based on the data in the table provided, the three largest foreign-currency issuers in our sample are Japan, France, and Germany with outstanding amounts of 1,770 billion USD, 1,031 billion USD, and 894 billion USD, respectively.",
+    "quality": 0
+}

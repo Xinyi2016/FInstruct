@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain why behavioral scientists are selectively exposed to research that finds large and statistically significant effects.",
+    "output": "Behavioral scientists are selectively exposed to research that finds large and statistically significant effects because behavioral science journals and conferences are more likely to accept papers with significant results. This creates a publication bias, where studies with weaker or null effects are less likely to be published, leading to an overestimation of the effectiveness of behavioral interventions. Additionally, p-hacking, fraud, and other research practices can also contribute to the overestimation of effect sizes in the literature.",
+    "quality": 0
+}

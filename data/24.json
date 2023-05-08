@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of inventory aversion in the context of trading.",
+    "output": "Inventory aversion refers to the tendency of traders to prefer running flat books, avoiding large positions and instead moving in and out of positions as trading opportunities arise. This behavior is reflected in the adjustment of the quoted mid-price up or down by an inventory aversion adjustment factor, which takes into account the trader's inventory. The adjustment factor is an individual characteristic of the trader and can differ between traders. However, there are global constraints on the inventory aversion risk factors, with the spread factor serving as an upper bound. Despite the presence of inventory aversion, the profitability of the informed trader remains strictly positive.",
+    "quality": 2
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a list of the constituents of the MSCI ACWI Index that have physical assets in biodiversity-sensitive areas.",
+    "output": "Through geospatial analysis and using the MSCI Asset Location Database, we have identified the following constituents of the MSCI ACWI Index that have physical assets in biodiversity-sensitive areas based on the global, area-weighted mean for the Mean Species Abundance (MSA) metric for 2015: (insert list of constituents here). Please note that these biodiversity-sensitive areas are intact ecosystems with minimal species loss and are recognized as important areas for conservation efforts.",
+    "quality": 0
+}

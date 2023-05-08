@@ -1,0 +1,5 @@
+{
+    "instruction": "Please summarize the main points of the text and provide a brief explanation of the key concepts mentioned.",
+    "output": "The text discusses the optimal consumption problem with a path-dependent reference under exponential utility. It mentions that the HJB equation can be expressed in a piecewise manner across different regions to account for different constraints. The text also mentions a continuous-time stochastic optimization problem with infinite horizon that includes portfolio selection problems under transaction costs. The Bellman function is the unique viscosity solution of the corresponding HJB equation. In the high-frequency limit, the paper finds an explicit formula for locally mean-variance optimal strategies. The asset price follows fractional Brownian motion, which has been successfully implemented for various financial products.",
+    "quality": 0
+}

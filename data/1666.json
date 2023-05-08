@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the need for real-time data in monitoring fast-changing equity markets during crisis periods.",
+    "output": "During volatile market conditions, stock prices can move quickly in a short period, and institutional investors need real-time data to respond to these market events as they unfold. This is particularly important for fund managers who have exposure to factors that may experience high volatility during crisis periods. Real-time index levels and factor returns can help these investors monitor fast-changing equity markets and detect underlying stress in their strategies sooner. For instance, during the August 2007 liquidity crunch, investors underestimated the speed and magnitude of losses and failed to appreciate how crowded certain investment styles had become. Using high-frequency indexes, such as market capitalization-weighted and factor-based approaches, can allow investors to monitor events in real-time and make better decisions.",
+    "quality": 0
+}

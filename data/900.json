@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain why duration-neutral terciles were not created in the analysis universe?",
+    "output": "We did not create duration-neutral terciles in the analysis universe because the differences in spread duration among the industry-adjusted ESG score terciles were minimal. Creating duration-neutral terciles would have added unnecessary complexity without significant benefit to understanding the impact of spread duration and ESG.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a table displaying the economic parameters of the LEO satellite operator model using the data collected by The Space Report.",
+    "output": "Table 1 displays the economic parameters of the LEO satellite operator model using the data collected by The Space Report. The table includes total LEO satellite operator revenues and costs, as well as the individual variables used to calculate these totals. The revenues are calculated as the sum of the \"Satellite communications\" and \"Earth observation\" variables, while the costs are calculated as the sum of the \"Ground stations and equipment\", \"Space Situational Awareness\" (SSA), \"Insurance premiums\", \"Commercial satellite launch\", and \"Commercial satellite manufacturing\" variables. The table also includes the period length, which is set to 1 year.",
+    "quality": 1
+}

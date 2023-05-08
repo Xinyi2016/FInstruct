@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the findings of the study on the effect of premium PIPE investors and non-premium PIPE investors on redemption rates, first-day return, and liquidation risk.",
+    "output": "The study found that premium PIPE investors do not affect redemption rates, but non-premium PIPE investors have a low but negatively correlated redemption rate that is related to their allocations. Additionally, premium PIPE investors do not impact first-day return, but non-premium PIPE investors have a small and positive effect on first-day return. The study also found that the past MLOT allocated to premium investors is uncorrelated with liquidation risk, but non-premium investors with large MLOT have a negative correlation with liquidation risk.",
+    "quality": 0
+}

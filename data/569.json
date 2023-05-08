@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the six different approaches outlined in the article for improving the capacity of factor index strategies.",
+    "output": "The article outlines six different approaches that can be used to improve the capacity of factor index strategies. These approaches include: \n\n1. Constraining the weight of any individual stock to be within a narrow range of its weight in the parent index.\n2. Limiting regular turnover to levels where desired factor exposure can still be achieved when rebalancing the index.\n3. Keeping the annual turnover budget fixed but increasing the rebalance frequency to reduce market impact and event risk.\n4. Considering the liquidity of individual constituents during proposed index rebalances to limit the impact of adds and deletes.\n5. Staggering rebalances to spread turnover over multiple days.\n6. Using spread rebalancing to spread the trades needed to replicate each rebalance over several days rather than a single day.\n\nBy implementing these approaches in index design, it is possible to balance high exposure to the target factors with a high level of investment capacity.",
+    "quality": 0
+}

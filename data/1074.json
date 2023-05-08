@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain why car loans had a consistently higher default rate compared to SUVs and trucks, and how subprime and prime tiers of SUV and truck loans differed in performance.",
+    "output": "Car loans had a higher default rate compared to SUV and truck loans because SUVs and trucks are more commonly used for small businesses, which generate cash flows that can help with loan repayment. In addition, the demand for SUVs and trucks is more inelastic compared to cars. For subprime tiers, SUV loans did not perform as well as truck loans, possibly due to the longer terms on SUV loans. However, for prime tiers, truck loans did not perform as well as SUV loans. One explanation for the decrease in default rates on SUVs and trucks during the pandemic could be attributed to stimulus checks, unemployment benefits, and relief programs, which helped to reduce or postpone defaults on these types of loans.",
+    "quality": 0
+}

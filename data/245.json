@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of ruin in the context of the Cram\u00e9r-Lundberg model.",
+    "output": "Ruin in the context of the Cram\u00e9r-Lundberg model refers to the situation where the surplus of an insurance company falls below zero. This does not necessarily mean that the company becomes bankrupt, but rather that it has to take action to make the business profitable again. The probability of ruin is used as a rough approximation of the insolvency and can serve as a useful tool in long-range planning for the use of insurer\u2019s funds. It also has deep methodological links and applications to other fields of applied probability, such as queueing theory and mathematical finance.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "As an institutional investor, you are looking for tools to implement net-zero strategies in your portfolio. Research and explain how futures linked to the MSCI Climate Paris Aligned Indexes can be used for cash equitization.",
+    "output": "Futures linked to the MSCI Climate Paris Aligned Indexes can be utilized by institutional investors for cash equitization as they work to transition to net-zero strategies in their portfolios. Cash equitization involves maintaining adequate cash liquidity while achieving the desired equity exposure. Futures overlays create a synthetic exposure to the target asset class, which can be used to achieve an allocation shift immediately, eliminating the risk of holding cash. In this case, futures linked to the MSCI Climate Paris Aligned Indexes can be used to align exposures with net-zero strategies, which may not be achievable with conventional market-cap futures. This allows investors to maintain cash liquidity while ensuring exposure to assets that are aligned with their net-zero goals.",
+    "quality": 0
+}

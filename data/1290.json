@@ -1,0 +1,5 @@
+{
+    "instruction": "Please describe the measures that the quality-management team should take to ensure accurate data in a large investment universe.",
+    "output": "The quality-management team should implement measures to automate screening for the latest company disclosures, compare company disclosures to other available sources, define a hierarchy of sources and reach out to internal experts or the reporting company for clarification as necessary. Due to low data coverage, the team may need to use sophisticated estimation approaches to fill data gaps and ensure a workable dataset. In cases where the selection of sources is unclear, the team may need to consult with internal experts to ensure accurate data is being used to make investment decisions.",
+    "quality": 0
+}

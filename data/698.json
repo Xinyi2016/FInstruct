@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how MSCI captures momentum in sovereign bonds?",
+    "output": "At MSCI, we capture momentum in sovereign bonds through the rates momentum factor, which is one of the systematic strategy factors built into the MSCI Multi-Asset Class (MAC) Factor Model. The rates momentum factor is based on a momentum signal defined by relative riskless bond returns net of the overall developed government-bond market on a currency-hedged, dollar-neutral basis. It has been a source of positive returns over the past decade, with the largest drawdown coming from February 2015 through January 2016 when a strong rally in the German and Swedish government-bond markets reversed. In 2019, the factor performed well due to the high relative strength of sovereign bonds in Australia and New Zealand and strong gains in the U.S. and Israel, coupled with low relative strength in Norway and Hong Kong.",
+    "quality": 0
+}

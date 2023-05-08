@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the difference between the Temperature of Nestedness and the NODF metric.",
+    "output": "The Temperature of Nestedness estimates the nestedness by the unexpected presence/absence of links in the empirical bipartite network with respect to the perfectly nested case for a fixed density. Instead, NODF estimates the nestedness by considering the degree of overlap that each row and column has with the others. An important difference between the two metrics is that the algorithm computing the Temperature requires the network to be re-ordered to achieve the most nested arrangement, while NODF is independent on the ordering.",
+    "quality": 0
+}

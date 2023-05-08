@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the three steps involved in the approach.",
+    "output": "The approach involves three steps. The first step is to calibrate the physical model to the 600-650 km shell using previously-validated approaches from the engineering literature and a regression-based correction for deviations from the physical model assumptions. The second step is to calibrate the economic parameters consistent with open access over 2006-2019 using regressions to account for unobserved scaling factors and frictions and obtain parameter uncertainty estimates. The third step is to simulate the model forward for 500 years, 1000 times, using economic parameter uncertainty estimates to generate variation in the net returns to satellite ownership both within and across simulations. These simulated open-access paths enable us to estimate the probability of Kessler Syndrome occurring at different times.",
+    "quality": 0
+}

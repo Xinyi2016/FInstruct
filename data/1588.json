@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a detailed report on a residential property's emissions in scopes 1 and 2 and how they can be disaggregated.",
+    "output": "Residential properties emit emissions in two scopes - scope 1 emissions and scope 2 emissions. Scope 1 emissions are a result of the use of oil or natural gas for heating and cooking, while scope 2 emissions come from electricity consumed in the property. Scope 2 emissions can be disaggregated into emissions due to the carbon intensity of the power source used and how much electricity is used in a residence. The quantity of energy used for heating and cooking (Scope 1 emissions) depends on the temperature experienced in each state and the thermal efficiency of a building. It should be noted that Scope 1 emissions were found to be higher in Northeastern states and Alaska than in the rest of the country. This can be partly attributed to the fact that heating demand in many Northeast states is often met using oil-fired boilers. Therefore, when reporting on a residential property's emissions, it is important to take into account both scopes and how they can be disaggregated.",
+    "quality": 0
+}

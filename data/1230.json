@@ -1,0 +1,5 @@
+{
+    "instruction": "Please describe the changes in loan-size limits set by Fannie Mae and Freddie Mac in response to changes in the housing market.",
+    "output": "The exhibit shows that for roughly a decade, the loan-size limit set by Fannie Mae and Freddie Mac was around USD 417,000. As housing prices continued to rise following the GFC recovery, the agencies gradually increased the loan-size limit to accommodate these changes. However, the COVID-19 pandemic has caused an unprecedented surge in housing prices, particularly in suburban markets, prompting the agencies to increase the loan-size limit by 18% to USD 647,200 for a single-family house in 2022. The national limit for high-cost areas will be USD 970,800, which is 150% of the national limit to account for geographic differences. This new loan-size limit has the potential to allow for more ARM loans to be delivered to the agencies, although there may be some headwinds due to less favorable upfront-fee adjustments for high-balance loans since the 2008 GFC.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the tenant industries in the given report and compare their default risks.",
+    "output": "The report suggests that while looking at tenant industries can provide insight into income drivers, it may not fully account for the risk of default. The combination of tenant industry and the INCANS Global Score can provide a more comprehensive analysis of default risk. The report indicates that 60% of remaining income is owed by companies with an INCANS Global Score above 75, indicating a low risk of default. However, income from tenants in consumer staples and industrials is spread across the default-risk spectrum. It is important to consider both the tenant industry and the INCANS Global Score when making investment decisions.",
+    "quality": 0
+}

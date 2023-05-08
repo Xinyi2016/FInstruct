@@ -1,0 +1,5 @@
+{
+    "instruction": "Use the MSCI Factor Box to compare the factor exposure of a fund to its benchmark.",
+    "output": "To use the MSCI Factor Box, first select the fund you want to analyze and its benchmark. Then, the vertical axis on the graph displays six factors: value, low size, momentum, quality, yield, and low volatility. The stars indicate the benchmark's exposure to each factor. Compare the fund's factor exposure to that of the benchmark by looking at where the dot representing the fund falls on the graph. This can help investors better understand the factors driving the fund's performance and make informed investment decisions.",
+    "quality": 0
+}

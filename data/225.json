@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the text.",
+    "output": "The text discusses the unique advantage of reinforcement learning (RL) in machine learning frameworks, particularly in financial applications. Two basic optimization ways, Q-learning and Policy gradient, have been developed to solve RL problems. Researchers have applied RL to predict stock prices and simulate and compare different RL models. Some studies have also proposed hybrid solutions and utilized deep learning techniques such as CNN. The policy gradient side has also been explored with the use of the state-of-art Asynchronous Advantage Actor-Critic algorithm (A3C) and the design of a standalone deep RL model. Adaptive deep deterministic RL methods have been proposed for portfolio allocation tasks. The text also highlights the high cost of training these algorithms and the need for improving sample efficiency through model-based reinforcement learning (MBRL) methods. Recent studies have proposed uncertainty-aware dynamical models and monotonic improvement algorithms to boost the performance of MBRL.",
+    "quality": 0
+}

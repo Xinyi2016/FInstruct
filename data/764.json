@@ -1,0 +1,5 @@
+{
+    "instruction": "Evaluate the performance of the ESG indexes in global markets during Q1 2020 and identify the factors that contributed to their outperformance or underperformance.",
+    "output": "During Q1 2020, regional and sub-regional ESG indexes outperformed their market-cap-weighted parent index in several regions of DM. The SRI index displayed the strongest outperformance due to higher exposure to style factors that outperformed and larger stock-specific contribution. However, the ESG Universal and SRI indexes in EM underperformed during the same period owing to unintended country and currency exposures. The MSCI EM SRI Index, in particular, suffered due to underweight in the China International market and overweight in the South Africa market, accounting for most of the negative country contribution. A full-factor attribution reveals that equity style factors and ESG factors contributed positively for all indexes in aggregate.",
+    "quality": 0
+}

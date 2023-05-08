@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the process of how MSCI reviews and updates its agency MBS model annually.",
+    "output": "MSCI conducts an annual review of its agency MBS model to identify potential model risks and ensure its accuracy. The review process includes three criteria: prepayment forecasts, model durations, and the value-at-risk (VaR) measure. The prepayment forecasts are used to predict the likelihood of homeowners paying off their mortgages early, which can affect the model's performance. The model durations are used to measure the average time it takes for a mortgage to be repaid, and the VaR measure is used to estimate the potential losses the model may incur. By evaluating these criteria, MSCI can identify any potential issues with the model and make necessary updates to ensure its accuracy and effectiveness.",
+    "quality": 0
+}

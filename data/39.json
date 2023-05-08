@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the paper in 100 words or less.",
+    "output": "The paper uses US equity data to analyze the market structure across and within sectors. The authors study the collective behavior of the whole portfolio and within each equity sector using the leading eigenvalue of the correlation matrix. They find that periods of financial crises are characterized by increased collective behavior and increased market homogeneity. The authors also use graph-theoretic-informed diagnostics and find that modularity can be used as a proxy for the degree of collectivity of the market. In Section 4, the authors study the diversification benefit of diversifying across sectors and find that diversifying across 30-40 stocks across diverse sectors provides as much diversification benefit as the entire market.",
+    "quality": 0
+}

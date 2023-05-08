@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of Expected Shortfall and its relevance in portfolio management.",
+    "output": "Expected Shortfall is an alternative risk measure that is considered in the recent Risk Budgeting literature. It is a coherent risk measure that allows for a more efficient handling of the distributional features in portfolio management, particularly in dealing with the left tail of P&L distributions. Unlike volatility, Expected Shortfall depends on expected returns, which can be seen as a disadvantage. However, it is always possible to translate random variables by their expectations to capture skewness risk independently of expected returns.",
+    "quality": 0
+}

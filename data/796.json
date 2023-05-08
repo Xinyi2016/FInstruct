@@ -1,0 +1,5 @@
+{
+    "instruction": "Perform an asset-level attribution analysis on Portfolio A using data from 2019 to understand the reasons for its underperformance compared to the S&P 500 index.",
+    "output": "Based on the asset-level attribution analysis, Portfolio A's underperformance in 2019 was primarily driven by its asset selection, which contributed to 65% of the annual tracking error compared to the S&P 500 index. Specifically, the portfolio's holdings in the retail and energy sectors underperformed their respective benchmarks, while its exposure to the healthcare sector contributed positively to its relative return. Allocation, on the other hand, had a minimal impact on the portfolio's relative return in 2019.",
+    "quality": 0
+}

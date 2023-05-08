@@ -1,0 +1,5 @@
+{
+    "instruction": "In the event of a financial crisis, explain the importance of risk backtesting and how it can inform modeling decisions.",
+    "output": "Risk backtesting plays a crucial role in understanding the impact of financial crises on risk policy and enables modeling decisions that are informed by historical context. By implementing real-time and long-term backtesting, we can identify trade-offs between model responsiveness and flexibility and evaluate similarities with past crises. It also helps in identifying when risk limits are breached, and extra scrutiny is required to address violations of value-at-risk (VaR). In the current COVID-19 pandemic crisis, adaptive modeling approaches for external and internal risk-policy are critical, along with up-to-date long-view model validation to effectively use models in the new regime.",
+    "quality": 0
+}

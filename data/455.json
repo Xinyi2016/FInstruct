@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the caveats of using patent application data to investigate trends in technology.",
+    "output": "When using patent application data to investigate trends in technology, there are several caveats to consider. Firstly, patents are not the same as innovations. Inventors may choose not to patent an invention due to the cost and public disclosure of the specifications. Secondly, some patents may not represent actual innovations but rather patent trolling, non-feasible ideas, minor changes, etc. Thirdly, patent applications may not be granted and there is a time delay between the filing and public disclosure of the application. Despite these limitations, patent applications provide an early window into the development of new technologies and indicate that the applicant believed they had made a discovery that merited patenting in terms of both novelty and potential revenue, free of strategic maneuvering, pretence, and public-relations endeavours that may bias other data sources on innovation.",
+    "quality": 0
+}

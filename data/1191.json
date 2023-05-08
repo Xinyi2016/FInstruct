@@ -1,0 +1,5 @@
+{
+    "instruction": "Review the analysis on how different climate scenarios could impact the credit risk of portfolios for a large sample of issuers of USD- and EUR-denominated bonds, and identify the percentage of investment-grade and high-yield issuers that could be downgraded to high yield under a \"Net-Zero 2050 (Average Extreme Weather)\" scenario.",
+    "output": "According to the model-based analysis conducted by MSCI, around 16% of investment-grade issuers and 27% of high-yield issuers in a large sample of USD- and EUR-denominated bond issuers could be downgraded under a \"Net-Zero 2050 (Average Extreme Weather)\" scenario. The analysis sheds light on the impact of climate change on default probabilities and ratings migrations, which is an important consideration for financial institutions holding corporate debts. As more central banks focus on stress testing the banking book for climate-related financial risks, it's crucial to incorporate climate change into risk management and estimate its impact on issuers' creditworthiness.",
+    "quality": 0
+}

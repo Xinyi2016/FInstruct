@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main findings of the literature review on electricity storage needs in Europe and the U.S.",
+    "output": "The literature review suggests that electricity storage needs in Europe and the U.S. depend on various factors, such as the share of renewable electricity, availability of other flexibility options, and geographical interconnection. Studies have found a positive, linear relationship between renewable electricity shares and optimal electricity storage deployment. However, results vary depending on model and technology assumptions. Overall, the literature review highlights the importance of considering multiple factors when assessing electricity storage needs.",
+    "quality": 0
+}

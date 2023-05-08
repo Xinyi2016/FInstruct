@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain how the binary outcome can be represented using the mean of a dummy variable.",
+    "output": "In the case of a binary outcome, the mean of a dummy variable represents the proportion of observations possessing that particular characteristic. For example, a dummy variable for firm failure in the subsequent year has an average equal to the proportion of all firms in the present period data which fail in the subsequent year. Within a ball, coloration by the mean of a dummy is the proportion of observations in the specific part of the joint distribution having the characteristic.",
+    "quality": 0
+}

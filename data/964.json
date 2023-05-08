@@ -1,0 +1,5 @@
+{
+    "instruction": "As an institutional investor, evaluate your bond portfolios in light of the rising transition risk due to new government policies and climate initiatives. Consider using MSCI models to construct hypothetical portfolios that incorporate a transition scenario.",
+    "output": "Based on our analysis using MSCI models, we recommend that institutional investors reevaluate their bond portfolios to incorporate a transition scenario. Our hypothetical portfolios, which altered bond weights within investment-grade benchmarks, showed significant improvements in potential valuation versus benchmarks while introducing relatively little portfolio tracking-error risk. This was achieved by reducing exposures to the energy and utilities sectors and adding exposure to companies that may benefit from new technologies. This strategy does not require seeking out \"green\" bonds that are not represented in the benchmarks.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the passage.",
+    "output": "The passage discusses the evolution of the study of mean-variance portfolio selection in continuous time framework. It mentions various realistic factors that have been taken into consideration in the literature, such as no-shorting constraints, random coefficients, random horizon, partial information models, and regime switching models with constraints. The passage also mentions the introduction of the mean-variance hedging problem by Schweizer and its subsequent extensions in very general settings.",
+    "quality": 1
+}

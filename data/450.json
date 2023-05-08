@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the classification accuracy of the DistilBERT model used to build the Article2ESG relevance timeseries.",
+    "output": "The DistilBERT model achieved an overall accuracy of 83% on a test set of 57,088 articles. The model's performance on the ESG relevant class was good, with a precision of 85% and a recall of 86%. The model's performance on the noise or irrelevant class was also acceptable, with a precision of 80% and a recall of 79%. Despite some room for improvement, the model's performance should be sufficient for generating the relevance timeseries to be used as input for the model.",
+    "quality": 0
+}

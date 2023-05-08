@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the proposed MR-ISVM approach and its application in the example of Bitcoin options with different volatility regimes.",
+    "output": "The MR-ISVM approach is a novel method for pricing options in the presence of nonstationary data and frequent jumps. It addresses three major gaps in the literature by using implied volatility instead of historical data, identifying different volatility regimes through clustering, and providing more interpretability through nonparametric estimation. In the example of Bitcoin options, the MR-ISVM approach was able to accurately price options despite the sentiment-driven nature of cryptocurrencies and the frequent jumps in their underlying data.",
+    "quality": 0
+}

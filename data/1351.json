@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain why selecting larger issuers may not lead to better results in terms of reducing a portfolio's carbon footprint.",
+    "output": "Selecting larger issuers may not necessarily lead to the same results in terms of reducing a portfolio's carbon footprint. For instance, in the MSCI EUR IG Corporate Bond Index, companies in the energy and utilities sector were among the larger issuers. Opting for larger issuers did reduce exposure to sectors with lower emission intensity but may have increased the carbon footprint of an index. This is demonstrated by the right-hand column of the exhibit above. Therefore, it is important to carefully consider size and liquidity criteria when selecting bonds to improve the emission intensity of a portfolio while also improving its liquidity.",
+    "quality": 0
+}

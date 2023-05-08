@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of robust estimation techniques and how they can improve the stability of portfolio weights.",
+    "output": "Robust estimation techniques are alternative methods used to estimate parameters in situations where the data does not follow the standard assumptions, such as normality. These techniques are designed to provide more reliable and stable estimates, even when the data is contaminated or has heavy tails. In the context of portfolio management, traditional mean-variance (MV) policies suffer from extreme instability due to fluctuations in portfolio weights over time. This instability leads to increasing management and transaction costs, which can reduce the popularity of MV policies among investors. By using robust estimation techniques, it is possible to improve the stability of portfolio weights, making MV policies more attractive to investors.",
+    "quality": 0
+}

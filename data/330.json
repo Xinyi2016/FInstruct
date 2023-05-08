@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a detailed explanation of how the data was collected using the Screener App in EIKON.",
+    "output": "The data for this analysis was collected using the Screener App in EIKON, which is a set of software products provided by Refenitiv for analysing financial markets. The Screener App allows users to identify companies that meet certain criteria, including ESG data. In total, there are 658 ESG data items, of which 121 are related to environmental issues. The data was collected at an annual frequency and covers 99% of the global market cap, across more than 150 countries and 133 TRBC (Thomson Reuters Business Classification) industries. The data was collected by using the Screener App in EIKON, which allows users to screen on ESG data. The app also allows you, besides the financially related data, to screen on ESG data. In total there are 658 ESG data items, of which 121 on environmental issues. Figure 4 shows the spatial distribution of the reporting companies.",
+    "quality": 0
+}

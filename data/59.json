@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the regression analysis in the notes.",
+    "output": "The regression analysis includes multiple regressions, each controlling for various factors such as gender, education, ethnicity, location, household size, age, and credit score status. The index variables in columns (4) and (5) include data on the number and amount of loans from formal and informal sources respectively. In columns (6) and (7), monthly income is an ordinal variable defined using brackets. The outcome variable in column (6) is the ratio of self-reported borrowing over 3 months and self-reported income (multiplied by 3). The coefficients in column (7) are from an ordinal logit regression. The standard errors are reported as robust standard errors in parentheses.",
+    "quality": 0
+}

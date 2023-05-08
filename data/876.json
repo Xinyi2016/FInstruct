@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide a summary of the performance of corporate-bond factor indexes in the USD and EUR investment-grade bonds?",
+    "output": "Sure, within the USD and EUR investment-grade bonds, procyclical factors performed better while defensive factors lagged. Carry continued its upward trend and outperformed the parent index by 1.8% and 0.3% respectively on an excess-return basis. The value and low-size factors also outperformed by 0.6% and 0.1% respectively within USD and EUR investment-grade bonds. However, defensive factors characterized by issuers with shorter durations and stronger credit ratings fared less well. The low-risk factor underperformed by 0.6% and 0.4% within USD and EUR investment-grade bonds respectively, while quality underperformed by 0.4% and 0.3% within USD and EUR investment-grade bonds respectively. This might be due to the central banks purchasing corporate bonds and lower downside risks.",
+    "quality": 0
+}

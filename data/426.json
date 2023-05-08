@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of mean square error (MSE) and how it was used in the analysis.",
+    "output": "Mean square error (MSE) is a measure of the difference between predicted values and actual values. In the analysis, the researchers calculated the expected MSE for each of the three models (i)-(iii) when matching data that were generated from the uniform distribution on [0,1]79superscript0179[0,1]^{79}[ 0 , 1 ] start_POSTSUPERSCRIPT 79 end_POSTSUPERSCRIPT (i.e. choice probabilities drawn uniformly at random). The resulting values were 0.25 for model (i), 0.23 for (ii) and 0.21 for (iii). These numbers are all close to each other, and far above the MSE when these models are applied to the data (which range from 0.03 to 0.01), showing that even the most permissive model (iii) puts significant restrictions on the data.",
+    "quality": 0
+}

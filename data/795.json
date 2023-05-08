@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the impact of the 2008 global financial crisis on portfolio allocation and selection scores.",
+    "output": "In analyzing the data, we observed that the periods of market stress during the 2008 global financial crisis resulted in an increase in the spread of relative returns between portfolios. This increase led to more variation in both allocation and selection scores, with a greater increase observed in the selection scores. This suggests that selection tended to account for more tracking error during these years, highlighting the importance of a robust and well-defined selection strategy during market downturns.",
+    "quality": 0
+}

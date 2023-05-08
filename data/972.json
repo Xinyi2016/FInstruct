@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the ESG ratings of companies with sustained board diversity and identify the primary driver of the rating differences.",
+    "output": "Based on our analysis, we found that among companies with sustained board diversity, 33.3% achieved leader status with their MSCI ESG Ratings while 9.7% were ESG laggards. The contribution of gender diversity to the rating is less than 0.3% on average. We also found that the primary driver of the rating differences is the companies\u2019 environmental practices. Although companies with sustained board diversity did not necessarily have the lowest three-year average carbon-emissions intensities, they had stronger three-year reductions in carbon-emissions intensity than their sector peers. We also observed that companies with sustained board diversity were 16% more likely to have environmental targets linked to executive compensation compared to those without.",
+    "quality": 0
+}

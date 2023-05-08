@@ -1,0 +1,5 @@
+{
+    "instruction": "Compare the properties of the relaxation time to those of standard measures of mobility.",
+    "output": "To compare the properties of the relaxation time to those of standard measures of mobility, we utilize two standard measures of economic mobility: Spearman\u2019s rank correlation and the intragenerational earnings elasticity (IGE). These measures describe attributes of the bivariate joint wealth distribution at two points in time, which are usually modeled via copulas. A widely used model is the Gumbel copula, which is able to reproduce realistic wealth-rank transition matrices, representing higher mobility at the bottom of the distribution than at the top. The Gumbel copula is uniquely defined by a single parameter \u03b8\ud835\udf03\\thetaitalic_\u03b8: a larger dependence implies less mobility. Due to its direct relationship with economic mobility, we also include this parameter in the comparative analysis. Technical background for the standard mobility measures is given in Appendix 3.",
+    "quality": 0
+}

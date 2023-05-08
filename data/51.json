@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main findings of the study.",
+    "output": "The study presents reduced form results for measures of subjective well-being. The regression specification is described in Section 3.2. Black whiskers represent 95% confidence intervals, and grey whiskers represent 90% confidence intervals. In each regression, the study controls for respondent gender, education, ethnicity, location (state), household size, head of household, age, and respondent\u2019s credit score status (1=under threshold) at the time of enrolment. The study also includes enumerator and week of enrolment fixed effects. The main finding of the study is that the regression results show the relationship between subjective well-being and various factors. The study also reports the unadjusted p-value for the well-being summary index, which is the main pre-specified outcome for this family. The p-values for the normalized subjective-wellbeing question, the normalized PHQ9-score, and the 9 components of the PHQ-9 scale are adjusted for False Discovery Rate (FDR).",
+    "quality": 0
+}

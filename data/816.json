@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the impact of different COVID-19 scenarios on the U.S. equity market using MSCI's macroeconomic model.",
+    "output": "Based on MSCI's analysis, different COVID-19 scenarios could result in significant drawdowns in the U.S. equity market. The estimates range from -13% to -45% compared to the pre-crisis peak. The current level of the market is close to a V-shaped scenario, but it was in line with the swoosh-shaped scenario trough in March. These scenarios take into account assumptions for the equity risk premium and the real interest rate.",
+    "quality": 0
+}

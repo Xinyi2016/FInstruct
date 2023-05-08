@@ -1,0 +1,5 @@
+{
+    "instruction": "Please describe the pathway and capital shift for both Investor A and Investor B as they gradually move from market-cap approaches to climate-based methodologies using indexes as proxies.",
+    "output": "The pathway for both Investor A and Investor B was defined by 2025 and 2030 targets, with interim target levels between these dates in line with NZAOA recommendations. The 60/40 equity/bond mix was kept constant, and we assumed that the market indexes don't decarbonize while the MSCI Climate Change and Climate Paris Aligned Indexes self-decarbonize at a rate of 7% and 10%, respectively. We used MSCI Climate Change Indexes for Investor A and Climate Paris Aligned Indexes for Investor B as a proxy for climate allocations. For Investor B, the pathway resulted in a capital move of 16.7% per year from market to climate allocations until 2025 and a 6.9% annual shift from 2025 till 2030. For Investor A, these numbers were marginally lower.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of expected returns and how it is used in the formalism.",
+    "output": "Expected returns refer to the combination of elements such as technology, returns, productivity, sectoral capital stock, expectations, and beliefs that determine the economic performance of a group of agents. In the formalism, expected returns are considered exogenous or structural, meaning that they are determined by external factors and do not change based on the behavior of the agents. However, the dynamics between capital accumulation and expectations can lead to endogenous changes in expectations. The form of relations between actual and expected variables is general enough to derive various types of possible dynamics.",
+    "quality": 0
+}

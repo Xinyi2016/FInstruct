@@ -1,0 +1,5 @@
+{
+    "instruction": "Determine the liquidity classification for a fixed-income asset in a portfolio under the new proposed rules. Assume a 10% stressed trade size and 1% significant market-value impact.",
+    "output": "Based on the new proposed rules, the liquidity classification for the fixed-income asset in the portfolio would fall into one of three liquidity buckets. The number of days it would take to sell the assumed trade size under the specified transaction-cost limit will be determined, and the asset will be classified according to this trade size. The maximum allowable percentage of illiquid assets in the fund holdings will remain at 15%.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Use the model-implied ERP to evaluate current equity prices and compare them to historical valuations. Take into account economic growth and changing real rates for comparison across macro regimes.",
+    "output": "Based on our evaluation using the model-implied ERP, we have found that current equity prices are well above their average over the last three decades, but similar to those of the last decade. While the traditional valuation ratio, CAPE, suggests that the market has a similar valuation to that at the height of the dot-com bubble, our model-implied ERP indicates that the market is not nearly as compressed as it was 20 years ago due to historically low real interest rates. However, we must also consider that a persistent low-yield environment may impact total expected annual returns, which are projected to be 5.4% for a 10-year horizon, lower than the total realized annual return of 13.5% for the 2010s.",
+    "quality": 0
+}

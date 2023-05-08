@@ -1,0 +1,5 @@
+{
+    "instruction": "Apply the PP test to the time-series of log-return and report the test statistic and p-value.",
+    "output": "The PP test was applied to the time-series of log-return and the test statistic was calculated to be 1.56 and the p-value was calculated to be 0.12.",
+    "quality": 0
+}

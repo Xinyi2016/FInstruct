@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide a brief explanation of how factor models can help manage muni risk?",
+    "output": "Sure. Factor models can help investors better understand the underlying drivers of muni bond returns and identify sources of risk that may not be apparent when simply matching durations. By incorporating factors such as interest rate sensitivity, credit risk, and inflation expectations, investors can construct more diversified and resilient portfolios that are better equipped to navigate periods of market volatility. Our research has shown that using a factor model approach can be particularly advantageous during times of heightened market uncertainty, such as the early-COVID-19 period, when traditional risk management strategies may not be sufficient.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main variables of interest in our analysis and how they are introduced in Table 1.",
+    "output": "The main variables of interest in our analysis are summarized in Table 1. These include a team\u2019s odds-implied probability (impprob) of winning at the kick-off, which is derived by taking the inverse of the posted decimal odds for them to win, and normalizing this such that it sums to one with the inverse of the odds for the other two possible match outcomes. The minute of the equaliser, which is considered as an explanatory variable, is, on average, minute 47, but also occurs in our sample as early as the 5th minute and as late as the 84th minute. The number of red cards received before the 1-1 equaliser is also considered as an explanatory variable, with the difference in the number of red cards received between the equalising and conceding teams before a match arrives at 1-1 being strictly between minus and positive one.",
+    "quality": 0
+}

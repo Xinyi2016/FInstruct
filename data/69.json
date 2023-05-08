@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the role of market-makers in financial markets.",
+    "output": "Market-makers are liquidity providers in financial markets who offer bid and ask prices on one or several assets. They make profit by earning the price difference between their buy and sell orders, called the bid-ask spread. Market-makers face an optimisation problem of being rarely executed at a very high spread or being often executed at a very low spread. On most order-driven markets, market-making activity is provided by a small number of high-frequency trading firms that quote continuously and base their strategies on proprietary technology or arbitrage. On quote-driven markets, liquidity-takers request prices from dealers, who provide prices for a given transaction size of the asset. It is common for a small number of dealers to provide the majority of liquidity to a large set of clients. In some cases, there may be a monopolistic situation with a single liquidity provider.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the paper.",
+    "output": "The paper introduces the Risk Budgeting problem and proves the existence and uniqueness of a Risk Budgeting portfolio through a convex minimization problem. The paper also extends the semi-analytic formula of Expected Shortfall to Student-t mixture distributions and shows that Expected Shortfall has a variational characterization. The paper then generalizes the approach and shows that the set of risk measures for which building a Risk Budgeting portfolio can be done using a standard stochastic gradient descent is very large. Numerical examples are provided in Section 5.",
+    "quality": 0
+}

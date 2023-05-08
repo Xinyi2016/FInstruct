@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how protection payouts on CDS are triggered and what range of situations could lead to such payouts.",
+    "output": "Protection payouts on Credit Default Swaps (CDS) are triggered when issuers fail to make scheduled coupon or principal payments. This could happen in various situations ranging from when payments are delayed for a short period, known as a technical default, to situations where payments of principal or interest are permanently reduced or eliminated. The implied probabilities of default can be derived from CDS spreads, but it requires making assumptions about recovery rates if a default event is triggered. In 2021, the CDS spreads on U.S. government bonds have spiked significantly, indicating a higher probability of default. Although trading activity has picked up, single-issuer CDS trading offers less liquidity to investors than index CDS, such as CDX or ITRAXX. Therefore, the CDS spread for an actual transaction could deviate significantly from the quoted spread, leading to a deviation in the market-implied probability of default from the results highlighted in the analysis.",
+    "quality": 0
+}

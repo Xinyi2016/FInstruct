@@ -1,0 +1,5 @@
+{
+    "instruction": "Using the method described above, construct a COVID-19 factor by regressing factor returns against the GEMTR market factors from Feb. 24 through April 20. List the resulting weights for each factor in the table below.",
+    "output": "| Factor | COVID-19 Weight |\n|--------|----------------|\n| Energy | -0.10          |\n| Materials | -0.10            |\n| Communication Services | -0.07 |\n| Consumer Discretionary  | -0.11         |\n| Consumer Staples | -0.04 |\n| Financials | -0.14         |\n| Health Care | -0.11       |\n| Industrials | -0.11       |\n| Real Estate | -0.06       |\n| Technology | -0.07         |\n| Utilities | -0.03          |",
+    "quality": 0
+}

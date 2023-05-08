@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the techniques used in literature to solve the constrained portfolio optimization problem.",
+    "output": "Literature on the constrained portfolio optimization problem has used various techniques to solve the problem. The most commonly used technique is Genetic Algorithm, which has been used in several studies ([2], [3], [4], [7], [8], [9]). Other techniques that have been used include Simulated Annealing, Tabu Search, and Hybrid Local Search.",
+    "quality": 0
+}

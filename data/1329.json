@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a brief summary of the exhibit showing the carbon intensity of different sub-industries.",
+    "output": "The exhibit shows that the utilities sector has a high level of emissions, with three of the top five most carbon-intensive GICS sub-industries belonging to this sector. Independent power generation using non-renewable sources was responsible for the highest carbon intensity, estimated at 5,524 tons/USD million sales. This is more than four times higher than the utilities-sector average and 79 times the average across all GICS sectors.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the exhibit below and identify which vehicle-type loans defaulted the most during the pandemic period.",
+    "output": "Based on the exhibit, it appears that loans for motorcycles had the highest default rate during the pandemic period, with a default rate of 2.4%. This is followed by loans for recreational vehicles, which had a default rate of 1.8%. Loans for cars and trucks had the lowest default rates during the pandemic period, with default rates of 1.1% and 0.9%, respectively.",
+    "quality": 0
+}

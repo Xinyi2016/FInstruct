@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the methodology used to determine whether growth and value funds were better matched with market-cap or style indexes?",
+    "output": "Sure, to determine whether growth and value funds were better matched with market-cap or style indexes, we selected US and international funds from the Lipper database with value exposures of greater than +0.20 and separately those with growth exposures greater than +0.20. We measured these exposures using a tool that aggregates stock holdings at the fund level and calculates exposures across different factor groups including growth and value. Then, each of the funds within the growth and value fund groups (US growth, US value, international growth and international value) was equally weighted on a quarterly basis from March 2011 through December 2020. We calculated the trailing performance of the funds over different time periods and compared them against both their respective market-cap and style benchmarks.",
+    "quality": 0
+}

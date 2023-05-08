@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main findings of the study.",
+    "output": "The study estimates the causal effect of external debt (ED) on greenhouse gas (GHG) emissions in a panel of 78 emerging market and developing economies (EMDEs) over the 1990-2015 period. The study uses external instruments, specifically international liquidity shocks, as instrumental variables for ED to address the potential endogeneity in the relationship between ED and GHG emissions. The study finds that a 1 percentage point (pp.) rise in ED causes, on average, a 0.7% increase in GHG emissions. The study also finds that external public debt from bilateral (private) creditors causes, on average, a 1.8% (1.2%) increase in GHG emissions. However, the instrument used is not relevant in the case of multilateral lending so the study has not found any significant effect of external public debt from IMF creditors or other multilateral creditors on environmental damage.",
+    "quality": 0
+}

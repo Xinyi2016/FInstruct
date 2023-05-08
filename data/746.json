@@ -1,0 +1,5 @@
+{
+    "instruction": "Develop a risk-modeling strategy for a financial institution in the current market environment.",
+    "output": "In the current market environment, it is important to adapt risk modeling to the new regime and consider how quickly models should react to changes. One approach could be to use a systematic combination of both reactive and stable models, where the maximum risk of two models is used. Externally, objective metrics should be used to defend risk models to regulators and external investors. During a crisis, it may be important to move to a more reactive model to be more conservative from a risk policy perspective. Internally, risk models should be assessed using a balanced view that equally penalizes over- and under-forecasting risk. Additionally, qualitative considerations should be taken into account, giving risk managers more discretion to adapt to a crisis. Overall, a comprehensive risk-modeling strategy that balances both internal and external risk-management requirements is essential in the current market environment.",
+    "quality": 0
+}

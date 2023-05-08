@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the two approaches to manage liquidity in an index.",
+    "output": "There are two approaches to manage liquidity in an index. The first approach is to exclude micro-cap stocks, which have less impact on market coverage. The second approach is to look at how actively a stock is traded relative to its size. These approaches can be implemented by fixing the number of constituents and setting a minimum market-cap size, effectively barring illiquid stocks. Another approach is to use the market coverage approach, which sets a minimum market-capitalization requirement and screens out stocks based on the average traded value ratio (ATVR), a liquidity measure that shows the percentage of securities\u2019 free-float-adjusted market capitalization traded per year. The market-based approach tends to include fewer illiquid stocks than the first two approaches in terms of ATVR.",
+    "quality": 0
+}

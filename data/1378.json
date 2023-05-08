@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the reason for the significant tracking error in the duration-matched tracking portfolio?",
+    "output": "The exhibit shows that the portfolio had a large ex-ante contribution to active risk from its overweight to mass-transit bonds. This, combined with the COVID-19-induced sell-off of these bonds, led to the significant tracking error for the portfolio. In contrast, the factor-based portfolio matched benchmark risk factor by factor, avoiding any active exposure to spread factors, hence having zero ex-ante active exposure.",
+    "quality": 0
+}

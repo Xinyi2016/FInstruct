@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the connection between the feature importance vector of a product and its complexity.",
+    "output": "The feature importance vector of a product represents the productive sectors that are necessary for the future export of the product. The complexity of a product is defined by the Economic Fitness and Complexity algorithm and is related to the level of industrial sophistication needed to competitively export it on the global market. The study found that there is a connection between the feature importance vector and the complexity of a product, with more complex products requiring more complex features in order to be competitively exported. This confirms that the production lines of highly sophisticated products are deeply entangled among themselves.",
+    "quality": 0
+}

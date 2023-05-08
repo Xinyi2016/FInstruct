@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the interactions between humans and cyber-components in large-scale systems.",
+    "output": "In large-scale systems, interactions between humans and cyber-components that interact with the physical system are varied and depend on a variety of factors and the goals of the large-scale systems. If the problem at hand concerns the behavior of the CPHS under emergency conditions, the interactions between humans and automation need to focus on a shared control architecture with appropriate granularity of task allocation and timeline. Typically, the human in this context is an expert and when anomalies occur, either takes over control from automation or provides close supervision to the automation to ensure an overall safe CPHS. Under normal circumstances, the interactions may include other architectures. The role of the human is not necessarily that of an operator or an expert, but a user. The human may be a component in the loop, responding to outputs from the automation, and making decisions that serve in turn as inputs or reference signals to the physical system.",
+    "quality": 0
+}

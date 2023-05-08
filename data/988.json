@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how the hedge-fund-crowding factor was built and how it was evaluated.",
+    "output": "The hedge-fund-crowding factor was built by using metrics for hedge-fund conviction from long and short aggregated hedge-fund portfolios, and defining it as an equal-weighted combination of them all. To evaluate its potential usefulness, it was added to the Barra US Total Market Equity Model for Long-Term Investors and estimated factor returns were calculated at the end of each month via cross-sectional regression. Positive factor returns indicated that hedge-funds' bets performed as the managers expected, with long positions outperforming and/or shorts underperforming. The cumulative factor returns reached around 6% prior to the outbreak of COVID-19, but have declined by 3% since then, possibly due to the strong performance of heavily shorted stocks.",
+    "quality": 0
+}

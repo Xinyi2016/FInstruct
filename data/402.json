@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a time series of subreddit followers for each cryptocurrency.",
+    "output": "To generate a time series of subreddit followers for each cryptocurrency, use Coinmarketcap\u2019s API to fetch the address of each cryptocurrency\u2019s subreddit. Then use the subredditstats.com website to obtain the follower count for each subreddit at different points in time. This will allow us to create a time series of subreddit followers for each cryptocurrency, which can be used as an important variable in the study.",
+    "quality": 2
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the relationship between interdependencies, individualistic incentives, and organizational performance.",
+    "output": "Interdependencies within organizational units can reduce the need for behavioral control to prevent selfish behavior among agents. This aligns with the recommendations of transaction cost economics, which assumes selfish behavior on the part of agents. Top-down approaches to task allocation internalize a large number of interdependencies, which helps to mitigate the negative effects of individualistic incentives and leads to better organizational performance compared to bottom-up task allocation. The results in Fig. 6 show that bottom-up approaches do not achieve the desired modularity, while interdependence-based approaches are more modular than performance-based approaches. Therefore, either top-down or interdependence-based bottom-up approaches to task allocation can be effective in organizational design if individualistic incentives are in place. However, a combination of altruistic incentives mechanisms and performance-based incentives may lead to even higher performances.",
+    "quality": 0
+}

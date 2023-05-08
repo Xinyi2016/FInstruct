@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of modularity in organizational design.",
+    "output": "Modularity in organizational design refers to the decomposition of an organization into interdependent modules with decoupled interfaces. This approach allows for the management of complexity by minimizing dependencies between modules, aligning with the mirroring hypothesis and the concept of complex systems. Modularity is a spectrum, with full modularity (independent modules) at one end and integrality (no decomposition or recombining of modules into one system) at the other.",
+    "quality": 0
+}

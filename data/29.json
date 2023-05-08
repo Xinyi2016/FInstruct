@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the two DDSG adaptivity criteria for the relevance of the proceeding expansion order and each component function within an expansion order.",
+    "output": "The two DDSG adaptivity criteria are used to efficiently truncate the expansion by ignoring its insignificant component functions. The first criterion is based on the proceeding expansion order, and the second criterion is based on each component function within an expansion order. These criteria provide an assessment of the importance of the current expansion or component function with respect to the previously computed values, and can also be used as an analysis tool to understand the impact of the different component functions and or expansion orders on the overall approximation. However, it is important to note that the expansion criterion is not a measure of convergence of the DD expansion, and using these criteria with an aggressively high tolerance may lead to excessive truncation or pruning of the component functions.",
+    "quality": 2
+}

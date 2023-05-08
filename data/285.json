@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the connection between the Kessler threshold and the unstable steady state.",
+    "output": "The Kessler threshold is the point at which the debris density in Earth orbit becomes so high that collisions between objects in orbit become more frequent, leading to a runaway effect where even more debris is created. The unstable steady state in this context refers to the point at which the debris density has reached such a high level that it becomes impossible to maintain a stable orbit. The connection between these two concepts is that the unstable steady state acts as a boundary beyond which it is no longer possible to maintain a stable orbit, and any object that crosses this boundary will be subject to the runaway effect of the Kessler threshold.",
+    "quality": 0
+}

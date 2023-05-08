@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the performance of the MSCI ESG leading index, general index, and focus index in developed, emerging, and Asian markets from 2013 to 2018 based on the provided graph and data.",
+    "output": "According to the graph presented, the MSCI ESG leading index, general index, and focus index outperformed their respective market value weighted benchmarks in the emerging and Asian markets, but provided little to no excess returns in developed markets during the research period from December 2013 to December 2018. The MSCI ESG general index had the lowest tracking error in developed and emerging markets compared to their market value weighted parent indices, while the MSCI ESG focus index had the highest ESG rating improvement. The MSCI ESG leading index, while having a higher concentration of top-scoring companies, generated higher excess returns and had a higher risk-to-return ratio in emerging and Asian markets compared to the MSCI ESG general index and MSCI ESG focus index.",
+    "quality": 0
+}

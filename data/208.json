@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the two methods for computing Risk Budgeting portfolios for Expected Shortfall.",
+    "output": "The two methods for computing Risk Budgeting portfolios for Expected Shortfall are the one-sample benchmark gradient descent (OSBGD) approach and the multi-sample benchmark gradient descent (MSBGD) approach. The OSBGD approach uses the same sample of asset returns throughout the optimization process to estimate these risk measures, while the MSBGD approach simulates a new sample of asset returns at each iteration to estimate the new Expected Shortfall. The advantage of the MSBGD approach is that it allows for faster calculations at each iteration, while still maintaining comparable or higher accuracy in the long run.",
+    "quality": 0
+}

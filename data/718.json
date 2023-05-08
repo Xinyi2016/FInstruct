@@ -1,0 +1,5 @@
+{
+    "instruction": "Please summarize the key findings of MSCI's physical climate-risk analysis.",
+    "output": "MSCI's physical climate-risk analysis indicates that approximately 7% of global facilities operated by MSCI ACWI Index constituents are threatened by coastal flooding risk, with nearly 62% of index constituents having at least one facility in a flood-prone area. Asia has the most coastal flooding exposure with USD 2.25 trillion of revenue at risk between now and 2050. Without significant investment in coastal protection and adaptation, over half of covered global assets at risk could become untenable by midcentury. The physical climate-risk analysis allows the model to determine cost profiles for each company and feeds into the calculation of MSCI's Climate Value-at-Risk (Climate VaR) metric.",
+    "quality": 0
+}

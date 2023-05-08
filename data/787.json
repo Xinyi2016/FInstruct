@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain how the MSCI GIMI methodology assigns companies to different size segments and the impact of equity market movements on index turnover.",
+    "output": "The MSCI GIMI methodology assigns companies to large, mid, and small-cap segments based on minimum size-segment cutoffs. These cutoffs aim to achieve market-cap coverage of 70% for large-caps indexes, 85% for standard indexes, and 99% for IMI indexes in each market. When equity markets move, the minimum size-segment cutoffs in the MSCI GIMI adjust to maintain the same market-cap coverage and provide a natural buffer against index turnover. This buffer helps to retain companies within the same size-segment, reducing turnover. The exhibit below shows that the size-segment cutoffs adjusted with the performance of the underlying markets. In China, where equity markets fully recovered, the minimum size-segment cutoff adjusted upward, while in Brazil, where markets were severely impacted, the downward adjustment of the minimum size segment was significantly higher than in other markets.",
+    "quality": 0
+}

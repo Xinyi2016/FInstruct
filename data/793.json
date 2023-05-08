@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the objectives of MSCI GIMI in constructing equity indexes and how it achieves them.",
+    "output": "The primary objectives of MSCI GIMI are to provide precise, investable, and replicable indexes while finding a balance within necessary trade-offs across market-capitalization-weighted equity indexes. Additionally, MSCI GIMI aims to achieve timely reconstitution of securities to reflect the evolution of equity markets and limit index turnover to better support index stability and trading cost efficiency. These aims are achieved through a rigorous index methodology and regular rebalancing of the various index components. By doing so, MSCI GIMI is able provide indexes that accurately represent the market while minimizing trading costs and maintaining stability.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an analysis of bid-ask spreads for bonds based on the size of the bonds and the total outstanding of bonds issued by a firm.",
+    "output": "Our analysis indicates that bid-ask spreads for larger bonds with higher total amount outstanding are generally lower compared to smaller bonds. This trend is evident even during times of market turmoil, as shown by the orange and blue markers in the exhibit above. In addition, we found that bid-ask spreads were smaller for bonds issued by firms with higher total outstanding. These findings suggest that size can be used as a proxy for liquidity when analyzing bond markets.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the performance of the drivers of the global equity market using MSCI's Global Equity Model and provide a summary of the pure-factor performance over the quarter.",
+    "output": "According to MSCI's Global Equity Model, the pure-factor performance over the quarter indicates that momentum was the best-performing factor, followed by low residual volatility. On the other hand, liquidity performed the worst. These findings suggest that investors should consider momentum and low residual volatility as potential investment options, while also being cautious when it comes to investments related to liquidity.",
+    "quality": 0
+}

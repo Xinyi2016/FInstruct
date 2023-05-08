@@ -1,0 +1,5 @@
+{
+    "instruction": "As an international investor looking to replicate currency-unhedged exposure to the Indian equity market using futures contracts, what should you consider about the underlying reference index's currency exposure?",
+    "output": "It is important to consider whether the currency exposure of the equity future and index are aligned. If the future is linked to the MSCI India Index (USD) and is trading in USD, then a USD investor may use USD-denominated futures to seek currency-unhedged India exposure. However, if the future is linked to the MSCI India Index (INR) and trading in USD, then a USD investor may use USD-denominated futures to seek currency-hedged India exposure.",
+    "quality": 0
+}

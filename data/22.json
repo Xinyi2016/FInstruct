@@ -1,0 +1,5 @@
+{
+    "instruction": "How to examine the strategic storage investment of multiple investors in a non-cooperative game?",
+    "output": "Use market data from CAISO to characterize the storage impact on market price and establish a centralized optimization problem to compute the Nash equilibrium. A higher number of investors should increase market competition and an improvement in one investor's storage efficiency should have a large impact on their investment decision.",
+    "quality": 2
+}

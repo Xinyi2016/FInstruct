@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain why the accuracy values are quite low for the classification models.",
+    "output": "The accuracy values are quite low for the classification models because predicting the right out of 100 classes is a complex task and results vary significantly depending on the train-test split. Additionally, the sparse categorical cross-entropy loss (scc) cannot be calculated as class probabilities would be needed, which may also contribute to the low accuracy values.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the exhibit and provide an explanation of how the scores of the top two most crowded stocks have evolved over time.",
+    "output": "According to the exhibit, the top two most crowded stocks, MicroStrategy Inc. and GameStop Corp., had extremely high scores on all five crowding metrics as of Jan. 27, 2021. The chart also shows how their scores have evolved since Jan. 1, 2020. Interestingly, GameStop had been among the most crowded stocks since September 2020, well before it became a popular bubble story in January 2021. It is worth noting that both stocks had consistently high scores throughout the observation period, indicating that they were constantly in demand among market participants.",
+    "quality": 0
+}

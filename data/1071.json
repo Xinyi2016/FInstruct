@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the exhibit, please identify which vehicle-type loans had the highest default rates during the pandemic period from March 2020 to February 2021.",
+    "output": "According to the exhibit, the vehicle-type loans with the highest default rates during the pandemic period were subprime SUV loans with a default rate of 6.8%. This was followed by near-prime car loans with a default rate of 4.6% and subprime car loans with a default rate of 4.2%.",
+    "quality": 0
+}

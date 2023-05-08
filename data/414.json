@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the results from the estimation and discuss the implications of the findings.",
+    "output": "The results from the estimation are presented in column (3) of Table 10. The first-stage F-statistic suggests that the excluded variables are not weak instruments. The estimates show that for non-premium PIPE investors, there is a negative relationship between the mean deviation of MLOT in the last deal and the current deal, supporting the quid pro quo hypothesis. However, for premium PIPE investors, the opposite is true, with an increase in MLOT in the next deal with the same sponsor. These findings have important implications for our understanding of the role of PIPE investors in the IPO market and the potential conflicts of interest that may arise.",
+    "quality": 0
+}

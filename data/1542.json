@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide your analysis of the SEC's proposed liquidity classification for open-end investment funds.",
+    "output": "The SEC's proposed liquidity classification for open-end investment funds may improve the comparability of liquidity reports across funds, but it is not without its challenges. The regulation's 10% stressed trade size may be too high for large equity funds, potentially resulting in many funds exceeding the regulatory limit on illiquid assets. Furthermore, the volume-based approach may not fully capture liquidity in volatile markets and could create obstacles for fund managers to stay within regulatory limits. Ultimately, while the proposed classification scheme may bring needed standardization to liquidity reporting, it may not be the perfect solution to accurately identify changes in the liquidity of equity funds.",
+    "quality": 0
+}

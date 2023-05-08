@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain the difference between the MSCI ACWI ESG Indexes and the MSCI ACWI ESG Focus Index?",
+    "output": "The main difference between the MSCI ACWI ESG Indexes and the MSCI ACWI ESG Focus Index lies in their exclusions of certain types of companies. While both indexes exclude controversial weapons companies, the MSCI ACWI ESG Leaders and MSCI ACWI SRI Indexes also exclude manufacturers of conventional weapons, civilian firearms and nuclear weapons. The MSCI ACWI ESG Focus Index, on the other hand, has strict controls on tracking error and sector allocations, which helps it to be less impacted by industry performance reversals, such as those in the aerospace and defense industry.",
+    "quality": 0
+}

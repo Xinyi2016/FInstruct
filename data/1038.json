@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the exhibit and provide a summary of the weight of crowded stocks in each sector.",
+    "output": "Based on the exhibit, the technology sector has the highest weight of crowded stocks, with a value of 27.5%. This is followed by consumer discretionary at 18.6% and healthcare at 13.5%. The sectors with the lowest weight of crowded stocks are energy and utilities, both with values of below 1%. Overall, the weight of crowded stocks in each sector varies significantly, indicating the level of investor interest and potential market volatility in each sector.",
+    "quality": 0
+}

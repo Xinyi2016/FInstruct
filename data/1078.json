@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the loan-level data for Deal 1 and Deal 2 and identify any key differences in default rates.",
+    "output": "After analyzing the loan-level data for Deal 1 and Deal 2, it is clear that Deal 1 had a higher percentage of weaker loans and a higher loan-to-value (LTV) ratio, resulting in a higher default rate compared to Deal 2. Investors equipped with this loan-level data could have spotted these differences and made more informed investment decisions.",
+    "quality": 0
+}

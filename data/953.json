@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you explain how the crowding score is calculated for individual securities?",
+    "output": "To calculate the crowding score for individual securities, we use a security-level crowding model that evaluates five metrics: momentum, growth, profitability, valuation, and size. These metrics are evaluated in both cross section and time series to determine how elevated they are compared to other stocks and a stock's own history. This allows us to create an overall crowding score for each security. While the model does not distinguish between crowding on the long or short side, the short-interest component can provide an indication of potential short squeezes. However, our research found that highly crowded stocks generally underperformed over the 1996 to 2020 period.",
+    "quality": 0
+}

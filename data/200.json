@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main contributions of the paper in one paragraph.",
+    "output": "Our paper makes a significant contribution to the literature on behavioural asset pricing in financial markets by investigating behavioural biases in high-frequency (in-play) betting markets. Unlike previous studies that have analysed momentum effects in betting markets using long-term patterns and posted prices, our study is the first to consider momentum and betting activity at a much higher frequency and immediacy. Our findings provide new insights into how behavioural biases influence the actions of market participants in real-time and have important implications for asset pricing and financial market regulation.",
+    "quality": 0
+}

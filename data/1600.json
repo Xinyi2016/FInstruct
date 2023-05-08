@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the key characteristics of the new SOFR-based framework for valuing MBS.",
+    "output": "The new SOFR-based framework for valuing MBS is expected to provide a seamless transition away from the soon-to-be-obsolete LIBOR benchmark. The key characteristics of this framework include the use of derivatives linked to the secured overnight financing rate (SOFR) as the market standard for determining valuation, as well as the establishment of a Treasury-based volatility surface to improve consistency in valuation practices. This framework is designed to maintain a high level of accuracy and reduce disruption during the transition from LIBOR to SOFR. Overall, the goal is to provide investors with a reliable and effective method for valuing MBS during this period of change in the financial industry.",
+    "quality": 0
+}

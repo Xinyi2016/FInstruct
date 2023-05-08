@@ -1,0 +1,5 @@
+{
+    "instruction": "Using the MSCI Hedge Fund Crowding data, develop a factor-based framework to assess the level of crowding in individual stocks.",
+    "output": "Our team utilized the MSCI Hedge Fund Crowding data to develop a factor-based framework that analyzes the level of crowding in individual stocks. By examining the most crowded positions held by hedge funds and constructing a factor to measure crowding, we aim to identify potential risks associated with crowded hedge-fund positions. This framework shows statistical significance and has low correlation to traditional factors, providing investors with a new tool to understand potential risks in their portfolios.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the greenhouse-gas (GHG) emission disclosures of companies in the MSCI ACWI Investable Market Index (IMI) and identify the percentage of companies that reported Scope 1, Scope 2, and Scope 3 emissions as well as the percentage of companies whose reported emission breakdowns did not add up to their total reported footprints.",
+    "output": "According to the latest data available as of February 2022, less than 40% of companies in the MSCI ACWI Investable Market Index reported their Scope 1 and Scope 2 GHG emissions. Meanwhile, less than 25% of companies reported their Scope 3 GHG emissions. Moreover, the reported emission breakdowns of around 30% of companies did not add up to their total reported footprints. These findings highlight the difficulties faced by both investors and data providers in comprehensively assessing companies' climate profiles due to the lack of trustworthy corporate disclosures of GHG emissions.",
+    "quality": 0
+}

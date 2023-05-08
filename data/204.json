@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the key findings from the given data.",
+    "output": "The data indicates that there are substantial differences in betting activity between stakes placed on the equalising and conceding teams. The relative stakes are generally larger if the strong pre-match favourite scores the equaliser, compared to when they concede the equaliser. Additionally, there is some support for bettors acting sensibly to the return on investment from following a hypothetical betting strategy of always betting on a clear pre-match favourite that just scored the equaliser, as it yields a return on investment of 0.6%. However, the reverse strategy of always betting the same amount on clear pre-match favourites that just conceded the equaliser yields an ROI of -13.9%. The average overround implied by the bookmaker odds in the data after the equalising goal is 7.9%.",
+    "quality": 0
+}

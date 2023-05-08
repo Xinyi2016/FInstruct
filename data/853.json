@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide the name and ticker symbol of the fund you selected as the sample portfolio.",
+    "output": "The fund we selected as the sample portfolio is the Fidelity Contrafund (FCNTX). Its five-year return as of December 2019 was 11.43%, and its historical annualized volatility was 13.77%, which is in line with the median global developed-market fund in the Lipper database for that period.",
+    "quality": 0
+}

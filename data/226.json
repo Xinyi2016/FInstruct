@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the performance of MBNF algorithms in the three markets.",
+    "output": "In the three markets, the proposed MBNF model exhibits better performance on seven metrics compared to the baseline and MBPO models. In the Dow market, MBNF outperforms the baseline and MBPO models in annual return, sharpe-ratio, and stability metrics. In the S&P 500 market, the MBNF model has a sharpe-ratio of around 1.03. However, in the NASDAQ market, the performance of the two models is relatively poor, with the baseline getting the best score in maximum drawdown metrics. Nonetheless, the MBNF model still slightly outperforms the baseline in annual return and sharpe ratio index, while the MBPO model does not meet the baseline benchmark in any metric. Additionally, the normalizing flows help the agent make a more stable investment decision with less riskiness, as shown by the maximum drawdown metrics.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a brief summary of the task you have completed.",
+    "output": "I have complemented my international trade dataset with additional datasets on aggregate macroeconomic variables and international trade for a panel of countries. I have used the IMF\u2019s World Economic Outlook definition of Advanced Economies and Emerging Markets to proxy export destination countries\u2019 proxy of level of income and market sophistication. Additionally, I have sourced CPI and nominal exchange rate from the IMF\u2019s IFS dataset to construct measures of bilateral real exchange rates. I have partitioned the sample across different types of goods using two good classifications: (i) Rauch [1999] good classification according to whether goods have reference prices in international markets, and (ii) Bernini et\u00a0al. [2018] good classification according to its degree of differentiation. These good classifications have been used previously in the literature in international economics.",
+    "quality": 0
+}

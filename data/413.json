@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the three types of PIPE transactions based on their timing of commitment.",
+    "output": "There are three types of PIPE transactions based on the timing of their commitment: before, at, and after the business combination. The sponsor can invite PIPE investors before the SPAC IPO to commit to making certain investments in connection with the business combination. The PIPE transactions formed at the time of the IPO, but before a target is identified, are called forward purchase agreements; henceforth, PIPE (pre). The second type of PIPE transaction is the one announced along with the news about the business combination; henceforth, PIPE (at). The third type of PIPE transaction occurs after the target is announced but before the merger is completed; henceforth PIPE (post).",
+    "quality": 0
+}

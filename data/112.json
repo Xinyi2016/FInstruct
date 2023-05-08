@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of wage inequality and its drivers.",
+    "output": "Wage inequality refers to the unequal distribution of wages among workers in the labor market. It is an important research agenda in public and labor economics as it has significant implications for income distribution and social welfare. Previous research has found that firm wage-setting policies influence wage inequality. One potential driver of wage inequality is firm coarse wage-setting, which can affect wage dispersion among new hires. The direction of the effect is ambiguous, as it can either compress or increase wage inequality depending on the specific circumstances. To assess the impact of firm coarse wage-setting on wage inequality, researchers can estimate equation (1) using outcomes such as the Gini coefficient and ratios between different percentiles of the contracted salary distribution.",
+    "quality": 0
+}

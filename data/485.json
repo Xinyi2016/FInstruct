@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main contributions of the work.",
+    "output": "The main contributions of the work are: 1) The CRRA setting allows for precise theoretical results and accessible sensitivity analysis. 2) The optimal decisions can be very different when the correlation and frictions are ignored. 3) The setting can be seen as a dynamic version of models with stochastic background wealth and insurable multiplicative risk. 4) The work uses DP in a continuous-time model with investment allocation frictions, which is different from the works of Bolton et al. (2019) and Hong et al. (2020).",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the methodology used to truncate the market time-series data.",
+    "output": "The methodology used to truncate the market time-series data involved monitoring the overall trade frequency of the market. If the trade frequency fell below two trades per 24 hours, the trade closest to the settlement was dropped. This process was repeated until the market either attained the desired average trade frequency or dropped below 25 total trades, in which case the market was dropped from the analysis. No further selection criteria were applied to the market data.",
+    "quality": 0
+}

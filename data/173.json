@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the sampling method used in the research study.",
+    "output": "The research study used a stratified random sampling method to select blocks and villages for the study. The blocks were selected using probability proportion to size (PPS) sampling, where the size was measured by the number of households in the block. The villages were then selected randomly from the selected blocks using PPS sampling, where the size was measured by the number of households in the village. The stratification was based on regional factors and characteristics such as left wing extremism.",
+    "quality": 0
+}

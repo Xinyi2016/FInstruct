@@ -1,0 +1,5 @@
+{
+    "instruction": "Please use the MSCI Total Portfolio Footprinting methodology to calculate the security-level financed emissions for our fixed income portfolio.",
+    "output": "Understood. The MSCI Total Portfolio Footprinting methodology will allow us to estimate the financed emissions associated with our fixed income portfolio for nine asset classes, including the emissions per USD 1 million invested. We will also be able to differentiate between the financed emissions of green and non-green bonds, and calculate emissions at a project level rather than at an issuer level. This will provide us with a more comprehensive understanding of the carbon emissions associated with our portfolio and allow us to make more informed decisions regarding our investments. Please provide us with the necessary information to begin this analysis.",
+    "quality": 0
+}

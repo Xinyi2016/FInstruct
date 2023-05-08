@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main contributions of the paper.",
+    "output": "The paper presents a novel Stackelberg game between a reinsurer and an insurer, which is more realistic than previous models in the literature. The authors analyze the equilibrium of the game and draw economic conclusions, including the impact of discounted safety loading on the reinsurer\u2019s and insurer\u2019s expected utilities. The paper also provides three different ways to determine a reasonable discount and shows that the insurer can significantly reduce its product costs without decreasing its expected utility. The paper highlights the potential cost benefits of using reinsurance in insurance products.",
+    "quality": 0
+}

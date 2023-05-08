@@ -1,0 +1,5 @@
+{
+    "instruction": "Write a summary of the study that investigates the impact of the Covid-19 pandemic on innovation.",
+    "output": "This study used USPTO patent application data to examine the effect of the Covid-19 pandemic on innovation. The results showed that the pandemic had a significant impact on the number of patent applications, with a strong boost in the first year of the pandemic. The growth was found to be at the same order of magnitude as the percentage of patents referencing Covid-19. The study also found that the impact of the pandemic varied by field of technology, with fields such as human necessities and chemistry having a strong performance. Additionally, the study found that the direct Covid-19 relevance was associated with a strong boost to the growth of the number of patent applications, while indirect Covid-19 relevance had no effect.",
+    "quality": 0
+}

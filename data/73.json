@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the main idea behind the proposed financial condition in simple terms.",
+    "output": "The proposed financial condition is a way to simplify the analysis of financial models by making it easier to prove that certain results hold true. It does this by requiring that the reference measure of the model be equivalent to a product measure, which means that none of the future stock prices can become completely impossible given an intermediate state of the prices. This assumption is similar to the \"conditional full support\" assumption used in the theory of transaction costs.",
+    "quality": 0
+}

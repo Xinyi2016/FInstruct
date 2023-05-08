@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the challenges of visualisation in scatter plots and BM graphs.",
+    "output": "Scatter plots have two well-defined axes, but when multiple axes are added within the two-dimensional constraint, the focus shifts to having each observation represented by a set of points on various axes radiating from the center. This creates a challenge of overlapping observations and confusion of which observation is which. In BM graphs, there are no natural axes, and if the reader wants to see each axis, they must color the balls according to the axis value.",
+    "quality": 0
+}

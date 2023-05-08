@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main points of the text.",
+    "output": "The text discusses a hypothesis by Green and Hollifield (1992) that extreme portfolio weights are not solely due to estimation errors but also due to the population optimal portfolios having extreme weights and being poorly diversified. Jagannathan and Ma (2003) and Fan et al. (2012) introduced restricted portfolio policies and Gross Exposure Constraints, respectively, which resulted in better out-of-sample performance. However, the authors of the text propose a robust procedure that achieves desirable properties of weights without any constraints, contradicting the original hypothesis.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide more information on the variation between segments of the corporate bond market regarding total financed emissions?",
+    "output": "According to our analysis using the MSCI Total Portfolio Footprinting solution, there is significant variation between segments of the corporate bond market when it comes to total financed emissions, which includes Scopes 1, 2, and 3. USD high-yield bonds were found to be more emission-intensive than USD investment-grade bonds, indicating that issuers of high-yield bonds may have greater carbon-intensity in their operations. This highlights the importance of conducting thorough due diligence to understand the risk profile of a bond before investing.",
+    "quality": 0
+}

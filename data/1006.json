@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the pure factor performance of the MSCI Global Equity Model over the first quarter. Identify which factor performed the best and which ones experienced a nosedive.",
+    "output": "The pure factor performance of the MSCI Global Equity Model showed that Momentum and low volatility had a nosedive during the first quarter. However, the three value descriptors, book-to-price, earnings yield, and long-term reversal, were the top performers for the quarter. Among these factors, long-term reversal yielded the highest returns.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain what AT1 bonds are and their purpose.",
+    "output": "AT1 bonds, also known as contingent convertibles or coco bonds, are a type of bond designed to absorb losses before a bank becomes insolvent. They were introduced in 2008 and have a direct link to a bank's equity value, ensuring that their write-down risk is captured. While there have only been a few cases where the loss-absorbing mechanism has been triggered, the write-down of Credit Suisse's AT1 bonds is in line with their design and purpose to avoid a bailout funded by taxpayers. Investors earn additional yield to compensate for the risk associated with these bonds.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "How to capture investors\u2019 anticipations through implied volatility measures",
+    "output": "Use implied volatilities that are directly traded mostly by institutional investors (banks and insurance companies) and are traded currency options (over-the-counter market) through the Bloomberg terminal by quoting implied volatilities directly. The advantage of this approach is that one does not need to calculate implied volatilities from option prices while assuming a specific option pricing model; instead, we use quoted implied volatilities directly. In the empirical application, we retrieve already annualized implied volatilities as given by the USD/RUB and EUR/RUB options traded at-the-money (ATM), which have the same delta for a monthly maturity. We use 5\u2212limit-from55-5 -minute data from the UTC timezone. The implied volatility averaged across the 4\u2212limit-from44-4 -hour window is given by the following:",
+    "quality": 1
+}

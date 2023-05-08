@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a summary of the results of the regression analysis.",
+    "output": "The regression analysis shows that Auto-approval has a significant negative effect on the probability of approval when the credit score is under the threshold. The effect is stronger for those who are unemployed and have a business. The effect of Auto-approval is not significant when the credit score is over the threshold. The results also show that credit score has a positive effect on the probability of approval, and being unemployed and male have a negative effect. The mean deviation of the standard approval group is zero in all specifications.",
+    "quality": 1
+}

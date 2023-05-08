@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how the carbon footprint of an index is measured and how improving liquidity affects it based on the results summarized in the exhibit provided.",
+    "output": "The carbon footprint of an index is measured by emission intensity using the Partnership for Carbon Accounting Financials standards. The total emissions are measured as Scopes 1 and 2 (S12) and Scopes 1, 2 and 3 (S123). The exhibit shows that improving liquidity by increasing the minimum size for bonds in the index improved the carbon footprint of the MSCI IG indexes. However, the effect was less significant in the MSCI HY indexes, where the issuance was more homogeneous in terms of size. Selecting firms with larger total bond liability improved the emission profile of the index but also increased concentration in the index. Overall, there was little evidence that improving liquidity worsened the emission profile or interfered with decarbonization targets. In fact, in the USD and EUR IG universes, selecting for bonds with large amounts outstanding improved the emission profile.",
+    "quality": 0
+}

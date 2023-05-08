@@ -1,0 +1,5 @@
+{
+    "instruction": "Based on the information provided, please explain why momentum has historically underperformed during market inflection points.",
+    "output": "According to the chart provided, the MSCI ACWI Momentum Index's active returns have typically underperformed during market inflection points based on the average of the previous five market bottoms. This could be due to the fact that during these periods of market uncertainty and volatility, investors tend to shift their focus towards value stocks and away from growth or momentum stocks. However, it should be noted that despite this historical trend, momentum continued to perform well during the most recent market turnaround, only experiencing a drawdown when low size reversed in June.",
+    "quality": 0
+}

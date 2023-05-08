@@ -1,0 +1,5 @@
+{
+    "instruction": "Create a classifier using the pre-labeled data and pre-trained text embeddings.",
+    "output": "Using the pre-labeled data and pre-trained text embeddings, a classifier can be created to identify ESG relevant articles. The classifier will calculate the pairwise cosine similarity between an article's content and each of the 10 ESG category descriptions, and label the article as relevant if the similarity value is above 0.1. This threshold was chosen based on the distribution of relevant and noise articles, and the assumption that the article set per company was already selected for the keywords relevant to environmental, social and governance issues.",
+    "quality": 0
+}

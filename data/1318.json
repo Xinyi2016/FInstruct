@@ -1,0 +1,5 @@
+{
+    "instruction": "Analyze the exhibit and describe how yield compression impacted the better-performing assets' capital growth.",
+    "output": "Based on the exhibit, yield compression drove the majority of the better-performing assets' capital growth. The best-performing 10% of assets experienced capital growth of around 80%, on average. In the lower-left chart, we can see the yield shift that drove this contribution to capital growth. All slices of the distribution had positive yield impact driven by yields shifting downward, indicated by the green floating bars. The better-performing assets saw a greater downward shift in yields, but from similar or even lower starting yields than the rest of the distribution. This implies that those assets were already relatively low-yielding and were bid down further throughout the year. Therefore, the strong yield compression was not the result of capital flowing to higher-yielding, lower-priced sections of the market, but rather the decrease in yields for all assets, with greater impact on better-performing assets.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an example of how loan-level data can help investors understand the drivers of collateral performance.",
+    "output": "Loan-level data can provide investors with detailed information about the individual loans that make up a collateral pool. This includes data on loan-to-value ratios, debt-to-income ratios, credit scores, and other important metrics. By analyzing this data, investors can gain a better understanding of the risk profile of the collateral pool and identify potential drivers of performance, such as geographic concentration, borrower demographics, or changes in the broader economic environment. This information can help investors make more informed investment decisions and better manage their risk exposure.",
+    "quality": 0
+}

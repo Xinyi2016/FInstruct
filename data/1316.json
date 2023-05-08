@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the heatmaps below and identify the country and property type that had the widest return dispersion among individual assets in 2021.",
+    "output": "Based on the heatmaps, the property type with the widest return dispersion among individual assets in 2021 was industrial in the U.S. This is evident from the significant increase in the interquartile range of individual-asset returns within the industrial sector in the U.S. compared to other countries and property types. While industrial properties outperformed in most countries, their acceleration was accompanied by a widening return dispersion among individual assets, indicating the need for a more careful evaluation of investment opportunities within this property type.",
+    "quality": 0
+}

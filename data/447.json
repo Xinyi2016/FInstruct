@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a detailed description of the GDELT project database and how it is used in this study.",
+    "output": "The GDELT project database is a vast collection of news articles from around the world in multiple languages. It covers various types of news media, including print, web, broadcast, and television. The database is updated every 15 minutes and provides a wide range of news articles from most countries globally. In this study, the GDELT Doc API Client was used to collect a list of the top 250 matching articles for a specific time unit, which was set to one month. The chosen keyword combination for collecting articles included the 10 main themes of the three dimensions of ESG and short and long versions of the company name. The requirement of at least two mentions of the company name in each matching article was also implemented to exclude articles that only mention the company in passing. The resulting dataset contains up to 3,000 articles per year for each company.",
+    "quality": 0
+}

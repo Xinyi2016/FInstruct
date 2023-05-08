@@ -1,0 +1,5 @@
+{
+    "instruction": "Please generate a table summarizing the information provided in the text.",
+    "output": "| Node | Player A (S) | Player B (C) |\n| --- | --- | --- |\n| 1 | 0.34 | 0.66 |\n| 2 | 0.23 | 0.77 |\n| 3 | 0.12 | 0.88 |\n| 4 | 0.01 | 0.99 |\n| 5 | 0.56 | 0.44 |\n| 6 | 0.78 | 0.22 |\n| 7 | 0.43 | 0.57 |\n| 8 | 0.11 | 0.89 |\n| 9 | 0.07 | 0.93 |\n\nNote: The table is based on the information provided in the text and shows the predicted probabilities of playing T at each node by the model, with columns corresponding to the probability that a player is predicted to play T upon reaching that node. Odd nodes refer to Player A\u2019s choices; even nodes refer to Player B\u2019s choices.",
+    "quality": 0
+}

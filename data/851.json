@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain how the Climate VaR scenario-analysis model was used to measure climate risks in the sample portfolio.",
+    "output": "To measure the climate risks in the sample portfolio, we used MSCI ESG Research's Climate Value-at-Risk (Climate VaR) scenario-analysis model. We calculated the potential impact on portfolio valuation based on a scenario consistent with a 2-degree-Celsius temperature rise by 2100, coupled with an 'aggressive' physical risk scenario. The exhibit below provides an overview of the portfolio's Climate VaR, which assumes that the portfolio had USD 100 million in assets. Without risk measurement, there can be no risk management.",
+    "quality": 0
+}

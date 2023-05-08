@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the difference between the weak core and the strong core in the context of the two-sided marriage market problem.",
+    "output": "The weak core consists of matchings wherein no coalition wants to deviate and form a match between themselves that improves the allocation of all the agents in the coalition. The strong core consists of matchings wherein no coalition wants to deviate and form a match between themselves that improves the allocation of at least one agent in the coalition without harming anyone in the coalition. In other words, the weak core focuses on ensuring that no coalition can be better off by deviating from the current matching, while the strong core focuses on ensuring that at least one agent in the coalition can be better off by deviating from the current matching. The difference between the two notions lies in the extent to which agents are willing to sacrifice their own preferences for the benefit of the coalition as a whole.",
+    "quality": 0
+}

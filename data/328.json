@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the reliability of self-reporting data and ESG rating providers in the context of the study.",
+    "output": "The study acknowledges the vexed question of the reliability of self-reporting data and ESG rating providers. However, the extensive error analysis performed in the Supplementary Material (SM2) shows that despite some major, localized inconsistencies, the results are generally unaffected by discrepancies in the reporting source. The reason for the soundness of the analysis lies in the volume of data and variety of sources rather than the reliability of the single assessing/reporting provider. The study did not detect any systematic error that would significantly hamper the analysis more than any random or sporadic error, fraudulent or fortuitous. The study suggests that when the embedding supply chain is negligible, the underlying network is social rather than economic, and the metabolism might be determined by the behavior of employees rather than energy imperatives.",
+    "quality": 0
+}

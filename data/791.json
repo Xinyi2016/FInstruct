@@ -1,0 +1,5 @@
+{
+    "instruction": "As an investor, you want to rebalance your portfolio using the MSCI Global Investable Market Index (GIMI) methodology. Given the current volatility in the markets, how can you balance the competing objectives of market representation and index turnover?",
+    "output": "The MSCI Global Investable Market Index (GIMI) methodology is designed to strike a balance between a timely representation of the investment opportunity set and turnover while also maintaining investability and replicability. In the current volatile market, it is important to consider both objectives when rebalancing your portfolio using the GIMI methodology. You may want to consider adjusting your portfolio over a longer time horizon to minimize the impact of higher turnover on trading costs and index replication. Additionally, you may want to focus on securities with more stable market capitalization and stock liquidity to reduce the impact of changes in company attributes. Ultimately, the key is to balance the need for market representation with the potential costs and risks associated with higher index turnover.",
+    "quality": 0
+}

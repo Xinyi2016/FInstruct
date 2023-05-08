@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the proposed multivariate semi-parametric risk forecasting framework and its benefits in portfolio risk optimization.",
+    "output": "The proposed multivariate semi-parametric risk forecasting framework accounts for the dependence structure among asset returns, without assuming the distribution of returns. This allows for a more accurate and effective portfolio risk optimization, as it can capture complex relationships and patterns in the data. The framework is designed to optimize portfolio Value-at-Risk (VaR) and Expected Shortfall (ES), which are important risk measures for financial institutions and investors. The simulation study conducted on the proposed model shows promising finite sample properties, and the empirical results demonstrate the effectiveness of the proposed framework in portfolio risk optimization, outperforming standard models in the literature.",
+    "quality": 0
+}

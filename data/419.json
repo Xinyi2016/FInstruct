@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the methodology used to obtain the feature importances and explain how the statistical validation procedure was performed.",
+    "output": "The feature importances were obtained using the Gini importance measure, which assigns importance values summing up to 1. A statistical validation procedure was performed by computing null importances, which are the importance values assigned to each variable after its association with the target vector is broken. The null importances were used to compute p-values and a validation threshold of 95% was imposed. Only the statistically validated importances were kept, while the others were set equal to zero. This methodology allows for the recovery of significant correlations between productive sectors and products, as learned by Random Forest in its training procedure.",
+    "quality": 0
+}

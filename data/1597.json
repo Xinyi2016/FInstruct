@@ -1,0 +1,5 @@
+{
+    "instruction": "Please explain the potential impact on prepayment projections and OAS when using the Treasury curve for discounting and mortgage rate projection compared to using the SOFR curve.",
+    "output": "When using the Treasury curve for discounting, but not mortgage rate projection, prepayment projections remain the same as they are still based on forward SOFR rates. However, the OAS is approximately 20 bps tighter, as the Treasury curve is higher than the SOFR curve at the point near the bond\u2019s weighted average life. \n\nOn the other hand, when the mortgage rate projection is also based on the steeper Treasury curve, prepayment speeds are slower due to the higher forward mortgage rate. This results in a wider OAS of 4 bps. \n\nOverall, the transition from LIBOR to SOFR-based risk analytics looks promising, but investors who currently use the Treasury curve as a benchmark may want to investigate the differences in approaches to bond-level analytics with SOFR.",
+    "quality": 0
+}

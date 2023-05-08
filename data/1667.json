@@ -1,0 +1,5 @@
+{
+    "instruction": "Read the article and explain whether higher-value real estate assets outperform lower-value assets.",
+    "output": "The article discusses research conducted using MSCI global real estate dataset, which provides evidence that higher-value assets have historically been more likely to outperform other assets in the same country and sector than lower-priced assets. The research analyzed data from 487,152 annual return observations from 87,723 assets across 24 national markets over a 16-year period in the retail, office and industrial sectors. The analysis controls for difference in location and property type by comparing assets only within the same country and sector. The exhibit in the article shows that fully owned assets in the top capital value quarter for their sector and country had a 53.2% chance of outperforming their country and sector peers overall, compared with 43.5% for a fully owned asset in the bottom quarter. However, the article notes that adding larger assets to a direct real estate portfolio can increase concentration risk and investors should consider diversification across the value spectrum.",
+    "quality": 0
+}

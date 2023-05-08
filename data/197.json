@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize the main findings of the paper.",
+    "output": "The paper finds evidence of decreasing absolute risk aversion (DARA) and increasing relative risk aversion (IRRA) for four different markets (CAC 40, EURO, S&P 500, and STOXX 600) for the period of 2012 to 2022. The paper also finds that the slope of RRA has changed through different time periods, while the slope of ARA has always been decreasing. The paper also introduces a way to measure the differences in portfolio diversification among different utility functions.",
+    "quality": 0
+}

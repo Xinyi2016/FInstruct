@@ -1,0 +1,5 @@
+{
+    "instruction": "Describe the concept of Markov Regime-switching GARCH (MR-GARCH) and its application in volatility forecasting.",
+    "output": "Markov Regime-switching GARCH (MR-GARCH) is a model that combines the Markov decision process with the generalized autoregressive conditionally heteroscedastic (GARCH) model to improve volatility forecasting. The model uses the Hidden Markov Model (HMM) to estimate two regimes with different levels of volatility, and makes forecasts individually on each regime. This approach has been shown to be more effective in out-of-sample prediction compared to single-regime GARCH, which can be overly smooth and high in volatility forecasting. The MR-GARCH model has been extensively explored and has proven to be a convenient multi-period-ahead volatility recursive procedure forecasting.",
+    "quality": 0
+}

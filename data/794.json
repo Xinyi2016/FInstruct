@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the importance of rebalancing market-capitalization-weighted indexes.",
+    "output": "Rebalancing market-capitalization-weighted indexes is crucial as it allows changes to trickle down to derived indexes such as factor or ESG indexes and aims to help avoid tracking error arising from benchmark misalignment. However, significant shifts in equity markets may raise concerns around excess turnover and the likely associated trading cost. MSCI Global Investable Markets Indexes aim to provide sustained and appropriate market representation without significantly higher index turnover. Our analysis showed that the May 2020 index turnover was similar to that seen in the past, even in the face of current market volatility, thanks to the help of implicit and explicitly applied buffers.",
+    "quality": 0
+}

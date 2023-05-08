@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a summary of the incident data collected from Frontex.",
+    "output": "We have collected incident data from Frontex, the European border control agency, which supervises the deployment of aerial and naval assets to patrol the EU\u2019s maritime borders. The data includes incidents that occurred under Operations Hermes, Triton, and Themis from 2014 to 2019, including information on the date of detection, the departure country of the migrants, the number of people involved, the number of deaths, the boat type, and whether the boat was detected inside or outside of Frontex\u2019s operational area. The total number of incidents we received is 4,365, with 1,851 incidents remaining after excluding land-based transportation incidents and incidents with missing information on the number of people on board and the number of vessels involved.",
+    "quality": 1
+}

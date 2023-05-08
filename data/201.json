@@ -1,0 +1,5 @@
+{
+    "instruction": "Generate a summary of the key points discussed in the passage.",
+    "output": "The passage discusses a model that considers the proportion of total betting volumes placed on a particular team to win the match, focusing on stakes placed, winning chances, and betting prices during the next minute after a 1-1 equaliser is scored. The sample includes 612 matches, with 233 having an intermediate scoreline of 1-1. However, if the equaliser is scored late in the match, such as in the 85th minute or later, there is little time left to play and thus the absolute and relative stakes become noisy. Therefore, the sample is limited to observations where the equaliser is scored before the 85th minute, resulting in 212 match observations.",
+    "quality": 1
+}

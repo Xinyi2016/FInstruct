@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the key findings from the review of the MSCI model\u2019s prepayment forecasts.",
+    "output": "The review of the MSCI model\u2019s prepayment forecasts found that the average absolute error was around 0.2 single monthly mortality (SMM), which fell within the acceptance criteria. The model also accurately forecasted the summer refinance peak performances within 0.2 SMM. The forecasts were analyzed along vintage coupon cohorts and using the rank-based method.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the purpose of using the model economy as a laboratory to study the Great Recession and its aftermath.",
+    "output": "The model economy is used as a laboratory to study the Great Recession and its aftermath in order to understand the causes and consequences of the 2008 crisis. By feeding the model economy a sequence of shocks calibrated to match the behavior of aggregate TFP in 2008-2009, researchers can observe the economy's response and determine whether the model can replicate the persistent deviation of output and other aggregates from trend that occurred during the crisis. This allows researchers to test the model's ability to explain the behavior of the economy during the crisis and to evaluate the model's predictions about the economy's response to different shocks.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please review the analysis findings and provide feedback on the proposed 10% trade size for large equity funds.",
+    "output": "Based on our analysis, the proposed 10% trade size may not be suitable for large equity funds. Our comparison with MSCI's RiskMetrics\u00ae LiquidityMetrics\u00ae implementation of the current rules, including security-specific price-impact limits, suggests that all nine of the analyzed funds exceeded the illiquid limit multiple times over the last three years, under both the proposed and current classification approach. We recommend conducting further assessments and considering potential adjustments to the trade size criteria for large equity funds.",
+    "quality": 0
+}

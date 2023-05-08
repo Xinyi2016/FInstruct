@@ -1,0 +1,5 @@
+{
+    "instruction": "Interpret the exhibit below which shows the long-run correlation of each of the 17 private-capital strategies with their corresponding public-market counterpart, based on the MSCI Private Equity Model.",
+    "output": "The exhibit depicts the correlation between the private capital strategies and their corresponding public-market counterpart based on the MSCI Private Equity Model. Unlike other methodologies that use raw returns, this model de-smooths returns which results in higher correlations between private and public markets. This suggests that the use of the MSCI Private Equity Model is more accurate in determining the correlation between private and public markets compared to using raw returns.",
+    "quality": 0
+}

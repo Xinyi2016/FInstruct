@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide an estimate of the potential short-term impact on a global multi-asset-class portfolio based on the given scenario.",
+    "output": "Based on our stress test using MSCI's predictive stress-testing framework, we estimate that a 22% drop in the U.S. equity market in the near term, along with a 90 basis point drop in the 10-year Treasury yield, a 60 basis point widening of U.S. investment-grade credit spreads, and a 200 basis point widening of high-yield credit spreads could have a significant impact on a global multi-asset-class portfolio. However, the exact impact on individual portfolios may vary depending on their specific holdings and allocation strategies.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you provide an analysis on the proportion of leveraged funds and other reportable traders in relation to the MSCI EAFE and MSCI EM Indexes' futures positions, as well as their net-long and net-short positions throughout the years?",
+    "output": "Leveraged funds and other reportable traders make up a relatively lower proportion of the total positions in futures linked to the MSCI EAFE and MSCI EM Indexes. Over the years, leveraged funds have held both net-long and net-short positions, which is in contrast to the net-long-only positions held by asset managers and institutional investors. During the SVB banking crisis, leveraged funds reacted quickly and moved from net short to net long positions on futures linked to the MSCI EM Index, while reducing their net-long futures positions on the MSCI EAFE Index, based on futures positions for the week ending March 7 compared to the week ending March 28.",
+    "quality": 0
+}

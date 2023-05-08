@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the concept of Prospect Theory and Cumulative Prospect Theory.",
+    "output": "Prospect Theory and Cumulative Prospect Theory are behavioral models that attempt to explain how individuals make decisions under uncertainty. Prospect Theory was developed by Daniel Kahneman and Amos Tversky in the 1970s and 1980s, and it builds upon expected utility theory by incorporating psychological insights into how people actually make decisions.\n\nCumulative Prospect Theory (CPT) is a specific version of Prospect Theory that uses a probability weighting function to represent the agent's distortion of perceived probabilities of outcomes. This function is used to compute the subjective utilities from subjective values, which are then used to make decisions.\n\nIn summary, Prospect Theory and Cumulative Prospect Theory are alternative tools to utility theory that aim to better capture the complexities of human decision making, including strategic decision making, adjustments based on framing effects, loss aversion, and probability distortion.",
+    "quality": 0
+}

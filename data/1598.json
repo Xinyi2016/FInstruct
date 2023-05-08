@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the recent progress report on the SOFR transition by the Alternative Reference Rates Committee.",
+    "output": "The recent progress report on the SOFR transition by the Alternative Reference Rates Committee indicates that SOFR-linked linear swaps and nonlinear derivatives have been predominant in the markets. The daily average interdealer outright linear swap risk traded is now dominated by SOFR, representing about 90% of market activity since early 2022. Additionally, Swaptions are almost mostly issued under SOFR, instead of LIBOR. This move away from LIBOR has paved the way for the transition to a unified, SOFR-based valuation benchmark for MBS.",
+    "quality": 0
+}

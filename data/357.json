@@ -1,0 +1,5 @@
+{
+    "instruction": "Summarize incident data sources and their limitations.",
+    "output": "The data sources include Frontex, Watch The Med, Alarm Phone, Broadcast Warnings, M\u00e9decins sans Fronti\u00e8res, and Missing Migrants Project. Frontex data includes boat detections and interceptions, but lacks precise location data and does not include Libyan interceptions. Watch The Med data is largely drawn from calls for help to the Alarm Phone NGO hotline, but calls may be lower during high rescue activity and may only come from boats with satellite phones. Broadcast Warnings include maritime alerts about ships in distress, but only publicly issued requests for help are included and there is no formal information on whether an incident involves migrants. M\u00e9decins sans Fronti\u00e8res data includes records of rescues conducted by MSF ships, but only covers the operations of MSF boats and rescues only occur when MSF boats have been deployed in the region. Missing Migrants Project data includes incidents in which migrants died or went missing, but does not include incidents where everyone survived and sources may be mixed in quality.",
+    "quality": 2
+}

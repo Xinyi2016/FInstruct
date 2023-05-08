@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the role of prepayment-model assumptions in MBS valuation and risk measures.",
+    "output": "Prepayment-model assumptions play a significant role in MBS valuation and risk measures. These assumptions are not entirely determined by historical data and are often based on forward-looking factors such as secular trends in the mortgage industry. Examples of these trends include long-term mortgage primary-secondary spreads and long-term prepayment regimes due to credit policy and technology advancements. These model assumptions are then checked against market views reflected in the price dynamics. The durations of the model are compared to the empirical durations of TBA prices to ensure consistency.",
+    "quality": 0
+}

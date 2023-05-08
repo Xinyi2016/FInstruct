@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the exhibit below.",
+    "output": "The exhibit shows that in backtesting, the AI model produced better forecasts than the human model in terms of prepayment speed. The AI model accurately captured the general relationship between pool attributes like loan size, FICO score, loan-to-value ratios and prepayment speed, and was more accurate in differentiating between low and high-speed buckets. On average, the AI model's absolute error was only 0.1 single monthly mortality (SMM) compared to the human model's 0.3 SMM.",
+    "quality": 0
+}

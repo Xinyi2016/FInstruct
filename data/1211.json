@@ -1,0 +1,5 @@
+{
+    "instruction": "Use the green-spread framework to examine the impact of issuers' environmental performance on market prices for corporate bonds with BBB credit ratings.",
+    "output": "To use the green-spread framework, we will calculate spreads at the five-year maturity node of the yield curve for both ESG leaders and laggards among issuers with BBB credit ratings. We will then aggregate spreads across sectors and calculate the average difference between leaders and laggards. By focusing on the environmental pillar and the carbon-emissions score, we will investigate whether issuers' performance on these criteria has affected market pricing. This will provide valuable insight for fixed-income investors who are increasingly interested in the impact of green investing on market pricing.",
+    "quality": 0
+}

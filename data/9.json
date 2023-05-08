@@ -1,0 +1,5 @@
+{
+    "instruction": "Can you summarize the performance of the MSCI ACWI Index in the first quarter of 2023 and highlight any notable events that occurred during that time?",
+    "output": "In the first quarter of 2023, the MSCI ACWI Index gained over 7.4% and had the second-highest January return in the last 36 years at 7.2%. The strong start to equities was led by high beta, small caps, and pro-cyclical sectors, suggesting that investors were becoming more confident that inflation and economic growth concerns would ease. Additionally, several technology-related thematic indexes posted strong gains, and European markets outperformed global equities from relatively lower valuations. However, on March 10, the collapse of Silicon Valley Bank resulted in a severe selloff of banks worldwide, and U.S. interest rate implied volatility reached a 15-year high on March 16 as measured by the ICE BoAML MOVE index. While the drawdown amongst banks was most acute amongst USA mid-cap banks, the fall and subsequent takeover of Credit Suisse by UBS added to investor concerns.",
+    "quality": 2
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the regression analysis in the notes.",
+    "output": "The regression analysis includes five separate regressions, each with a different index as the dependent variable. The independent variables include standardized questions about financial health, coping with negative shocks, access to resources, Women\u2019s Economic Empowerment (WEE), and self-reported life satisfaction. The regression controls for various demographic characteristics such as gender, education, ethnicity, location, household size, age, and credit score status. The analysis also includes enumerator and week of enrolment fixed effects, and adjusts for multiple hypothesis testing.",
+    "quality": 0
+}

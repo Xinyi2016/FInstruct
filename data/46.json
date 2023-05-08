@@ -1,0 +1,5 @@
+{
+    "instruction": "Explain the difference between a \u201cSupplier - Average\u201d shock and a \u201cCountry - Product\u201d shock.",
+    "output": "A \u201cSupplier - Average\u201d shock refers to an exogenous perturbation that incorporates distinct information about the prices charged by a specific firm, while a \u201cCountry - Product\u201d shock reflects information about the performance and behavior of all firms exporting a product from a particular source country. An example of a \u201cSupplier - Average\u201d shock is the Volkswagen scandal in 2015, where the automobile company had to carry out a massive recall due to environmental forged information. On the other hand, an example of a \u201cCountry - Product\u201d shock is the Argentinean agrarian strike in 2008, where agricultural producers boycotted exports in retaliation to a possible hike in export taxes.",
+    "quality": 0
+}

@@ -1,0 +1,5 @@
+{
+    "instruction": "Fine-tune the pre-trained classifier based on DistilBERT and predict the labels for the whole dataset using the resulting model.",
+    "output": "To fine-tune the pre-trained classifier based on DistilBERT, the DistilBertTokenizer provided by Huggingface is used to tokenize the articles. The tokenized inputs are then fed into the DistilBERT model to derive the embedding vectors using padding in case of too short articles. The last hidden state of the DistilBERT model corresponding to the classifier token 'CLS' is selected as input to the following layers. The derived 2-dimensional vector is further processed by a dense layer of size 265 and a following dropout layer with dropout rate 0.5. The final dense layer of size 2 uses the softmax activation function. This model architecture is inspired by (Sokolov, Mostovoy, Ding & Seco, 2021). We compared it to other architectures by adding, for example, an additional dense layer or a bidirectional LSTM layer between the embedding and the dense layer, however these did not improve the results.",
+    "quality": 0
+}

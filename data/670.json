@@ -1,0 +1,5 @@
+{
+    "instruction": "Please analyze the heatmap below and identify the correlation clusters based on the two dimensions of market development and geographical position.",
+    "output": "Based on the heatmap, one can see clear correlation clusters where markets in similar geographical positions and levels of development tend to move in tandem. For example, North American markets are highly correlated with each other, as are European markets, while Asian markets are primarily correlated within their own respective subclusters. Additionally, developed markets tend to show higher correlation with each other compared to emerging markets, which have lower correlations across regions. Overall, this analysis highlights the impact of geographical proximity and variable economic development on global equity markets.",
+    "quality": 0
+}

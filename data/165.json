@@ -1,0 +1,5 @@
+{
+    "instruction": "Please provide a summary of the sampling method used in the survey.",
+    "output": "The sampling method used in the survey was a combination of simple random sampling and systematic sampling. In villages with less than 100 households, all households were selected for the survey. In villages with more than 100 households, up to 110 households were selected using simple random sampling from the most recent electoral roll. The target was to interview at least 100 households in each village and at most 110 households. If the initial sample did not reach the target sample size, additional households were selected from the remaining households in the village using simple random sampling to reach the target sample size. The final sample included villages with varying proportions of households surveyed, ranging from village censuses to less than 50% of households surveyed.",
+    "quality": 0
+}
